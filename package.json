@@ -1,0 +1,22 @@
+{
+  "name": "furaha-a1",
+  "version": "1.0.0",
+  "description": "Furaha A1 — German A1 learning site (English + Swahili). Static, no backend, no runtime deps.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test \"tests/unit/*.test.js\"",
+    "test:unit": "node --test \"tests/unit/*.test.js\"",
+    "test:browser": "node --test \"tests/browser/*.test.js\"",
+    "serve": "node scripts/serve.mjs"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "playwright": "^1.64.0"
+  }
+}
