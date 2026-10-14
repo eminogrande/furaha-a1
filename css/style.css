@@ -343,7 +343,29 @@ label { font-family: var(--font-ui); font-weight: 600; display: block; margin-bo
 }
 .site-footer p { margin: 0; }
 
+/* ---------- Proverbs ---------- */
+.proverb-card { border-bottom: 1px solid var(--line); padding: 0.9rem 0; }
+.proverb-card:last-child { border-bottom: none; }
+.proverb-head { display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap; justify-content: space-between; }
+.proverb-phrase { font-size: 1.25rem; font-weight: 700; }
+.proverb-type { font-family: var(--font-ui); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--moss); }
+.proverb-type.is-sw { color: var(--accent); }
+.proverb-item { font-family: var(--font-ui); font-size: 0.75rem; color: var(--ink-soft); }
+.proverb-body { margin-top: 0.6rem; }
+.proverb-literal { color: var(--ink-soft); font-size: 0.9rem; }
+.proverb-example { background: var(--ivory-2); border-left: 3px solid var(--moss); padding: 0.6rem 0.8rem; border-radius: 0 var(--radius) var(--radius) 0; margin: 0.6rem 0; font-size: 0.9rem; }
+.proverb-note { font-size: 0.9rem; color: var(--ink-soft); }
+.proverb-source { font-family: var(--font-ui); font-size: 0.85rem; }
+.proverb-source a { color: var(--forest); text-decoration: underline; }
+.proverb-source-note { margin-top: 0.8rem; }
+.audio-preview { margin: 1rem 0; }
+.audio-preview audio { width: 100%; }
+.audio-label { font-family: var(--font-ui); color: var(--moss); margin: 0 0 0.3rem; }
+.audio-transcript { margin-top: 0.5rem; font-size: 0.92rem; }
+.audio-transcript .en, .audio-transcript .sw { color: var(--ink-soft); margin-top: 0.15rem; }
+
 /* ---------- Utilities ---------- */
+
 .stack { display: flex; flex-direction: column; gap: 0.8rem; }
 .row { display: flex; gap: 0.6rem; align-items: center; flex-wrap: wrap; }
 .spacer { flex: 1; }

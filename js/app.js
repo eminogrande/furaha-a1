@@ -6,7 +6,9 @@ import { grammarLessons } from '../data/grammar.js';
 import { readingPassages } from '../data/reading.js';
 import { writingPrompts } from '../data/writing.js';
 import { speakingPrompts } from '../data/speaking.js';
+import { proverbs, PROVERB_SOURCE } from '../data/proverbs.js';
 import { filterVocab, searchVocab } from './vocab.js';
+import { filterProverbs, searchProverbs, buildProverbQuiz } from './proverbs.js';
 import { buildQuiz, QuizSession } from './quiz.js';
 import { countWords } from './wordcount.js';
 import { buildDailyPath, isPathDone } from './studyPath.js';
@@ -67,6 +69,23 @@ const I18N = {
     readingQuestions: 'Questions',
     chooseTopic: 'Choose a topic',
     all: 'All',
+    proverbs: 'Proverbs & sayings',
+    proverbIntro: 'Common German sayings and authentic Swahili proverbs, with meanings in English and Swahili.',
+    proverbEnrich: 'Enrichment material \u2014 beyond the required A1 course; some idioms go above A1 level.',
+    startProverbQuiz: 'Start proverb quiz',
+    germanSaying: 'German saying',
+    swahiliProverb: 'Swahili proverb',
+    germanChip: 'German sayings',
+    swahiliChip: 'Swahili proverbs',
+    proverbMeaning: 'Meaning',
+    proverbLiteral: 'Literal',
+    proverbNote: 'Notes',
+    proverbSource: 'Source',
+    proverbSourceNote: 'Source',
+    audioLabel: 'AI-generated Nuri voice / Sauti ya Nuri iliyotengenezwa kwa AI',
+    audioTranscriptDe: '\u00dcbung macht den Meister. Aller Anfang ist schwer. Eile mit Weile. Schritt f\u00fcr Schritt lerne ich Deutsch.',
+    audioTranscriptEn: 'Practice makes perfect. Every beginning is hard. More haste, less speed. Step by step I learn German.',
+    audioTranscriptSw: 'Kujizoeza huja ustadi. Mwanzo wa kila kitu ni mgumu. Haraka haina baraka. Hatua kwa hatua najifunza Kijerumani.',
   },
   sw: {
     tagline: 'Jifunze Kijerumani A1 — kwa msaada wa Kiingereza na Kiswahili.',
@@ -120,6 +139,23 @@ const I18N = {
     readingQuestions: 'Maswali',
     chooseTopic: 'Chagua mada',
     all: 'Zote',
+    proverbs: 'Methali na misemo',
+    proverbIntro: 'Misemo ya Kijerumani na methali halisi za Kiswahili, na maana kwa Kiingereza na Kiswahili.',
+    proverbEnrich: 'Nyongeza ya kujifunza \u2014 zaidi ya kozi ya A1; baadhi ya misemo ipo juu ya kiwango cha A1.',
+    startProverbQuiz: 'Anza maswali ya methali',
+    germanSaying: 'Misemo ya Kijerumani',
+    swahiliProverb: 'Methali ya Kiswahili',
+    germanChip: 'Misemo ya Kijerumani',
+    swahiliChip: 'Methali za Kiswahili',
+    proverbMeaning: 'Maana',
+    proverbLiteral: 'Tafsiri halisi',
+    proverbNote: 'Maelezo',
+    proverbSource: 'Chanzo',
+    proverbSourceNote: 'Chanzo',
+    audioLabel: 'AI-generated Nuri voice / Sauti ya Nuri iliyotengenezwa kwa AI',
+    audioTranscriptDe: '\u00dcbung macht den Meister. Aller Anfang ist schwer. Eile mit Weile. Schritt f\u00fcr Schritt lerne ich Deutsch.',
+    audioTranscriptEn: 'Practice makes perfect. Every beginning is hard. More haste, less speed. Step by step I learn German.',
+    audioTranscriptSw: 'Kujizoeza huja ustadi. Mwanzo wa kila kitu ni mgumu. Haraka haina baraka. Hatua kwa hatua najifunza Kijerumani.',
   },
 };
 
@@ -141,6 +177,11 @@ const state = {
   writingIndex: 0,
   speakingIndex: 0,
   grammarIndex: 0,
+  proverbType: 'all',
+  proverbQuery: '',
+  proverbShowTr: false,
+  proverbQuizSession: null,
+  proverbQuizQuestions: null,
   pathCompleted: new Set(),
 };
 
@@ -197,6 +238,7 @@ function render() {
     speaking: renderSpeaking,
     progress: renderProgress,
     path: renderPath,
+    proverbs: renderProverbs,
   };
   (views[state.view] || renderHome)();
   app.focus();
@@ -222,6 +264,7 @@ function renderHome() {
     ['reading', t('reading')],
     ['writing', t('writing')],
     ['speaking', t('speaking')],
+    ['proverbs', t('proverbs')],
     ['path', t('dailyPath')],
     ['progress', t('progress')],
   ];
@@ -633,6 +676,164 @@ function confirmReset() {
 function closeModal() {
   modalRoot.hidden = true;
   clear(modalRoot);
+}
+
+// ---------- proverbs ----------
+function startProverbQuiz() {
+  state.proverbQuizQuestions = buildProverbQuiz(proverbs, 8);
+  state.proverbQuizSession = new QuizSession(state.proverbQuizQuestions);
+  render();
+}
+
+function renderProverbs() {
+  const wrap = el('div', { class: 'card' });
+  wrap.appendChild(el('h2', { text: t('proverbs') }));
+  if (state.proverbQuizSession) {
+    renderProverbQuizContent(wrap);
+    app.appendChild(wrap);
+    return;
+  }
+  wrap.appendChild(el('p', { class: 'lead', text: t('proverbIntro') }));
+  wrap.appendChild(el('div', { class: 'notice', text: t('proverbEnrich') }));
+  wrap.appendChild(renderAudioPreview());
+  const search = el('input', {
+    type: 'search', placeholder: t('search'), value: state.proverbQuery,
+    oninput: (e) => { state.proverbQuery = e.target.value; renderList(); },
+  });
+  const chips = el('div', { class: 'topic-chips' }, [
+    el('button', { class: 'chip' + (state.proverbType === 'all' ? ' is-active' : ''), onclick: () => { state.proverbType = 'all'; render(); } }, [t('all')]),
+    el('button', { class: 'chip' + (state.proverbType === 'german' ? ' is-active' : ''), onclick: () => { state.proverbType = 'german'; render(); } }, [t('germanChip')]),
+    el('button', { class: 'chip' + (state.proverbType === 'swahili' ? ' is-active' : ''), onclick: () => { state.proverbType = 'swahili'; render(); } }, [t('swahiliChip')]),
+  ]);
+  const toggle = el('button', {
+    class: 'btn btn--ghost proverb-toggle mb', text: state.proverbShowTr ? t('hideTranslation') : t('showTranslation'),
+    onclick: () => { state.proverbShowTr = !state.proverbShowTr; render(); },
+  });
+  const quizBtn = el('button', { class: 'btn btn--accent mb', text: t('startProverbQuiz'), onclick: startProverbQuiz });
+  const listWrap = el('div', { id: 'proverb-list' });
+  function renderList() {
+    clear(listWrap);
+    let items = filterProverbs(proverbs, state.proverbType);
+    items = searchProverbs(items, state.proverbQuery);
+    if (items.length === 0) {
+      listWrap.appendChild(el('p', { class: 'muted', text: '\u2014' }));
+      return;
+    }
+    for (const p of items) listWrap.appendChild(renderProverbCard(p));
+    if (state.proverbType !== 'german') {
+      listWrap.appendChild(el('p', { class: 'muted small proverb-source-note', text: `${t('proverbSourceNote')}: ${PROVERB_SOURCE.name} (${PROVERB_SOURCE.theme}) \u2014 ${PROVERB_SOURCE.url}` }));
+    }
+  }
+  renderList();
+  wrap.appendChild(search);
+  wrap.appendChild(chips);
+  wrap.appendChild(el('div', { class: 'row' }, [toggle, el('span', { class: 'spacer' }), quizBtn]));
+  wrap.appendChild(listWrap);
+  app.appendChild(wrap);
+}
+
+function renderAudioPreview() {
+  return el('div', { class: 'audio-preview' }, [
+    el('p', { class: 'audio-label small', text: t('audioLabel') }),
+    el('audio', { id: 'proverbs-audio', controls: 'controls', preload: 'none' }, [
+      el('source', { src: 'audio/proverbs-preview.mp3', type: 'audio/mpeg' }),
+    ]),
+    el('div', { class: 'audio-transcript' }, [
+      el('div', { class: 'de', text: t('audioTranscriptDe') }),
+      el('div', { class: 'en', text: t('audioTranscriptEn') }),
+      el('div', { class: 'sw', text: t('audioTranscriptSw') }),
+    ]),
+  ]);
+}
+
+function renderProverbCard(p) {
+  const isSw = p.type === 'swahili';
+  const card = el('article', { class: 'proverb-card' });
+  const head = el('div', { class: 'proverb-head' }, [
+    el('div', { class: 'proverb-phrase', text: p.phrase }),
+    el('span', { class: 'proverb-type' + (isSw ? ' is-sw' : ''), text: isSw ? t('swahiliProverb') : t('germanSaying') }),
+  ]);
+  if (isSw) head.appendChild(el('span', { class: 'proverb-item', text: `${t('proverbSource')} \u00b7 item ${p.item}` }));
+  card.appendChild(head);
+  if (state.proverbShowTr) {
+    const body = el('div', { class: 'proverb-body' });
+    if (isSw) {
+      body.appendChild(el('p', {}, [
+        el('strong', { text: t('proverbMeaning') + ':' }),
+        document.createTextNode(` ${t('germanChip')}: ${p.de} \u00b7 ${t('swahiliChip')}: ${p.en}`),
+      ]));
+    } else {
+      body.appendChild(el('p', {}, [
+        el('strong', { text: t('proverbMeaning') + ':' }),
+        document.createTextNode(` ${p.en} \u00b7 ${p.sw}`),
+      ]));
+    }
+    body.appendChild(el('p', { class: 'proverb-literal', text: `${t('proverbLiteral')}: ${p.literal}` }));
+    if (p.example) {
+      body.appendChild(el('div', { class: 'proverb-example' }, [
+        el('div', { text: p.example.de }),
+        el('div', { class: 'muted small', text: `${p.example.en} \u00b7 ${p.example.sw}` }),
+      ]));
+    }
+    body.appendChild(el('p', { class: 'proverb-note', text: `${t('proverbNote')}: ${p.note.en} \u00b7 ${p.note.sw}` }));
+    if (isSw) {
+      body.appendChild(el('p', { class: 'proverb-source' }, [
+        el('a', { href: p.source, target: '_blank', rel: 'noopener noreferrer', text: `${t('proverbSource')} \u2014 ${p.item}` }),
+      ]));
+    }
+    card.appendChild(body);
+  }
+  return card;
+}
+
+function renderProverbQuizContent(wrap) {
+  const s = state.proverbQuizSession;
+  const q = s.questions[s.answered] || null;
+  if (!q) {
+    wrap.appendChild(el('p', { class: 'lead', text: `${t('score')}: ${s.score} / ${s.total}` }));
+    if (s.mistakes.length > 0) {
+      wrap.appendChild(el('p', { text: `${t('mistakes')}: ${s.mistakes.length}` }));
+      wrap.appendChild(el('button', { class: 'btn btn--block', text: t('retryMistakes'), onclick: () => { state.proverbQuizSession = new QuizSession(s.retryQuiz()); render(); } }));
+    } else {
+      wrap.appendChild(el('p', { class: 'muted', text: t('noMistakes') }));
+    }
+    wrap.appendChild(el('button', { class: 'btn btn--ghost btn--block mt', text: t('newQuiz'), onclick: startProverbQuiz }));
+    wrap.appendChild(el('button', { class: 'btn btn--ghost btn--block mt', text: t('back'), onclick: () => { state.proverbQuizSession = null; render(); } }));
+    return;
+  }
+  wrap.appendChild(el('div', { class: 'quiz-progress', text: `${t('answered')}: ${s.answered} / ${s.total}` }));
+  wrap.appendChild(el('h3', { text: q.prompt }));
+  const list = el('ul', { class: 'option-list' });
+  for (const opt of q.options) {
+    list.appendChild(el('li', {}, [el('button', { class: 'option-btn', text: opt, onclick: () => answerProverbQuiz(q, opt) })]));
+  }
+  wrap.appendChild(list);
+}
+
+function answerProverbQuiz(q, chosen) {
+  const r = state.proverbQuizSession.answer(q, chosen);
+  if (!r) return;
+  const wrap = el('div', { class: 'card' });
+  wrap.appendChild(el('h2', { text: t('proverbs') }));
+  wrap.appendChild(el('div', { class: 'quiz-progress', text: `${t('answered')}: ${state.proverbQuizSession.answered} / ${state.proverbQuizSession.total}` }));
+  wrap.appendChild(el('h3', { text: q.prompt }));
+  const list = el('ul', { class: 'option-list' });
+  for (const opt of q.options) {
+    let cls = 'option-btn';
+    if (opt === q.correct) cls += ' is-correct';
+    else if (opt === chosen) cls += ' is-wrong';
+    list.appendChild(el('li', {}, [el('button', { class: cls, text: opt, disabled: true })]));
+  }
+  wrap.appendChild(list);
+  const fb = el('div', { class: 'feedback ' + (r.correct ? 'feedback--ok' : 'feedback--no') }, [
+    el('strong', { text: r.correct ? '\u2713' : '\u2717' }),
+    el('span', { text: r.explanation }),
+  ]);
+  wrap.appendChild(fb);
+  const nextLabel = state.proverbQuizSession.answered >= state.proverbQuizSession.total ? t('done') : t('next');
+  wrap.appendChild(el('button', { class: 'btn btn--block mt', text: nextLabel, onclick: () => { progress.record('proverbs', 'all'); render(); } }));
+  clear(app);
+  app.appendChild(wrap);
 }
 
 // ---------- init ----------

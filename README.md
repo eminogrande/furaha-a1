@@ -5,8 +5,10 @@ Swahili** support. No login, no backend, no runtime dependencies — pure HTML/C
 that runs anywhere, including GitHub Pages.
 
 > **Important:** This is **original practice material**, not an official Goethe test.
-> It is a 120+ word starter covering the A1 curriculum, not a comprehensive A1 course.
-> There is **no audio** in this version (licensed audio is out of scope).
+> It is a 120+ word starter covering the A1 curriculum, not a comprehensive A1 course,
+> plus an enrichment proverbs section. The only audio is a single German proverb
+> sentence preview in the Proverbs section, narrated with an AI-generated Nuri voice
+> (a plain MP3 in the repo — no licensed/full course audio).
 
 ## Features
 
@@ -28,6 +30,11 @@ that runs anywhere, including GitHub Pages.
 - **Writing** — prompts with a live word counter and model examples. **Honest:**
   there is no automatic grading — you compare your text with the model yourself.
 - **Speaking** — prompts with model answers (no audio).
+- **Proverbs & sayings** — enrichment collection: 18 common German sayings plus 6
+  authentic Swahili proverbs (hurry–patience theme) with clear EN/SW meanings,
+  examples and a meaning-matching quiz with retry. German entries are traditional
+  German sayings; the Swahili entries carry clickable source citations and their German is
+  a translation of the Swahili (never a claimed traditional equivalent).
 - **Daily study path** — a short, deterministic-per-day sequence of activities.
 - **Progress** — saved locally, with a confirmation dialog before reset.
 
@@ -66,11 +73,15 @@ Unit tests cover: vocabulary data integrity (120+ words, 12 topics, articles,
 translations), storage corruption/unavailability handling, quiz generation
 (non-duplicated options, retry), vocab search/filter, word counter, daily study
 path, progress tracking, and content integrity (grammar/reading/writing/speaking).
+Unit tests now also cover the proverbs data (counts, translations, exact source item
+numbers, German-vs-Swahili distinction) plus proverbs search/filter and the meaning quiz.
 
 Browser tests cover: home load, activity cards, vocabulary render + filter +
 search, flashcards, quiz end-to-end, grammar, reading, writing word counter,
-speaking, language switch, progress + reset confirmation, daily path, and the
-Goethe disclaimer.
+speaking, language switch, progress + reset confirmation, daily path, the
+Goethe disclaimer, and the proverbs section (cards, type filter, search, translation
+toggle, clickable Swahili source, audio preview with real MP3 duration + transcript,
+and a full proverb quiz with a retry-mistakes round).
 
 ## Project structure
 
@@ -84,11 +95,14 @@ js/vocab.js           # search/filter
 js/wordcount.js       # word counter
 js/studyPath.js       # daily study path
 js/progress.js        # progress tracking
+js/proverbs.js        # proverbs search/filter + meaning quiz
 data/vocabulary.js    # 120+ words, 12 topics
 data/grammar.js       # 13 grammar lessons
 data/reading.js       # reading passages
 data/writing.js       # writing prompts + models
 data/speaking.js      # speaking prompts + models
+data/proverbs.js      # 18 German sayings + 6 Swahili proverbs (sourced)
+audio/proverbs-preview.mp3 # AI-narrated German proverb preview
 scripts/serve.mjs     # local static server
 tests/unit/*.test.js  # unit tests
 tests/browser/*.test.js # Playwright smoke tests
@@ -97,7 +111,10 @@ tests/browser/*.test.js # Playwright smoke tests
 ## Limitations
 
 - **Not a full A1 course** — this is a 120+ word starter clearly labeled as such.
-- **No audio** — licensed audio is out of scope for this version.
+- **Proverbs are enrichment** — they are practice material beyond the A1 curriculum,
+  some idioms exceed A1 level.
+- **Near-zero audio** — only the single AI-narrated German preview in Proverbs is
+  included; full licensed course audio remains out of scope.
 - **No automatic writing grading** — writing is self-assessed against a model.
 - **Not an official Goethe test** — original practice material only.
 - Progress is stored in `localStorage` and is per-browser; it degrades gracefully
