@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "title": "German A2–C2 Study Guide",
+    "scope": "Study guide and external resources, not complete in-app A2–C2 courses. The practice checks below are short demonstrations of each level, not a full course and not an official exam.",
+    "sources": "CEFR Companion Volume 2020 (Council of Europe), Goethe-Institut exam training pages, DW Learn German, vhs-Lernportal, Goethe-Institut free practice. All links verified live 2026-10-14.",
+    "grammar_note": "The CEFR is a can-do framework, not a grammar syllabus. It does not prescribe grammar topics for any level. The study plans below are original pedagogical proposals informed by official CEFR outcomes and Goethe exam formats — they are not official CEFR grammar requirements, and completing a unit list is not the same as learning a level."
+  },
+  "levels": [
+    {
+      "id": "A2",
+      "name": { "en": "A2 — Waystage (basic user)", "sw": "A2 — Hatua ya kwanza (mtumiaji wa msingi)" },
+      "outcomes": {
+        "reading": { "en": "Read very short, simple texts and find specific, predictable information in everyday material such as menus, timetables and short personal letters.", "sw": "Kusoma maandishi mafupi rahisi na kupata taarifa maalum katika vitu vya kila siku kama menyu, ratiba na barua fupi." },
+        "listening": { "en": "Understand phrases and the most frequent vocabulary about immediate personal needs, and catch the main point of short, clear messages and announcements.", "sw": "Kuelewa vishazi na maneno yanayotumika sana kuhusu mahitaji ya kibinafsi, na kupata wazo kuu la ujumbe mfupi na wa wazi." },
+        "writing": { "en": "Write short, simple notes and messages for immediate needs, and a very simple personal letter such as a thank-you note.", "sw": "Kuandika maelezo na ujumbe mfupi rahisi kwa mahitaji ya haraka, na barua fupi ya kibinafsi kama shukrani." },
+        "speaking": { "en": "Use a series of phrases and sentences to describe in simple terms family, other people, living conditions and work or study background.", "sw": "Kutumia vishazi na sentensi kueleza kwa maneno rahisi familia, watu wengine, mazingira ya kuishi na kazi au masomo." }
+      },
+      "studyPlan": {
+        "note": { "en": "A proposed order of study themes for building A2. This is a plan, not a complete course and not an official CEFR grammar list.", "sw": "Mpangilio uliopendekezwa wa mada za kujifunza A2. Huu ni mpango, si kozi kamili wala orodha rasmi ya sarufi ya CEFR." },
+        "units": [
+          { "en": "Everyday routines and past events (Perfekt, separable verbs)", "sw": "Mazoea ya kila siku na matukio ya zamani (Perfekt, vitenzi vinavyotenganika)" },
+          { "en": "Shopping, prices and comparisons (comparatives, dative case)", "sw": "Ununuzi, bei na ulinganisho (comparatives, dative)" },
+          { "en": "Travel and directions (prepositions, imperative)", "sw": "Usafiri na maelekezo (prepositions, imperative)" },
+          { "en": "Health and appointments (modal verbs, reflexive verbs)", "sw": "Afya na miadi (modal verbs, reflexive verbs)" },
+          { "en": "Work and study background (subclauses weil, dass, wenn)", "sw": "Kazi na masomo (vishazi weil, dass, wenn)" },
+          { "en": "Polite requests and plans (Konjunktiv II politeness, future)", "sw": "Maombi ya adabu na mipango (Konjunktiv II, wakati ujao)" },
+          { "en": "Mini-exam simulation across all four modules", "sw": "Mazoezi ya mtihani mdogo katika moduli zote nne" }
+        ]
+      },
+      "examPractice": [
+        { "title": { "en": "Goethe-Zertifikat A2 exam training", "sw": "Mazoezi ya mtihani wa Goethe-Zertifikat A2" }, "url": "https://www.goethe.de/en/spr/prf/ueb/pa2.html", "note": { "en": "Official free model and practice exercises (PDF + audio) for all modules.", "sw": "Mazoezi rasmi ya bure (PDF + sauti) kwa moduli zote." } }
+      ],
+      "freeCourses": [
+        { "title": { "en": "Nicos Weg A2 (DW)", "sw": "Nicos Weg A2 (DW)" }, "url": "https://learngerman.dw.com/en/nicos-weg/c-36519797", "note": { "en": "Free progressive video course with exercises.", "sw": "Kozi ya bure ya video yenye mazoezi." } },
+        { "title": { "en": "vhs-Lernportal A2–B1 Deutschkurs Beruf", "sw": "vhs-Lernportal A2–B1 Deutschkurs Beruf" }, "url": "https://www.vhs-lernportal.de/wws/kursangebot.php", "note": { "en": "Free vocational German course, no registration.", "sw": "Kozi ya bure ya Kijerumani ya kazi, bila usajili." } },
+        { "title": { "en": "Goethe-Institut: Deutsch für dich", "sw": "Goethe-Institut: Deutsch für dich" }, "url": "https://www.goethe.de/prj/dfd/de/home.cfm", "note": { "en": "Free interactive exercises for all levels.", "sw": "Mazoezi ya bure ya mwingiliano kwa viwango vyote." } }
+      ],
+      "practice": {
+        "situation": { "de": "Sie sind im Supermarkt. Sie möchten Brot und Milch kaufen. Sie fragen: „Was kostet das Brot?“ Die Verkäuferin sagt: „Zwei Euro.“ Sie bezahlen an der Kasse." },
+        "explanation": {
+          "en": "This is a simple everyday shopping exchange. You ask a price, hear the answer, and pay. Key words: kosten (to cost), die Kasse (the checkout), bezahlen (to pay).",
+          "sw": "Huu ni mazungumzo rahisi ya ununuzi. Unauliza bei, unasikia jibu, na unalipa. Maneno muhimu: kosten (kug harimu), die Kasse (mahali pa kulipia), bezahlen (kulipa)."
+        },
+        "questions": [
+          {
+            "prompt": { "en": "What does the customer ask?", "sw": "Mnunuzi anauliza nini?" },
+            "options": [
+              { "de": "Was kostet das Brot?", "en": "What does the bread cost?", "sw": "Mkate unagharimu kiasi gani?" },
+              { "de": "Wo ist die Toilette?", "en": "Where is the toilet?", "sw": "Choo kiko wapi?" },
+              { "de": "Wie spät ist es?", "en": "What time is it?", "sw": "Saa ngapi?" }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — she asks the price of the bread. The other options ask for the toilet and the time.", "sw": "Sahihi — anauliza bei ya mkate. Chaguo zingine zinauliza choo na saa." }
+          },
+          {
+            "prompt": { "en": "How much does the bread cost?", "sw": "Mkate unagharimu kiasi gani?" },
+            "options": [
+              { "de": "Ein Euro.", "en": "One euro.", "sw": "Euro moja." },
+              { "de": "Zwei Euro.", "en": "Two euros.", "sw": "Euro mbili." },
+              { "de": "Zehn Euro.", "en": "Ten euros.", "sw": "Euro kumi." }
+            ],
+            "correctIndex": 1,
+            "feedback": { "en": "Correct — the seller says two euros. One and ten euros are the wrong amounts.", "sw": "Sahihi — muuzaji anasema euro mbili. Euro moja na kumi si sahihi." }
+          },
+          {
+            "prompt": { "en": "What does the customer do at the end?", "sw": "Mnunuzi anafanya nini mwishoni?" },
+            "options": [
+              { "de": "Er bezahlt an der Kasse.", "en": "He pays at the checkout.", "sw": "Analipa mahali pa kulipia." },
+              { "de": "Er geht nach Hause ohne zu bezahlen.", "en": "He goes home without paying.", "sw": "Anaenda nyumbani bila kulipa." },
+              { "de": "Er kauft ein Auto.", "en": "He buys a car.", "sw": "Ananunua gari." }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — he pays at the checkout. Going home without paying or buying a car are not in the text.", "sw": "Sahihi — analipa mahali pa kulipia. Kwenda nyumbani bila kulipa au kununua gari haviko kwenye maandishi." }
+          }
+        ],
+        "writing": {
+          "prompt": { "de": "Schreiben Sie eine kurze Nachricht an einen Freund: Sie kommen heute um 18 Uhr. Bringen Sie Brot mit.", "en": "Write a short message to a friend: you are coming today at 6 pm. Bring bread.", "sw": "Andika ujumbe mfupi kwa rafiki: unakuja leo saa 12 jioni. Lete mkate." },
+          "model": { "de": "Hallo! Ich komme heute um 18 Uhr. Bitte bring Brot mit. Danke! Bis später.", "en": "Hello! I am coming today at 6 pm. Please bring bread. Thanks! See you later.", "sw": "Habari! Ninakuja leo saa 12 jioni. Tafadhali lete mkate. Asante! Tutaonana baadaye." },
+          "selfCheck": { "en": "Did you greet, state the time, make the request, and thank? Keep sentences short and clear.", "sw": "Je, ulisalimu, ukataja saa, ukaomba, na kushukuru? Weka sentensi fupi na wazi." }
+        },
+        "speaking": {
+          "prompt": { "de": "Beschreiben Sie Ihre Familie in 3–4 einfachen Sätzen.", "en": "Describe your family in 3–4 simple sentences.", "sw": "Eleza familia yako kwa sentensi 3–4 rahisi." },
+          "model": { "de": "Meine Familie ist klein. Ich habe einen Bruder und eine Schwester. Meine Mutter arbeitet. Mein Vater kocht gern.", "en": "My family is small. I have one brother and one sister. My mother works. My father likes to cook.", "sw": "Familia yangu ni ndogo. Nina kaka mmoja na dada mmoja. Mama yangu anafanya kazi. Baba yangu anapenda kupika." },
+          "selfCheck": { "en": "Did you use simple sentences with correct word order (verb second)? Did you name family members and an activity?", "sw": "Je, ulitumia sentensi rahisi na mpangilio sahihi wa maneno (kitenzi cha pili)? Je, ulitaja wanafamilia na shughuli?" }
+        }
+      }
+    },
+    {
+      "id": "B1",
+      "name": { "en": "B1 — Threshold (independent user)", "sw": "B1 — Kizingiti (mtumiaji huru)" },
+      "outcomes": {
+        "reading": { "en": "Understand texts made mostly of high-frequency everyday or job-related language, and understand descriptions of events, feelings and wishes in personal letters.", "sw": "Kuelewa maandishi yenye lugha ya kila siku au ya kazi, na kuelewa maelezo ya matukio, hisia na matakwa katika barua za kibinafsi." },
+        "listening": { "en": "Understand the main points of clear standard speech on familiar matters in work, school and leisure, and the main point of many radio and TV programmes when delivery is slow and clear.", "sw": "Kuelewa mawazo makuu ya usemi wazi wa kawaida kuhusu mambo yanayojulikana, na mawazo makuu ya vipindi vingi vya redio na TV wakati usemi ni wa polepole na wazi." },
+        "writing": { "en": "Write simple connected text on familiar topics and personal letters describing experiences and impressions.", "sw": "Kuandika maandishi rahisi yaliyounganishwa kuhusu mada zinazojulikana na barua za kibinafsi zinazoeleza uzoefu." },
+        "speaking": { "en": "Connect phrases to describe experiences and events, briefly give reasons for opinions and plans, and narrate a story or the plot of a book or film.", "sw": "Kuunganisha vishazi kueleza uzoefu na matukio, kutoa sababu fupi za maoni na mipango, na kusimulia hadithi au muhtasari wa kitabu au filamu." }
+      },
+      "studyPlan": {
+        "note": { "en": "A proposed order of study themes for building B1. This is a plan, not a complete course and not an official CEFR grammar list.", "sw": "Mpangilio uliopendekezwa wa mada za kujifunza B1. Huu ni mpango, si kozi kamili wala orodha rasmi ya sarufi ya CEFR." },
+        "units": [
+          { "en": "Narrating past events (Präteritum, Plusquamperfekt)", "sw": "Kusimulia matukio ya zamani (Präteritum, Plusquamperfekt)" },
+          { "en": "Opinions and arguments (Konjunktiv II, two-part connectors)", "sw": "Maoni na hoja (Konjunktiv II, viunganishi vya sehemu mbili)" },
+          { "en": "Passive and formal register (Vorgangspassiv, alternatives)", "sw": "Passive na lugha rasmi (Vorgangspassiv, njia mbadala)" },
+          { "en": "Relative clauses and the genitive case", "sw": "Vishazi vya relative na genitive" },
+          { "en": "Work and job applications (zu-infinitives, formal letters)", "sw": "Kazi na maombi ya kazi (zu-infinitives, barua rasmi)" },
+          { "en": "Current affairs and media (complex subclauses)", "sw": "Habari za sasa na vyombo vya habari (vishazi changamano)" },
+          { "en": "Mini-exam simulation across all four modules", "sw": "Mazoezi ya mtihani mdogo katika moduli zote nne" }
+        ]
+      },
+      "examPractice": [
+        { "title": { "en": "Goethe-Zertifikat B1 exam training", "sw": "Mazoezi ya mtihani wa Goethe-Zertifikat B1" }, "url": "https://www.goethe.de/en/spr/prf/ueb/pb1.html", "note": { "en": "Official free model and practice exercises (PDF + audio) for all modules.", "sw": "Mazoezi rasmi ya bure (PDF + sauti) kwa moduli zote." } }
+      ],
+      "freeCourses": [
+        { "title": { "en": "Nicos Weg B1 (DW)", "sw": "Nicos Weg B1 (DW)" }, "url": "https://learngerman.dw.com/de/nicos-weg/c-36519718", "note": { "en": "Free progressive video course with exercises.", "sw": "Kozi ya bure ya video yenye mazoezi." } },
+        { "title": { "en": "vhs-Lernportal B1-Deutschkurs", "sw": "vhs-Lernportal B1-Deutschkurs" }, "url": "https://www.vhs-lernportal.de/wws/kursangebot.php", "note": { "en": "Free BAMF-recognised course, no registration.", "sw": "Kozi ya bure inayotambuliwa na BAMF, bila usajili." } },
+        { "title": { "en": "Goethe-Institut: Kostenlos Deutsch üben", "sw": "Goethe-Institut: Kostenlos Deutsch üben" }, "url": "https://www.goethe.de/de/spr/ueb.html", "note": { "en": "Free apps, videos, podcasts and games.", "sw": "Programu, video, podcast na michezo ya bure." } }
+      ],
+      "practice": {
+        "situation": { "de": "Sie sind auf einer Party. Ein Kollege fragt: „Was hast du am Wochenende gemacht?“ Sie erzählen: „Ich war am Samstag auf dem Markt. Ich habe Obst gekauft und dann bin ich nach Hause gegangen. Am Sonntag habe ich einen Film gesehen.“" },
+        "explanation": {
+          "en": "This is a casual conversation about the weekend. You use the past tense (Perfekt) to narrate events: war (was), habe gekauft (bought), bin gegangen (went), habe gesehen (watched).",
+          "sw": "Huu ni mazungumzo ya kawaida kuhusu wikendi. Unatumia wakati uliopita (Perfekt) kusimulia matukio: war (nilikuwa), habe gekauft (nimenunua), bin gegangen (nimeenda), habe gesehen (nimeona)."
+        },
+        "questions": [
+          {
+            "prompt": { "en": "What did the person do on Saturday?", "sw": "Mtu alifanya nini Jumamosi?" },
+            "options": [
+              { "de": "Er war auf dem Markt und hat Obst gekauft.", "en": "He was at the market and bought fruit.", "sw": "Alikuwa sokoni na alinunua matunda." },
+              { "de": "Er hat einen Film gesehen.", "en": "He watched a film.", "sw": "Aliangalia filamu." },
+              { "de": "Er ist zur Arbeit gegangen.", "en": "He went to work.", "sw": "Alienda kazini." }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — Saturday was the market and fruit. The film was Sunday; work is not mentioned.", "sw": "Sahihi — Jumamosi alikuwa sokoni na matunda. Filamu ilikuwa Jumapili; kazi haijatajwa." }
+          },
+          {
+            "prompt": { "en": "Which tense is used to narrate the weekend?", "sw": "Wakati gani unatumika kusimulia wikendi?" },
+            "options": [
+              { "de": "Perfekt (past)", "en": "Perfekt (past)", "sw": "Perfekt (wakati uliopita)" },
+              { "de": "Futur (future)", "en": "Futur (future)", "sw": "Futur (wakati ujao)" },
+              { "de": "Präsens (present)", "en": "Präsens (present)", "sw": "Präsens (wakati wa sasa)" }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — Perfekt (habe gekauft, bin gegangen) narrates past events. Future and present do not fit the weekend story.", "sw": "Sahihi — Perfekt (habe gekauft, bin gegangen) husimulia matukio ya zamani. Wakati ujao na wa sasa haviendani na hadithi ya wikendi." }
+          },
+          {
+            "prompt": { "en": "What did the person do on Sunday?", "sw": "Mtu alifanya nini Jumapili?" },
+            "options": [
+              { "de": "Er hat einen Film gesehen.", "en": "He watched a film.", "sw": "Aliangalia filamu." },
+              { "de": "Er hat Obst gekauft.", "en": "He bought fruit.", "sw": "Alinunua matunda." },
+              { "de": "Er hat gearbeitet.", "en": "He worked.", "sw": "Alifanya kazi." }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — Sunday was the film. Fruit was Saturday; work is not in the story.", "sw": "Sahihi — Jumapili aliangalia filamu. Matunda yalikuwa Jumamosi; kazi haiko kwenye hadithi." }
+          }
+        ],
+        "writing": {
+          "prompt": { "de": "Schreiben Sie eine E-Mail an einen Freund über Ihr letztes Wochenende (3–4 Sätze).", "en": "Write an email to a friend about your last weekend (3–4 sentences).", "sw": "Andika barua pepe kwa rafiki kuhusu wikendi yako iliyopita (sentensi 3–4)." },
+          "model": { "de": "Hallo! Am Samstag war ich auf dem Markt und habe Obst gekauft. Am Sonntag habe ich einen Film gesehen. Es war ein schönes Wochenende. Bis bald!", "en": "Hello! On Saturday I was at the market and bought fruit. On Sunday I watched a film. It was a nice weekend. See you soon!", "sw": "Habari! Jumamosi nilikuwa sokoni na nikanunua matunda. Jumapili niliangalia filamu. Ilikuwa wikendi nzuri. Tutaonana!" },
+          "selfCheck": { "en": "Did you use the past tense (Perfekt) and connect events with time words (am Samstag, am Sonntag)?", "sw": "Je, ulitumia wakati uliopita (Perfekt) na kuunganisha matukio kwa maneno ya wakati (am Samstag, am Sonntag)?" }
+        },
+        "speaking": {
+          "prompt": { "de": "Erzählen Sie kurz, was Sie am Wochenende gemacht haben.", "en": "Briefly tell what you did at the weekend.", "sw": "Eleza kwa ufupi ulichofanya wikendi." },
+          "model": { "de": "Am Samstag bin ich früh aufgestanden. Ich habe Kaffee getrunken und bin dann auf den Markt gegangen. Am Abend habe ich mit Freunden gegessen.", "en": "On Saturday I got up early. I drank coffee and then went to the market. In the evening I ate with friends.", "sw": "Jumamosi niliamka mapema. Nilikunywa kahawa kisha nikaenda sokoni. Jioni nilikula na marafiki." },
+          "selfCheck": { "en": "Did you narrate in the past with clear time markers and connect your sentences?", "sw": "Je, ulisimulia kwa wakati uliopita na viashiria wazi vya wakati na kuunganisha sentensi?" }
+        }
+      }
+    },
+    {
+      "id": "B2",
+      "name": { "en": "B2 — Vantage (independent user)", "sw": "B2 — Vantage (mtumiaji huru)" },
+      "outcomes": {
+        "reading": { "en": "Read articles and reports on contemporary problems where writers take particular attitudes or viewpoints, and understand contemporary literary prose.", "sw": "Kusoma makala na ripoti kuhusu matatizo ya kisasa ambapo waandishi wana maoni maalum, na kuelewa nathari ya kisasa." },
+        "listening": { "en": "Understand extended speech and lectures and follow complex lines of argument on familiar topics, and understand most TV news and films in standard dialect.", "sw": "Kuelewa usemi mrefu na mihadhara na kufuata hoja changamano kuhusu mada zinazojulikana, na kuelewa habari nyingi za TV na filamu kwa lahaja ya kawaida." },
+        "writing": { "en": "Write clear, detailed text on a wide range of subjects, an essay or report giving reasons for or against a point of view, and letters highlighting the personal significance of events.", "sw": "Kuandika maandishi wazi na ya kina kuhusu mada nyingi, insha au ripoti inayotoa sababu za au dhidi ya maoni, na barua zinazoangazia umuhimu wa matukio." },
+        "speaking": { "en": "Present clear, detailed descriptions on a wide range of subjects and explain a viewpoint on a topical issue, giving advantages and disadvantages of options.", "sw": "Kuwasilisha maelezo wazi na ya kina kuhusu mada nyingi na kueleza maoni kuhusu suala la sasa, kwa kutoa faida na hasara za chaguo." }
+      },
+      "studyPlan": {
+        "note": { "en": "A proposed order of study themes for building B2. This is a plan, not a complete course and not an official CEFR grammar list.", "sw": "Mpangilio uliopendekezwa wa mada za kujifunza B2. Huu ni mpango, si kozi kamili wala orodha rasmi ya sarufi ya CEFR." },
+        "units": [
+          { "en": "Complex argumentation (Konjunktiv I indirect speech, subjective modal verbs)", "sw": "Hoja changamano (Konjunktiv I, modal verbs za subjektive)" },
+          { "en": "Nominal style and nominalization (Nominalisierung, Funktionsverbgefüge)", "sw": "Mtindo wa nomino na nominalization" },
+          { "en": "Passive across tenses and alternatives", "sw": "Passive katika nyakati zote na njia mbadala" },
+          { "en": "Extended subclauses and connectors (temporal, causal, consecutive, modal)", "sw": "Vishazi virefu na viunganishi (temporal, causal, consecutive, modal)" },
+          { "en": "Formal writing: forum post and professional message", "sw": "Uandishi rasmi: ujumbe wa jukwaa na ujumbe wa kitaaluma" },
+          { "en": "Presentations and discussions (Vortrag, Pro-und-Kontra)", "sw": "Mawasilisho na mijadala (Vortrag, Pro-und-Kontra)" },
+          { "en": "Mini-exam simulation across all four modules", "sw": "Mazoezi ya mtihani mdogo katika moduli zote nne" }
+        ]
+      },
+      "examPractice": [
+        { "title": { "en": "Goethe-Zertifikat B2 exam training", "sw": "Mazoezi ya mtihani wa Goethe-Zertifikat B2" }, "url": "https://www.goethe.de/en/spr/prf/ueb/pb2.html", "note": { "en": "Official free model and practice exercises (PDF + audio) for all modules.", "sw": "Mazoezi rasmi ya bure (PDF + sauti) kwa moduli zote." } }
+      ],
+      "freeCourses": [
+        { "title": { "en": "Jojo sucht das Glück (DW, B1–B2)", "sw": "Jojo sucht das Glück (DW, B1–B2)" }, "url": "https://learngerman.dw.com/de/jojo-sucht-das-gl%C3%BCck/c-53437698", "note": { "en": "Free telenovela series with exercises.", "sw": "Mfululizo wa bure wa telenovela wenye mazoezi." } },
+        { "title": { "en": "Video-Thema (DW, B2)", "sw": "Video-Thema (DW, B2)" }, "url": "https://learngerman.dw.com/de/video-thema/s-55861568", "note": { "en": "Weekly video reports on society and politics with exercises.", "sw": "Ripoti za video za kila wiki kuhusu jamii na siasa zenye mazoezi." } },
+        { "title": { "en": "vhs-Lernportal B2-Deutschkurs Beruf", "sw": "vhs-Lernportal B2-Deutschkurs Beruf" }, "url": "https://www.vhs-lernportal.de/wws/kursangebot.php", "note": { "en": "Free vocational German course.", "sw": "Kozi ya bure ya Kijerumani ya kazi." } }
+      ],
+      "practice": {
+        "situation": { "de": "In einem Forum diskutieren Leute: „Sollten Städte mehr Fahrradwege bauen?“ Eine Person schreibt: „Ich bin dafür. Fahrradwege sind gut für die Umwelt und die Gesundheit. Aber sie kosten Geld und brauchen Platz. Trotzdem denke ich, der Nutzen ist größer als die Kosten.“" },
+        "explanation": {
+          "en": "This is a forum discussion where the writer gives an opinion and weighs advantages and disadvantages. Key structures: dafür sein (to be in favour), aber (but), trotzdem (nevertheless), der Nutzen ist größer als die Kosten (the benefit is greater than the cost).",
+          "sw": "Huu ni mjadala wa jukwaa ambapo mwandishi anatoa maoni na kupima faida na hasara. Miundo muhimu: dafür sein (kuunga mkono), aber (lakini), trotzdem (hata hivyo), der Nutzen ist größer als die Kosten (faida ni kubwa kuliko gharama)."
+        },
+        "questions": [
+          {
+            "prompt": { "en": "What is the writer's overall position?", "sw": "Msimamo wa mwandishi kwa ujumla ni upi?" },
+            "options": [
+              { "de": "Er ist dafür, mehr Fahrradwege zu bauen.", "en": "He is in favour of building more bike paths.", "sw": "Anaunga mkono kujenga njia zaidi za baiskeli." },
+              { "de": "Er ist dagegen, weil sie zu teuer sind.", "en": "He is against it because they are too expensive.", "sw": "Anapinga kwa sababu ni ghali sana." },
+              { "de": "Er hat keine Meinung.", "en": "He has no opinion.", "sw": "Hana maoni." }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — he is in favour, though he acknowledges costs. He is not against it and he clearly has an opinion.", "sw": "Sahihi — anaunga mkono, ingawa anakubali gharama. Hapingi na ana maoni wazi." }
+          },
+          {
+            "prompt": { "en": "Which two advantages does the writer mention?", "sw": "Mwandishi anataja faida gani mbili?" },
+            "options": [
+              { "de": "Umwelt und Gesundheit.", "en": "Environment and health.", "sw": "Mazingira na afya." },
+              { "de": "Geld und Platz.", "en": "Money and space.", "sw": "Pesa na nafasi." },
+              { "de": "Schnelligkeit und Komfort.", "en": "Speed and comfort.", "sw": "Kasi na starehe." }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — the environment and health are the advantages. Money and space are the costs he mentions.", "sw": "Sahihi — mazingira na afya ni faida. Pesa na nafasi ni gharama anazotaja." }
+          },
+          {
+            "prompt": { "en": "What is the writer's conclusion?", "sw": "Hitimisho la mwandishi ni lipi?" },
+            "options": [
+              { "de": "Der Nutzen ist größer als die Kosten.", "en": "The benefit is greater than the cost.", "sw": "Faida ni kubwa kuliko gharama." },
+              { "de": "Die Kosten sind zu hoch.", "en": "The costs are too high.", "sw": "Gharama ni kubwa sana." },
+              { "de": "Fahrradwege sind unnötig.", "en": "Bike paths are unnecessary.", "sw": "Njia za baiskeli si muhimu." }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — he concludes the benefit outweighs the cost. He does not say costs are too high or that bike paths are unnecessary.", "sw": "Sahihi — anahitimisha faida inazidi gharama. Hasemi gharama ni kubwa sana wala njia za baiskeli si muhimu." }
+          }
+        ],
+        "writing": {
+          "prompt": { "de": "Schreiben Sie einen Forumsbeitrag (4–5 Sätze): Sollten Städte mehr Fahrradwege bauen? Geben Sie Ihre Meinung und ein Argument dafür und eines dagegen.", "en": "Write a forum post (4–5 sentences): Should cities build more bike paths? Give your opinion and one argument for and one against.", "sw": "Andika ujumbe wa jukwaa (sentensi 4–5): Je, miji ipaswe kujenga njia zaidi za baiskeli? Toa maoni yako na hoja moja ya kuunga mkono na moja ya kupinga." },
+          "model": { "de": "Ich bin dafür, mehr Fahrradwege zu bauen. Sie sind gut für die Umwelt und die Gesundheit. Allerdings kosten sie Geld und brauchen Platz. Trotzdem denke ich, der Nutzen ist größer als die Kosten. Deshalb sollten Städte investieren.", "en": "I am in favour of building more bike paths. They are good for the environment and health. However, they cost money and need space. Nevertheless, I think the benefit is greater than the cost. So cities should invest.", "sw": "Naunga mkono kujenga njia zaidi za baiskeli. Ni nzuri kwa mazingira na afya. Hata hivyo, zinagharimu pesa na kuhitaji nafasi. Bado, nafikiri faida ni kubwa kuliko gharama. Kwa hiyo miji ipaswe kuwekeza." },
+          "selfCheck": { "en": "Did you state a clear opinion, give one argument for and one against, and connect them with connectors (allerdings, trotzdem, deshalb)?", "sw": "Je, ulitoa maoni wazi, hoja moja ya kuunga mkono na moja ya kupinga, na kuunganisha kwa viunganishi (allerdings, trotzdem, deshalb)?" }
+        },
+        "speaking": {
+          "prompt": { "de": "Erklären Sie Ihre Meinung zu einem aktuellen Thema und nennen Sie Vor- und Nachteile.", "en": "Explain your opinion on a current topic and name advantages and disadvantages.", "sw": "Eleza maoni yako kuhusu suala la sasa na utaje faida na hasara." },
+          "model": { "de": "Meiner Meinung nach sind Fahrradwege wichtig. Einerseits sind sie gut für die Umwelt. Andererseits kosten sie Geld. Trotzdem überwiegt der Nutzen.", "en": "In my opinion bike paths are important. On the one hand they are good for the environment. On the other hand they cost money. Nevertheless the benefit outweighs it.", "sw": "Kwa maoni yangu njia za baiskeli ni muhimu. Kwa upande mmoja ni nzuri kwa mazingira. Kwa upande mwingine zinagharimu pesa. Hata hivyo faida inazidi." },
+          "selfCheck": { "en": "Did you give a clear opinion and balance advantages and disadvantages with connectors (einerseits, andererseits, trotzdem)?", "sw": "Je, ulitoa maoni wazi na kupima faida na hasara kwa viunganishi (einerseits, andererseits, trotzdem)?" }
+        }
+      }
+    },
+    {
+      "id": "C1",
+      "name": { "en": "C1 — Effective operational proficiency (proficient user)", "sw": "C1 — Ustadi wa kufanya kazi (mtumiaji stadi)" },
+      "outcomes": {
+        "reading": { "en": "Understand long and complex factual and literary texts, appreciating distinctions of style, and understand specialised articles and longer technical instructions even outside your own field.", "sw": "Kuelewa maandishi marefu na changamano ya ukweli na fasihi, kuthamini tofauti za mtindo, na kuelewa makala maalum na maelekezo marefu ya kiufundi hata nje ya fani yako." },
+        "listening": { "en": "Understand extended speech even when not clearly structured and when relationships are only implied, and understand TV programmes and films without much effort.", "sw": "Kuelewa usemi mrefu hata usipokuwa na muundo wazi na wakati mahusiano yanadokezwa tu, na kuelewa vipindi vya TV na filamu bila juhudi nyingi." },
+        "writing": { "en": "Express yourself in clear, well-structured text, writing about complex subjects in a letter, essay or report and selecting a style appropriate to the reader.", "sw": "Kujieleza kwa maandishi wazi na yenye muundo mzuri, kuandika kuhusu mada changamano katika barua, insha au ripoti na kuchagua mtindo unaofaa msomaji." },
+        "speaking": { "en": "Present clear, detailed descriptions of complex subjects, integrating sub-themes and rounding off with an appropriate conclusion.", "sw": "Kuwasilisha maelezo wazi na ya kina kuhusu mada changamano, kujumuisha mada ndogo na kuhitimisha kwa hitimisho linalofaa." }
+      },
+      "studyPlan": {
+        "note": { "en": "A proposed order of study themes for building C1. This is a plan, not a complete course and not an official CEFR grammar list.", "sw": "Mpangilio uliopendekezwa wa mada za kujifunza C1. Huu ni mpango, si kozi kamili wala orodha rasmi ya sarufi ya CEFR." },
+        "units": [
+          { "en": "Reported speech and stance (Konjunktiv I, modal particles)", "sw": "Usemi wa taarifa na msimamo (Konjunktiv I, modal particles)" },
+          { "en": "Nominal style and text grammar (Nominalstil, Funktionsverbgefüge)", "sw": "Mtindo wa nomino na sarufi ya maandishi" },
+          { "en": "Complex sentence structure (multiple subclauses, ellipsis, inversion)", "sw": "Muundo changamano wa sentensi (vishazi vingi, ellipsis, inversion)" },
+          { "en": "Register and style variation (formal vs informal)", "sw": "Tofauti za mtindo na lugha (rasmi dhidi ya isiyo rasmi)" },
+          { "en": "Academic and professional writing (essay, report, formal message)", "sw": "Uandishi wa kitaaluma na kitaalamu (insha, ripoti, ujumbe rasmi)" },
+          { "en": "Presentations and controversial discussion (Vortrag, Pro-und-Kontra)", "sw": "Mawasilisho na mijadala yenye utata (Vortrag, Pro-und-Kontra)" },
+          { "en": "Mini-exam simulation across all four modules", "sw": "Mazoezi ya mtihani mdogo katika moduli zote nne" }
+        ]
+      },
+      "examPractice": [
+        { "title": { "en": "Goethe-Zertifikat C1 exam training", "sw": "Mazoezi ya mtihani wa Goethe-Zertifikat C1" }, "url": "https://www.goethe.de/en/spr/prf/ueb/pc1.html", "note": { "en": "Official free model and practice exercises (PDF + audio) for all modules.", "sw": "Mazoezi rasmi ya bure (PDF + sauti) kwa moduli zote." } }
+      ],
+      "freeCourses": [
+        { "title": { "en": "vhs-Lernportal C1-Deutschkurs Beruf", "sw": "vhs-Lernportal C1-Deutschkurs Beruf" }, "url": "https://www.vhs-lernportal.de/wws/kursangebot.php", "note": { "en": "Free course with about 1300 exercises, no registration.", "sw": "Kozi ya bure yenye mazoezi ~1300, bila usajili." } },
+        { "title": { "en": "Goethe-Institut: Deutsch für dich", "sw": "Goethe-Institut: Deutsch für dich" }, "url": "https://www.goethe.de/prj/dfd/de/home.cfm", "note": { "en": "Free interactive exercises for all levels.", "sw": "Mazoezi ya bure ya mwingiliano kwa viwango vyote." } },
+        { "title": { "en": "Goethe-Institut: Kostenlos Deutsch üben", "sw": "Goethe-Institut: Kostenlos Deutsch üben" }, "url": "https://www.goethe.de/de/spr/ueb.html", "note": { "en": "Free apps, videos, podcasts and games.", "sw": "Programu, video, podcast na michezo ya bure." } }
+      ],
+      "practice": {
+        "situation": { "de": "In einem Interview sagt eine Expertin: „Die Digitalisierung verändert die Arbeitswelt grundlegend. Einerseits ermöglicht sie flexibles Arbeiten. Andererseits führt sie zu mehr Unsicherheit. Manche Berufe verschwinden, andere entstehen neu. Entscheidend ist, dass wir die Menschen weiterbilden.“" },
+        "explanation": {
+          "en": "This is a formal interview where the expert gives a balanced, structured opinion. Key structures: einerseits/andererseits (on the one hand/on the other), entscheidend ist, dass (what matters is that), and abstract nouns like Digitalisierung and Unsicherheit.",
+          "sw": "Huu ni mahojiano rasmi ambapo mtaalamu anatoa maoni yenye usawaziko na muundo. Miundo muhimu: einerseits/andererseits (kwa upande mmoja/kwa upande mwingine), entscheidend ist, dass (muhimu ni kwamba), na nomino za kufikirika kama Digitalisierung na Unsicherheit."
+        },
+        "questions": [
+          {
+            "prompt": { "en": "What is the expert's overall view of digitalisation?", "sw": "Mtazamo wa jumla wa mtaalamu kuhusu digitalization ni upi?" },
+            "options": [
+              { "de": "Sie ist grundlegend und hat Vor- und Nachteile.", "en": "It is fundamental and has advantages and disadvantages.", "sw": "Ni ya msingi na ina faida na hasara." },
+              { "de": "Sie ist nur negativ für die Arbeitswelt.", "en": "It is only negative for the world of work.", "sw": "Ni hasi tu kwa ulimwengu wa kazi." },
+              { "de": "Sie betrifft nur wenige Berufe.", "en": "It affects only a few professions.", "sw": "Inaathiri fani chache tu." }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — she says it is fundamental and gives both advantages and disadvantages. She is not one-sided and says many professions change.", "sw": "Sahihi — anasema ni ya msingi na anatoa faida na hasara. Hana upande mmoja na anasema fani nyingi zinabadilika." }
+          },
+          {
+            "prompt": { "en": "Which advantage does the expert mention?", "sw": "Mtaalamu anataja faida gani?" },
+            "options": [
+              { "de": "Flexibles Arbeiten.", "en": "Flexible working.", "sw": "Kufanya kazi kwa kubadilika." },
+              { "de": "Mehr Sicherheit.", "en": "More security.", "sw": "Usalama zaidi." },
+              { "de": "Weniger Berufe.", "en": "Fewer professions.", "sw": "Fani chache." }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — flexible working is the advantage. She says digitalisation brings more uncertainty, not more security, and that some professions disappear while others emerge.", "sw": "Sahihi — kufanya kazi kwa kubadilika ni faida. Anasema digitalization inaleta kutokuwa na uhakika zaidi, si usalama zaidi, na fani zingine zinatoweka huku zingine zikizuka." }
+          },
+          {
+            "prompt": { "en": "What does the expert say is decisive?", "sw": "Mtaalamu anasema nini ni muhimu?" },
+            "options": [
+              { "de": "Dass wir die Menschen weiterbilden.", "en": "That we train people further.", "sw": "Kwamba tuwape watu mafunzo zaidi." },
+              { "de": "Dass wir die Digitalisierung stoppen.", "en": "That we stop digitalisation.", "sw": "Kwamba tusimamishe digitalization." },
+              { "de": "Dass wir weniger arbeiten.", "en": "That we work less.", "sw": "Kwamba tufanye kazi kidogo." }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — what matters is further training. She does not propose stopping digitalisation or working less.", "sw": "Sahihi — muhimu ni mafunzo zaidi. Hapendekezi kusimamisha digitalization wala kufanya kazi kidogo." }
+          }
+        ],
+        "writing": {
+          "prompt": { "de": "Schreiben Sie einen Forumsbeitrag (5–6 Sätze): Wie verändert die Digitalisierung die Arbeitswelt? Geben Sie eine ausgewogene Meinung.", "en": "Write a forum post (5–6 sentences): How does digitalisation change the world of work? Give a balanced opinion.", "sw": "Andika ujumbe wa jukwaa (sentensi 5–6): Digitalization inabadilishaje ulimwengu wa kazi? Toa maoni yenye usawaziko." },
+          "model": { "de": "Die Digitalisierung verändert die Arbeitswelt grundlegend. Einerseits ermöglicht sie flexibles Arbeiten und neue Berufe. Andererseits führt sie zu mehr Unsicherheit und manche Berufe verschwinden. Entscheidend ist, dass wir die Menschen weiterbilden. Nur so können wir die Chancen nutzen und die Risiken verringern.", "en": "Digitalisation is fundamentally changing the world of work. On the one hand it enables flexible working and new professions. On the other hand it leads to more uncertainty and some professions disappear. What matters is that we train people further. Only then can we use the opportunities and reduce the risks.", "sw": "Digitalization inabadilisha kimsingi ulimwengu wa kazi. Kwa upande mmoja inawezesha kufanya kazi kwa kubadilika na fani mpya. Kwa upande mwingine inaleta kutokuwa na uhakika zaidi na fani zingine zinatoweka. Muhimu ni kwamba tuwape watu mafunzo zaidi. Hapo ndipo tunaweza kutumia fursa na kupunguza hatari." },
+          "selfCheck": { "en": "Did you give a balanced view with einerseits/andererseits, use abstract nouns, and end with a clear conclusion?", "sw": "Je, ulitoa maoni yenye usawaziko kwa einerseits/andererseits, kutumia nomino za kufikirika, na kuhitimisha kwa hitimisho wazi?" }
+        },
+        "speaking": {
+          "prompt": { "de": "Halten Sie eine kurze Präsentation (1–2 Minuten) zu einem komplexen Thema und schließen Sie mit einer Schlussfolgerung.", "en": "Give a short presentation (1–2 minutes) on a complex topic and end with a conclusion.", "sw": "Toa mawasilisho mafupi (dakika 1–2) kuhusu mada changamano na uhitimishe kwa hitimisho." },
+          "model": { "de": "Mein Thema ist die Digitalisierung der Arbeitswelt. Zuerst möchte ich die Vorteile nennen: flexibles Arbeiten und neue Berufe. Danach die Nachteile: mehr Unsicherheit und verschwindende Berufe. Zusammenfassend denke ich, dass Weiterbildung der Schlüssel ist. Deshalb sollten Unternehmen und Staat investieren.", "en": "My topic is the digitalisation of the world of work. First I would like to name the advantages: flexible working and new professions. Then the disadvantages: more uncertainty and disappearing professions. In summary, I think further training is the key. Therefore companies and the state should invest.", "sw": "Mada yangu ni digitalization ya ulimwengu wa kazi. Kwanza ningependa kutaja faida: kufanya kazi kwa kubadilika na fani mpya. Kisha hasara: kutokuwa na uhakika zaidi na fani zinazotoweka. Kwa muhtasari, nafikiri mafunzo zaidi ndio ufunguo. Kwa hiyo makampuni na serikali ziwepo kuwekeza." },
+          "selfCheck": { "en": "Did you structure the presentation (introduction, points, conclusion) and use linking words (zuerst, danach, zusammenfassend, deshalb)?", "sw": "Je, ulipanga mawasilisho (utangulizi, mambo, hitimisho) na kutumia maneno ya kuunganisha (zuerst, danach, zusammenfassend, deshalb)?" }
+        }
+      }
+    },
+    {
+      "id": "C2",
+      "name": { "en": "C2 — Mastery (proficient user)", "sw": "C2 — Ustadi kamili (mtumiaji stadi)" },
+      "outcomes": {
+        "reading": { "en": "Read with ease virtually all forms of the written language, including abstract, structurally or linguistically complex texts such as manuals, specialised articles and literary works.", "sw": "Kusoma kwa urahisi karibu aina zote za lugha iliyoandikwa, ikijumuisha maandishi ya kufikirika, yenye muundo au lugha changamano kama miongozo, makala maalum na kazi za fasihi." },
+        "listening": { "en": "Understand any kind of spoken language, live or broadcast, even at fast native speed, once familiar with the accent.", "sw": "Kuelewa aina yoyote ya lugha inayozungumzwa, moja kwa moja au ya matangazo, hata kwa kasi ya asili, ukishazoea lafudhi." },
+        "writing": { "en": "Write clear, smoothly-flowing text in an appropriate style, complex letters, reports or articles with effective logical structure, and summaries and reviews of professional or literary works.", "sw": "Kuandika maandishi wazi na yanayotiririka kwa mtindo unaofaa, barua, ripoti au makala changamano zenye muundo mzuri wa kimantiki, na muhtasari na tathmini za kazi za kitaalamu au fasihi." },
+        "speaking": { "en": "Take part effortlessly in any conversation or discussion with good familiarity with idiomatic expressions, express yourself fluently and convey finer shades of meaning precisely.", "sw": "Kushiriki kwa urahisi katika mazungumzo au mjadala wowote kwa kufahamu misemo ya kienyeji, kujieleza kwa ufasaha na kuwasilisha maana nyembamba kwa usahihi." }
+      },
+      "studyPlan": {
+        "note": { "en": "A proposed order of study themes for building C2. This is a plan, not a complete course and not an official CEFR grammar list. C2 is largely about stylistic precision, register and idiomatic mastery.", "sw": "Mpangilio uliopendekezwa wa mada za kujifunza C2. Huu ni mpango, si kozi kamili wala orodha rasmi ya sarufi ya CEFR. C2 inahusu usahihi wa mtindo, lugha rasmi na ustadi wa misemo." },
+        "units": [
+          { "en": "Stylistic precision and register mastery", "sw": "Usahihi wa mtindo na ustadi wa lugha rasmi" },
+          { "en": "Idiomatic frames, particles and colloquialisms", "sw": "Misemo, particles na lugha ya mazungumzo" },
+          { "en": "Complex sentence architecture (cleft sentences, Ausklammerung)", "sw": "Muundo changamano wa sentensi (cleft sentences, Ausklammerung)" },
+          { "en": "Academic and literary writing (book review, letter to the editor)", "sw": "Uandishi wa kitaaluma na fasihi (tathmini ya kitabu, barua kwa mhariri)" },
+          { "en": "Mediation and nuanced discussion", "sw": "Upatanishi na mjadala wa kina" },
+          { "en": "Literature-linked writing (per the GDS reading list)", "sw": "Uandishi unaohusishwa na fasihi (kwa orodha ya usomaji ya GDS)" },
+          { "en": "Mini-exam simulation across all four modules", "sw": "Mazoezi ya mtihani mdogo katika moduli zote nne" }
+        ]
+      },
+      "examPractice": [
+        { "title": { "en": "Goethe-Zertifikat C2: Großes Deutsches Sprachdiplom exam training", "sw": "Mazoezi ya mtihani wa Goethe-Zertifikat C2: Großes Deutsches Sprachdiplom" }, "url": "https://www.goethe.de/ins/in/en/spr/prf/ueb/pc2.html", "note": { "en": "Official free model and practice exercises (PDF + audio) and the annual literature list.", "sw": "Mazoezi rasmi ya bure (PDF + sauti) na orodha ya fasihi ya mwaka." } }
+      ],
+      "freeCourses": [
+        { "title": { "en": "Goethe-Institut: Deutsch für dich", "sw": "Goethe-Institut: Deutsch für dich" }, "url": "https://www.goethe.de/prj/dfd/de/home.cfm", "note": { "en": "Free interactive exercises for all levels.", "sw": "Mazoezi ya bure ya mwingiliano kwa viwango vyote." } },
+        { "title": { "en": "Goethe-Institut: Kostenlos Deutsch üben", "sw": "Goethe-Institut: Kostenlos Deutsch üben" }, "url": "https://www.goethe.de/de/spr/ueb.html", "note": { "en": "Free apps, videos, podcasts and games.", "sw": "Programu, video, podcast na michezo ya bure." } },
+        { "title": { "en": "CEFR Companion Volume 2020 (Council of Europe)", "sw": "CEFR Companion Volume 2020 (Baraza la Ulaya)" }, "url": "https://rm.coe.int/cefr-companion-volume-with-new-descriptors-2020/16809ea0d4", "note": { "en": "Official CEFR descriptors for reference.", "sw": "Vielelezo rasmi vya CEFR kwa marejeo." } }
+      ],
+      "practice": {
+        "situation": { "de": "In einer Debatte über Globalisierung sagt ein Redner: „Die Globalisierung ist weder ein Segen noch ein Fluch. Sie ist ein Werkzeug. Ob sie uns nützt oder schadet, hängt davon ab, wie wir sie gestalten. Wer sie pauschal verdammt, übersieht ihre Chancen. Wer sie blind preist, verkennt ihre Risiken.“" },
+        "explanation": {
+          "en": "This is a nuanced, balanced argument at a high level. Key structures: weder … noch (neither … nor), ob … hängt davon ab (whether … depends on), pauschal verdammen (to condemn wholesale), blind preisen (to praise blindly), verkennt (fails to recognise).",
+          "sw": "Huu ni mjadala wa kina na wenye usawaziko katika kiwango cha juu. Miundo muhimu: weder … noch (wala … wala), ob … hängt davon ab (ikiwa … inategemea), pauschal verdammen (kulaani kwa jumla), blind preisen (kusifu kwa upofu), verkennt (kushindwa kutambua)."
+        },
+        "questions": [
+          {
+            "prompt": { "en": "How does the speaker describe globalisation?", "sw": "Mzungumzaji anaelezaje utandawazi?" },
+            "options": [
+              { "de": "Als ein Werkzeug, das weder gut noch schlecht ist.", "en": "As a tool that is neither good nor bad.", "sw": "Kama chombo ambacho si kizuri wala kibaya." },
+              { "de": "Als einen reinen Segen.", "en": "As a pure blessing.", "sw": "Kama baraka tupu." },
+              { "de": "Als einen reinen Fluch.", "en": "As a pure curse.", "sw": "Kama laana tupu." }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — he calls it a tool that is neither a blessing nor a curse. He rejects both one-sided views.", "sw": "Sahihi — anakiita chombo ambacho si baraka wala laana. Anakataa maoni yote mawili ya upande mmoja." }
+          },
+          {
+            "prompt": { "en": "What does the outcome depend on, according to the speaker?", "sw": "Kulingana na mzungumzaji, matokeo yanategemea nini?" },
+            "options": [
+              { "de": "Wie wir die Globalisierung gestalten.", "en": "How we shape globalisation.", "sw": "Jinsi tunavyounda utandawazi." },
+              { "de": "Ob die Globalisierung aufhört.", "en": "Whether globalisation stops.", "sw": "Ikiwa utandawazi utaacha." },
+              { "de": "Wie viel Geld wir haben.", "en": "How much money we have.", "sw": "Kiasi gani cha pesa tulicho nacho." }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — it depends on how we shape it. He does not say it should stop or that money is the deciding factor.", "sw": "Sahihi — inategemea jinsi tunavyouunda. Hasemi ipaswe kuacha wala pesa ndio kipengele cha kuamua." }
+          },
+          {
+            "prompt": { "en": "What mistake does the speaker warn against?", "sw": "Mzungumzaji anaonya dhidi ya kosa gani?" },
+            "options": [
+              { "de": "Globalisierung pauschal zu verdammen oder blind zu preisen.", "en": "Condemning globalisation wholesale or praising it blindly.", "sw": "Kulaani utandawazi kwa jumla au kusifu kwa upofu." },
+              { "de": "Globalisierung zu ignorieren.", "en": "Ignoring globalisation.", "sw": "Kupuuza utandawazi." },
+              { "de": "Zu viel über Globalisierung zu sprechen.", "en": "Talking too much about globalisation.", "sw": "Kuzungumza sana kuhusu utandawazi." }
+            ],
+            "correctIndex": 0,
+            "feedback": { "en": "Correct — he warns against both wholesale condemnation and blind praise. He does not suggest ignoring it or talking less about it.", "sw": "Sahihi — anaonya dhidi ya kulaani kwa jumla na kusifu kwa upofu. Hapendekezi kuupuuza wala kuzungumza kidogo kuuhusu." }
+          }
+        ],
+        "writing": {
+          "prompt": { "de": "Schreiben Sie einen Kommentar (5–6 Sätze) zur Globalisierung mit einer differenzierten Meinung und einem klaren Fazit.", "en": "Write a comment (5–6 sentences) on globalisation with a nuanced opinion and a clear conclusion.", "sw": "Andika maoni (sentensi 5–6) kuhusu utandawazi kwa maoni ya kina na hitimisho wazi." },
+          "model": { "de": "Die Globalisierung ist weder ein Segen noch ein Fluch, sondern ein Werkzeug. Ob sie uns nützt oder schadet, hängt davon ab, wie wir sie gestalten. Wer sie pauschal verdammt, übersieht ihre Chancen. Wer sie blind preist, verkennt ihre Risiken. Entscheidend ist eine kluge, verantwortungsvolle Politik. Nur so können wir die Vorteile nutzen und die Nachteile begrenzen.", "en": "Globalisation is neither a blessing nor a curse, but a tool. Whether it helps or harms us depends on how we shape it. Whoever condemns it wholesale overlooks its opportunities. Whoever praises it blindly fails to recognise its risks. What matters is a wise, responsible policy. Only then can we use the advantages and limit the disadvantages.", "sw": "Utandawazi si baraka wala laana, bali ni chombo. Ikiwa unatusaidia au kutuathiri inategemea jinsi tunavyouunda. Yeyote anayelaani kwa jumla anapuuza fursa zake. Yeyote anayesifu kwa upofu anashindwa kutambua hatari zake. Muhimu ni sera ya busara na yenye uwajibikaji. Hapo ndipo tunaweza kutumia faida na kupunguza hasara." },
+          "selfCheck": { "en": "Did you give a nuanced view (weder … noch), use complex structures, and end with a clear conclusion?", "sw": "Je, ulitoa maoni ya kina (weder … noch), kutumia miundo changamano, na kuhitimisha kwa hitimisho wazi?" }
+        },
+        "speaking": {
+          "prompt": { "de": "Nehmen Sie an einer Pro-und-Kontra-Diskussion zur Globalisierung teil und vertreten Sie eine differenzierte Position.", "en": "Take part in a pro-and-con discussion on globalisation and hold a nuanced position.", "sw": "Shiriki katika mjadala wa faida na hasara kuhusu utandawazi na ushikilie msimamo wa kina." },
+          "model": { "de": "Ich sehe die Globalisierung differenziert. Einerseits bringt sie wirtschaftliche Chancen und kulturellen Austausch. Andererseits vergrößert sie Ungleichheiten. Entscheidend ist, wie wir sie gestalten. Deshalb plädiere ich für eine verantwortungsvolle Politik, die die Vorteile nutzt und die Risiken begrenzt.", "en": "I see globalisation in a nuanced way. On the one hand it brings economic opportunities and cultural exchange. On the other hand it increases inequalities. What matters is how we shape it. Therefore I argue for a responsible policy that uses the advantages and limits the risks.", "sw": "Ninaona utandawazi kwa njia ya kina. Kwa upande mmoja unaleta fursa za kiuchumi na mabadilishano ya kitamaduni. Kwa upande mwingine unaongeza ukosefu wa usawa. Muhimu ni jinsi tunavyouunda. Kwa hiyo natetea sera ya uwajibikaji inayotumia faida na kupunguza hatari." },
+          "selfCheck": { "en": "Did you hold a nuanced position, balance both sides, and respond to the discussion with clear structure?", "sw": "Je, ulishikilia msimamo wa kina, kupima pande zote mbili, na kujibu mjadala kwa muundo wazi?" }
+        }
+      }
+    }
+  ]
+}

@@ -18,12 +18,13 @@ after(async () => {
 test('home page loads and shows the Furaha A1 brand', async () => {
   await page.goto(BASE);
   await page.waitForSelector('.home-hero h1');
-  const title = await page.textContent('.home-hero h1');
+  const title = await page.textContent('.brand-name');
   assert.equal(title.trim(), 'Furaha A1');
 });
 
 test('home shows all activity cards', async () => {
   await page.goto(BASE);
+  await page.waitForSelector('.activity-card');
   const cards = await page.$$('.activity-card');
   assert.ok(cards.length >= 8, `expected >=8 activities, got ${cards.length}`);
 });
@@ -54,6 +55,8 @@ test('vocabulary search finds a word', async () => {
 test('flashcards flip and navigate', async () => {
   await page.goto(BASE);
   await page.click('.activity-card:has-text("Flashcards")');
+  await page.waitForSelector('.btn:has-text("Start")');
+  await page.click('.btn:has-text("Start")');
   await page.waitForSelector('.flashcard');
   const front = await page.textContent('.fc-front');
   assert.ok(front.trim().length > 0);
@@ -89,12 +92,15 @@ test('grammar view shows lessons and practice', async () => {
   assert.ok(rows >= 3, 'grammar table should have rows');
 });
 
-test('reading view shows passage and questions', async () => {
+test('reading view shows passage then questions after starting the check', async () => {
   await page.goto(BASE);
   await page.click('.activity-card:has-text("Reading")');
   await page.waitForSelector('.passage');
   const passage = await page.textContent('.passage');
   assert.ok(passage.trim().length > 0);
+  // start the check: text is hidden while answering from memory
+  await page.click('.btn:has-text("Start questions")');
+  await page.waitForSelector('.mb p');
   const qs = await page.$$eval('.mb p', (els) => els.length);
   assert.ok(qs >= 3, 'reading should have questions');
 });
@@ -108,12 +114,16 @@ test('writing view has textarea with word counter', async () => {
   assert.ok(count.includes('4'), `expected 4 words, got ${count}`);
 });
 
-test('speaking view shows prompt and model answer', async () => {
+test('speaking view shows prompt and reveals model on demand', async () => {
   await page.goto(BASE);
   await page.click('.activity-card:has-text("Speaking")');
   await page.waitForSelector('.speak-prompt');
   const prompt = await page.textContent('.speak-prompt');
   assert.ok(prompt.trim().length > 0);
+  // model is hidden until deliberate reveal
+  assert.equal(await page.$('.model-box'), null, 'model should be hidden before reveal');
+  await page.click('.btn:has-text("Reveal model")');
+  await page.waitForSelector('.model-box');
   const model = await page.textContent('.model-box');
   assert.ok(model.trim().length > 0);
 });
@@ -146,6 +156,11 @@ test('daily path view renders steps', async () => {
 
 test('footer states it is not an official Goethe test', async () => {
   await page.goto(BASE);
+  // footer is set after async init; wait for it to populate
+  await page.waitForFunction(() => {
+    const el = document.getElementById('footer-note');
+    return el && el.textContent.trim().length > 0;
+  });
   const footer = await page.textContent('#footer-note');
   assert.ok(/Goethe/i.test(footer), 'footer should mention Goethe');
 });

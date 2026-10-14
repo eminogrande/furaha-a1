@@ -1,0 +1,1993 @@
+{
+  "meta": {
+    "title": "Nuri und Furaha — Bilingual Language Curriculum",
+    "languages": [
+      "en",
+      "sw",
+      "de"
+    ],
+    "tracks": [
+      {
+        "id": "german",
+        "label": {
+          "en": "German for Furaha",
+          "sw": "Kijerumani kwa Furaha"
+        },
+        "scope": "CEFR A1 (Start Deutsch 1 exam), level roadmap A1–C2, and German language/history mini-lessons"
+      },
+      {
+        "id": "swahili",
+        "label": {
+          "en": "Swahili for Emin",
+          "sw": "Kiswahili kwa Emin"
+        },
+        "scope": "Graded beginner short lessons and Swahili language/cultural-history mini-lessons"
+      }
+    ],
+    "note": "MCQ options have exactly one correct answer (correctIndex). Lesson bodies are original, sourced text (not copied articles). German appears only as learning content; conversation and instruction are English + Swahili. History lessons explain facts with sourced references and reflect historians' current understanding rather than single-ethnic narratives. This is original educational content created for self-practice; it is NOT an official certificate, exam result, or endorsement by any exam body or institution."
+  },
+  "lessons": [
+    {
+      "id": "sw-beginner-1",
+      "track": "swahili",
+      "type": "language",
+      "title": {
+        "en": "Greetings & Introductions",
+        "sw": "Salamu na kujitambulisha"
+      },
+      "body": {
+        "en": "Start with a smile. In Swahili, 'habari' literally means 'news' (taarifa), so 'Habari gani?' is literally 'What is the news?' — in everyday use it means 'How are you?'. People usually answer with a feeling word such as 'nzuri' (good/fine). To give your name you say 'Jina langu ni …': 'jina' means name, 'langu' means my, and 'ni' is the little linking word meaning 'am/is'. After answering, ask 'Na wewe?' to mean 'And you?'.",
+        "sw": "Anza kwa tabasamu. Katika Kiswahili, 'habari' humaanisha 'taarifa' au 'news'. Kwa hiyo 'Habari gani?' maana yake halisi ni 'Kuna habari gani?' — lakini kwa matumizi ya kila siku inamaanisha 'Ukoje?' (How are you?). Mtu kwa kawaida hujibu kwa neno linaloonyesha hali kama 'nzuri' (sawa, vizuri). Kusema jina lako sema 'Jina langu ni …': 'jina' ni neno lenyewe la jina, 'langu' humaanisha 'changu' (my), na 'ni' ni kijenzi kifupi cha kuunganisha kinachomaanisha 'am/is'. Baada ya kujibu, uliza 'Na wewe?' kumaanisha 'na wewe je?/and you?'."
+      },
+      "phrases": [
+        {
+          "sw": "Jambo!",
+          "en": "Hello! (a friendly greeting)"
+        },
+        {
+          "sw": "Habari gani?",
+          "en": "How are you? (literally: what is the news?)"
+        },
+        {
+          "sw": "Nzuri, asante. Na wewe?",
+          "en": "Fine, thank you. And you?"
+        },
+        {
+          "sw": "Jina langu ni Emin.",
+          "en": "My name is Emin."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "What does 'Habari gani?' mean?",
+            "sw": "'Habari gani?' maana yake ni nini?"
+          },
+          "options": [
+            {
+              "en": "How are you? / (literally) What is the news?",
+              "sw": "Ukoje? / (halisi) Kuna habari gani?"
+            },
+            {
+              "en": "Where are you from?",
+              "sw": "Unatoka wapi?"
+            },
+            {
+              "en": "Goodbye",
+              "sw": "Kwaheri"
+            },
+            {
+              "en": "What time is it?",
+              "sw": "Ni saa ngapi?"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "'Habari' means 'news', so the phrase literally asks 'What is the news?' — a friendly way of asking how someone is.",
+            "sw": "'Habari' humaanisha 'taarifa/news', kwa hiyo maneno hayo yanauliza 'Kuna habari gani?' — namna ya kiungwana ya kuuliza hali ya mtu."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Someone says 'Nzuri, asante.' What did they most likely reply to?",
+            "sw": "Mtu akasema 'Nzuri, asante.' Alijibu swali gani?"
+          },
+          "options": [
+            {
+              "en": "Karibu (Welcome)",
+              "sw": "Karibu"
+            },
+            {
+              "en": "Habari gani? (How are you?)",
+              "sw": "Habari gani?"
+            },
+            {
+              "en": "Kwaheri (Goodbye)",
+              "sw": "Kwaheri"
+            },
+            {
+              "en": "Lala salama (Good night)",
+              "sw": "Lala salama"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "'Nzuri' (fine) is the usual reply to the greeting 'Habari gani?'.",
+            "sw": "'Nzuri' (sawa/vizuri) ni jibu la kawaida kwa salamu 'Habari gani?'."
+          }
+        },
+        {
+          "prompt": {
+            "en": "In 'Jina langu ni Emin', which word means 'my'?",
+            "sw": "Katika 'Jina langu ni Emin', neno gani linamaanisha 'my/yangu'?"
+          },
+          "options": [
+            {
+              "en": "ni",
+              "sw": "ni"
+            },
+            {
+              "en": "we",
+              "sw": "we"
+            },
+            {
+              "en": "langu",
+              "sw": "langu"
+            },
+            {
+              "en": "jina",
+              "sw": "jina"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "'langu' means 'my'. 'jina' is the word for name, and 'ni' is the linking word meaning 'am/is'.",
+            "sw": "'langu' humaanisha 'changu' (my). 'jina' ni neno la jina (name), na 'ni' ni kijenzi cha kuunganisha kinachomaanisha 'am/is'."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Swahili for English speakers (LinguaCommons)",
+          "url": "https://www.linguacommons.com/language-learning/guides/swahili-from-english"
+        },
+        {
+          "title": "Swahili (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Swahili"
+        }
+      ]
+    },
+    {
+      "id": "sw-beginner-2",
+      "track": "swahili",
+      "type": "language",
+      "title": {
+        "en": "Numbers 1 to 10",
+        "sw": "Namba moja hadi kumi"
+      },
+      "body": {
+        "en": "Count: moja (1), mbili (2), tatu (3), nne (4), tano (5), sita (6), saba (7), nane (8), tisa (9), kumi (10). The numbers 1 to 5 can change their form to agree with a noun's class (e.g. 'vitabu vitano' = five books, 'vitano' matching 'vitabu'), but from 6 upward they stay the same. To say your age, use 'Nina miaka …' — literally 'I have (ten) years'.",
+        "sw": "Hesabu: moja (1), mbili (2), tatu (3), nne (4), tano (5), sita (6), saba (7), nane (8), tisa (9), kumi (10). Namba 1 hadi 5 zinaweza kubadilika ili zilingane na ngeli ya nomino (k.m. 'vitabu vitano' = vitabu vitano, ambapo 'vitano' linalingana na ngeli ya 'vitabu'), lakini toka 6 na kuendelea hazibadiliki. Kuongelea umri wako, sema 'Nina miaka …' — humaanisha 'nina miaka kumi' (I am ten years old)."
+      },
+      "phrases": [
+        {
+          "sw": "Moja, mbili, tatu, nne, tano.",
+          "en": "One, two, three, four, five."
+        },
+        {
+          "sw": "Sita, saba, nane, tisa, kumi.",
+          "en": "Six, seven, eight, nine, ten."
+        },
+        {
+          "sw": "Nina vitabu vitano.",
+          "en": "I have five books."
+        },
+        {
+          "sw": "Nina miaka kumi.",
+          "en": "I am ten years old. (literally: I have ten years)"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "What number is 'tano'?",
+            "sw": "'Tano' ni namba ngapi?"
+          },
+          "options": [
+            {
+              "en": "Five",
+              "sw": "Tano"
+            },
+            {
+              "en": "Four",
+              "sw": "Nne"
+            },
+            {
+              "en": "Six",
+              "sw": "Sita"
+            },
+            {
+              "en": "Ten",
+              "sw": "Kumi"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "'tano' means five.",
+            "sw": "'tano' humaanisha tano (five)."
+          }
+        },
+        {
+          "prompt": {
+            "en": "What does 'Nina vitabu vitano' mean?",
+            "sw": "'Nina vitabu vitano' maana yake ni nini?"
+          },
+          "options": [
+            {
+              "en": "The books are small",
+              "sw": "Vitabu ni vidogo"
+            },
+            {
+              "en": "I have five books",
+              "sw": "Nina vitabu vitano"
+            },
+            {
+              "en": "I have four books",
+              "sw": "Nina vitabu vinne"
+            },
+            {
+              "en": "I want five books",
+              "sw": "Nataka vitabu vitano"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "'nina' = I have, 'vitabu' = books, 'vitano' = five (matching the noun class of 'vitabu').",
+            "sw": "'nina' = nina (I have), 'vitabu' = vitabu (books), 'vitano' = vitano vinavyolingana na ngeli ya 'vitabu'."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Which group of numbers never changes its form in Swahili?",
+            "sw": "Ni kundi gani la namba lisilobadilika kwa Kiswahili?"
+          },
+          "options": [
+            {
+              "en": "tatu, nne (three, four)",
+              "sw": "tatu, nne"
+            },
+            {
+              "en": "tano, nne (five, four)",
+              "sw": "tano, nne"
+            },
+            {
+              "en": "sita, saba (six, seven)",
+              "sw": "sita, saba"
+            },
+            {
+              "en": "moja, mbili (one, two)",
+              "sw": "moja, mbili"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "From 6 upward the number words stay the same; only the set 1–5 can change to agree with the noun class.",
+            "sw": "Namba 6 na zaidi hazibadiliki; ni namba 1–5 pekee zinazoweza kubadilika kufuata ngeli ya nomino."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Swahili for English speakers (LinguaCommons)",
+          "url": "https://www.linguacommons.com/language-learning/guides/swahili-from-english"
+        },
+        {
+          "title": "Noun Classes: the Cornerstone of Swahili Grammar (Swahili Grammar Guide)",
+          "url": "https://swahiligrammar.com/noun-classes-the-cornerstone-of-swahili-grammar"
+        }
+      ]
+    },
+    {
+      "id": "sw-beginner-3",
+      "track": "swahili",
+      "type": "language",
+      "title": {
+        "en": "Family & People",
+        "sw": "Familia na watu"
+      },
+      "body": {
+        "en": "Nouns for people use the m-/wa- class: the singular usually starts with 'm-' and the plural with 'wa-'. Examples: mtu → watu (person → people), mtoto → watoto (child → children), mwalimu → walimu (teacher → teachers), mwanafunzi → wanafunzi (student → students). Family words you can use every day: baba (father), mama (mother), kaka (brother), dada (sister).",
+        "sw": "Majina ya watu hutumia ngeli ya m-/wa-: umoja kwa kawaida huanza na 'm-' na wingi na 'wa-'. Mifano: mtu → watu (mtu → watu), mtoto → watoto (mtoto → watoto), mwalimu → walimu (mwalimu → walimu), mwanafunzi → wanafunzi (mwanafunzi → wanafunzi). Maneno ya familia unayoweza kutumia kila siku: baba (baba), mama (mama), kaka (kaka), dada (dada)."
+      },
+      "phrases": [
+        {
+          "sw": "Baba na mama.",
+          "en": "Father and mother."
+        },
+        {
+          "sw": "Mtoto ni nani?",
+          "en": "Who is the child?"
+        },
+        {
+          "sw": "Watoto wanakula.",
+          "en": "The children are eating."
+        },
+        {
+          "sw": "Mwalimu wangu",
+          "en": "my teacher"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "What is the plural of 'mtu' (person)?",
+            "sw": "Umoja 'mtu' — wingi wake ni nini?"
+          },
+          "options": [
+            {
+              "en": "watu",
+              "sw": "watu"
+            },
+            {
+              "en": "watu wa",
+              "sw": "watu wa"
+            },
+            {
+              "en": "matu",
+              "sw": "matu"
+            },
+            {
+              "en": "mtu kwa mtu",
+              "sw": "mtu kwa mtu"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "People-nouns change 'm-' to 'wa-' for the plural: mtu → watu.",
+            "sw": "Majina ya watu hubadilisha 'm-' kuwa 'wa-' kwa wingi: mtu → watu."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Which of these means 'mother'?",
+            "sw": "Katika haya, neno gani linamaanisha 'mother/mama'?"
+          },
+          "options": [
+            {
+              "en": "Sister",
+              "sw": "Dada"
+            },
+            {
+              "en": "Mother",
+              "sw": "Mama"
+            },
+            {
+              "en": "Father",
+              "sw": "Baba"
+            },
+            {
+              "en": "Brother",
+              "sw": "Kaka"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "'mama' means mother; 'baba' is father, 'kaka' brother, 'dada' sister.",
+            "sw": "'mama' humaanisha mother/mama; 'baba' ni father/baba, 'kaka' ni brother/kaka, 'dada' ni sister/dada."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Which prefix makes a people-noun plural (e.g. mtoto → watoto)?",
+            "sw": "Ni kiambishi gani kinachofanya neno la mtu kiwe wingi (k.m. mtoto → watoto)?"
+          },
+          "options": [
+            {
+              "en": "mi-",
+              "sw": "mi-"
+            },
+            {
+              "en": "ji-",
+              "sw": "ji-"
+            },
+            {
+              "en": "wa-",
+              "sw": "wa-"
+            },
+            {
+              "en": "ki-",
+              "sw": "ki-"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "The 'wa-' prefix marks people in the plural (mtoto → watoto).",
+            "sw": "'wa-' ni kiambishi cha wingi kwa watu (mtoto → watoto)."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Swahili for English speakers (LinguaCommons)",
+          "url": "https://www.linguacommons.com/language-learning/guides/swahili-from-english"
+        },
+        {
+          "title": "Noun Classes: the Cornerstone of Swahili Grammar (Swahili Grammar Guide)",
+          "url": "https://swahiligrammar.com/noun-classes-the-cornerstone-of-swahili-grammar"
+        }
+      ]
+    },
+    {
+      "id": "sw-beginner-4",
+      "track": "swahili",
+      "type": "language",
+      "title": {
+        "en": "Verbs & the Present Tense (-na-)",
+        "sw": "Vitendo na wakati wa sasa (-na-)"
+      },
+      "body": {
+        "en": "A Swahili verb is built in a regular order: subject-prefix + tense-marker + verb-root. The subject prefixes for people are ni- (I), u- (you), a- (he/she), tu- (we; also m- for you all and wa- for they). The marker -na- points to the present: 'ninakula' = I am eating, 'unasoma' = you are reading, 'anakwenda' = he/she is going. The name 'Kiswahili' uses the ki- prefix that marks languages.",
+        "sw": "Kitenzi cha Kiswahili hujengwa kwa utaratibu unaofanana: kiambishi cha nafsi + kiashiria cha wakati + shina la kitenzi. Viambishi vya nafsi kwa watu ni ni- (mimi), u- (wewe), a- (yeye), tu- (sisi; pia m- kwa ninyi na wa- kwa wao). Kiashiria -na- kinaonyesha wakati wa sasa: 'ninakula' = ninakula sasa hivi, 'unasoma' = wewe unasoma, 'anakwenda' = yeye anakwenda. Jina 'Kiswahili' linatumia kiambishi ki- kinachotumiwa kwa majina ya lugha."
+      },
+      "phrases": [
+        {
+          "sw": "Ninasoma Kiswahili.",
+          "en": "I am reading / learning Swahili."
+        },
+        {
+          "sw": "Unakula chakula.",
+          "en": "You are eating food."
+        },
+        {
+          "sw": "Anakwenda sokoni.",
+          "en": "He/She is going to the market."
+        },
+        {
+          "sw": "Tunakwenda nyumbani.",
+          "en": "We are going home."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "What does 'unasoma' mean?",
+            "sw": "'Unasoma' maana yake ni nini?"
+          },
+          "options": [
+            {
+              "en": "You are reading",
+              "sw": "Wewe unasoma"
+            },
+            {
+              "en": "I am reading",
+              "sw": "Mimi ninasoma"
+            },
+            {
+              "en": "We are reading",
+              "sw": "Sisi tunasoma"
+            },
+            {
+              "en": "He is reading",
+              "sw": "Yeye anasoma"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "'u-' = you + '-na-' (present) + '-soma' (read): 'you are reading'.",
+            "sw": "'u-' = wewe + '-na-' (wakati sasa) + '-soma' (kusoma): 'wewe unasoma'."
+          }
+        },
+        {
+          "prompt": {
+            "en": "In 'ninakula', what does the marker '-na-' show?",
+            "sw": "Katika 'ninakula', '-na-' kinaonyesha nini?"
+          },
+          "options": [
+            {
+              "en": "A question",
+              "sw": "Swali"
+            },
+            {
+              "en": "Present time (right now)",
+              "sw": "Wakati wa sasa (sasa hivi)"
+            },
+            {
+              "en": "Past time",
+              "sw": "Wakati uliopita"
+            },
+            {
+              "en": "Future time",
+              "sw": "Wakati ujao"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "'-na-' marks the present tense: something happening now.",
+            "sw": "'-na-' ni kiashiria cha wakati wa sasa — kinachotendeka sasa hivi."
+          }
+        },
+        {
+          "prompt": {
+            "en": "In 'tunakwenda nyumbani', the prefix 'tu-' means?",
+            "sw": "Katika 'tunakwenda nyumbani', kiambishi 'tu-' kinamaanisha nini?"
+          },
+          "options": [
+            {
+              "en": "You (singular)",
+              "sw": "Wewe"
+            },
+            {
+              "en": "They",
+              "sw": "Wao"
+            },
+            {
+              "en": "We",
+              "sw": "Sisi"
+            },
+            {
+              "en": "I",
+              "sw": "Mimi"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "'tu-' is the subject prefix for 'we', so 'tunakwenda' = we are going.",
+            "sw": "'tu-' ni kiambishi cha 'sisi', kwa hiyo 'tunakwenda' = sisi tunaenda."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Swahili for English speakers (LinguaCommons)",
+          "url": "https://www.linguacommons.com/language-learning/guides/swahili-from-english"
+        },
+        {
+          "title": "Noun Classes: the Cornerstone of Swahili Grammar (Swahili Grammar Guide)",
+          "url": "https://swahiligrammar.com/noun-classes-the-cornerstone-of-swahili-grammar"
+        }
+      ]
+    },
+    {
+      "id": "sw-beginner-5",
+      "track": "swahili",
+      "type": "language",
+      "title": {
+        "en": "Question Words",
+        "sw": "Maneno ya kuuliza maswali"
+      },
+      "body": {
+        "en": "Useful question words: 'nini?' (what), 'nani?' (who), 'wapi?' (where), 'lini?' (when), 'kwa nini?' (why), 'ngapi?' (how many). To ask 'What is this?' say 'Hii ni nini?' — 'hii' means 'this'. In Swahili a question word often comes at the end of the sentence, unlike English where it usually comes first.",
+        "sw": "Maneno muhimu ya kuuliza maswali: 'nini?' (what/nini), 'nani?' (who/nani), 'wapi?' (where/wapi), 'lini?' (when/lini), 'kwa nini?' (why/kwa nini), 'ngapi?' (how many/ngapi). Kuuliza 'What is this?' sema 'Hii ni nini?' — 'hii' humaanisha 'this/hii'. Katika Kiswahili neno la swali mara nyingi huja mwishoni mwa sentensi, tofauti na Kiingereza ambapo linakuja mwanzoni."
+      },
+      "phrases": [
+        {
+          "sw": "Nini?",
+          "en": "What?"
+        },
+        {
+          "sw": "Nani?",
+          "en": "Who?"
+        },
+        {
+          "sw": "Unaenda wapi?",
+          "en": "Where are you going?"
+        },
+        {
+          "sw": "Hii ni nini?",
+          "en": "What is this?"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "What does 'wapi?' mean?",
+            "sw": "'Wapi?' maana yake ni nini?"
+          },
+          "options": [
+            {
+              "en": "Where?",
+              "sw": "Wapi"
+            },
+            {
+              "en": "When?",
+              "sw": "Lini"
+            },
+            {
+              "en": "Why?",
+              "sw": "Kwa nini"
+            },
+            {
+              "en": "How many?",
+              "sw": "Ngapi"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "'wapi?' asks about a place or location: 'where?'.",
+            "sw": "'wapi?' ni swali la mahali: 'where?'."
+          }
+        },
+        {
+          "prompt": {
+            "en": "'Unaenda wapi?' asks about?",
+            "sw": "'Unaenda wapi?' linauliza kuhusu nini?"
+          },
+          "options": [
+            {
+              "en": "The price",
+              "sw": "Bei"
+            },
+            {
+              "en": "A place / location",
+              "sw": "Mahali"
+            },
+            {
+              "en": "A person's name",
+              "sw": "Jina la mtu"
+            },
+            {
+              "en": "The time",
+              "sw": "Wakati"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "'wapi' asks 'where', so the question asks where you are going.",
+            "sw": "'wapi' huuliza 'where/mahali', kwa hiyo swali ni unaenda wapi."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Which word means 'who?'?",
+            "sw": "Neno gani linamaanisha 'who/nani?'?"
+          },
+          "options": [
+            {
+              "en": "lini",
+              "sw": "lini"
+            },
+            {
+              "en": "ngapi",
+              "sw": "ngapi"
+            },
+            {
+              "en": "nani",
+              "sw": "nani"
+            },
+            {
+              "en": "nini",
+              "sw": "nini"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "'nani?' asks about a person: 'who?'; 'nini' means 'what'.",
+            "sw": "'nani?' ni swali la mtu: 'who/nani?'; 'nini' humaanisha 'what/nini'."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Swahili for English speakers (LinguaCommons)",
+          "url": "https://www.linguacommons.com/language-learning/guides/swahili-from-english"
+        },
+        {
+          "title": "Noun Classes: the Cornerstone of Swahili Grammar (Swahili Grammar Guide)",
+          "url": "https://swahiligrammar.com/noun-classes-the-cornerstone-of-swahili-grammar"
+        }
+      ]
+    },
+    {
+      "id": "sw-beginner-6",
+      "track": "swahili",
+      "type": "language",
+      "title": {
+        "en": "Everyday Expressions & Culture",
+        "sw": "Maneno ya kila siku na utamaduni"
+      },
+      "body": {
+        "en": "These fixed phrases are everywhere in East Africa. 'Asante' means thank you; 'asante sana' = thank you very much. 'Karibu' welcomes someone (welcome / you're welcome). 'Hakuna matata' means 'no worries / no problem'. 'Pole' expresses sympathy when someone is hurt or tired; said twice, 'pole pole' means 'slowly'. Through centuries of coastal trade, Swahili also borrowed many words from Arabic and other Indian Ocean languages — 'asante' is one example.",
+        "sw": "Maneno haya ya kawaida yameenea barani Afrika Mashariki. 'Asante' humaanisha 'thank you/ahsante'; 'asante sana' = 'thank you very much'. 'Karibu' humkaribisha mtu (welcome / you're welcome). 'Hakuna matata' humaanisha 'hakuna tatizo' (no worries / no problem). 'Pole' huonyesha huruma mtu anapoumwa au kuchoka; ikisemwa mara mbili, 'pole pole' humaanisha 'polepole/slowly'. Kwa karne nyingi za biashara ya pwani, Kiswahili kilikopa maneno mengi kutoka Kiarabu na lugha nyingine za Bahari ya Hindi — 'asante' ni mfano mmoja."
+      },
+      "phrases": [
+        {
+          "sw": "Asante sana!",
+          "en": "Thank you very much!"
+        },
+        {
+          "sw": "Karibu nyumbani.",
+          "en": "Welcome home."
+        },
+        {
+          "sw": "Hakuna matata.",
+          "en": "No worries / No problem."
+        },
+        {
+          "sw": "Pole pole.",
+          "en": "Slowly / take it easy."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "What does 'Hakuna matata' mean?",
+            "sw": "'Hakuna matata' maana yake ni nini?"
+          },
+          "options": [
+            {
+              "en": "No worries / No problem",
+              "sw": "Hakuna tatizo"
+            },
+            {
+              "en": "Good morning",
+              "sw": "Habari za asubuhi"
+            },
+            {
+              "en": "Thank you",
+              "sw": "Asante"
+            },
+            {
+              "en": "Goodbye",
+              "sw": "Kwaheri"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "'hakuna' = there is no, 'matata' = problems; together 'no worries / no problem'.",
+            "sw": "'hakuna' = haipo (there is no), 'matata' = shida/matatizo; pamoja maana yake ni 'hakuna tatizo' (no worries)."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Your friend is tired after work. Which word expresses sympathy?",
+            "sw": "Rafiki yako amechoka baada ya kazi. Neno gani linaonyesha huruma?"
+          },
+          "options": [
+            {
+              "en": "Haraka",
+              "sw": "Haraka"
+            },
+            {
+              "en": "Pole",
+              "sw": "Pole"
+            },
+            {
+              "en": "Karibu",
+              "sw": "Karibu"
+            },
+            {
+              "en": "Njema",
+              "sw": "Njema"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "'Pole' is said out of sympathy when someone is hurt, tired or sad.",
+            "sw": "'Pole' husemwa kuonyesha huruma mtu anapoumwa, kuchoka au kuhuzunika."
+          }
+        },
+        {
+          "prompt": {
+            "en": "When is 'Karibu' most often used?",
+            "sw": "'Karibu' hutumika lini hasa?"
+          },
+          "options": [
+            {
+              "en": "When asking the time",
+              "sw": "Kuuliza wakati"
+            },
+            {
+              "en": "When paying for something",
+              "sw": "Kulipa kitu"
+            },
+            {
+              "en": "When welcoming someone",
+              "sw": "Kumkaribisha mtu"
+            },
+            {
+              "en": "When saying goodbye",
+              "sw": "Kuagana"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "'Karibu' welcomes a guest or says 'you're welcome'.",
+            "sw": "'Karibu' humkaribisha mgeni au kumjibu 'you're welcome'."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Swahili for English speakers (LinguaCommons)",
+          "url": "https://www.linguacommons.com/language-learning/guides/swahili-from-english"
+        },
+        {
+          "title": "Swahili (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Swahili"
+        }
+      ]
+    },
+    {
+      "id": "german-level-roadmap",
+      "track": "german",
+      "type": "roadmap",
+      "title": {
+        "en": "Your German path: from A1 to C2",
+        "sw": "Njia yako ya Kijerumani: kutoka A1 hadi C2"
+      },
+      "body": {
+        "en": "German courses and exams are built on six levels of the Common European Framework of Reference for Languages (CEFR): A1, A2, B1, B2, C1, C2. A1–A2 are 'Basic User' (everyday phrases, introduce yourself, simple questions). B1–B2 are 'Independent User' (deal with everyday situations, explain opinions). C1–C2 are 'Proficient User' (use the language flexibly for academic and professional purposes). The Goethe-Institut offers a certificate exam at each level; A1 ('Start Deutsch 1') is the realistic goal for a beginner. These levels describe language ability only — they are not by themselves a residence permit or citizenship. A sensible path after A1 is A2 → B1 → B2 (living and working more independently), then C1 → C2 (academic and professional command), matching the 'can-do' descriptions at each step.",
+        "sw": "Kozi na mitihani ya Kijerumani hujengwa kwenye viwango sita vya Common European Framework (CEFR): A1, A2, B1, B2, C1, C2. A1–A2 ni 'Mtumiaji wa Msingi' (maneno ya kila siku, kujitambulisha, maswali rahisi). B1–B2 ni 'Mtumiaji Aliyejitegemea' (kushughulikia mambo ya kila siku, kueleza maoni). C1–C2 ni 'Mtumiaji Mahiri' (kutumia lugha kwa ari kwa kazi za kitaaluma na kitaalamu). Goethe-Institut hutoa mtihani wa cheti kwa kila ngazi; A1 ('Start Deutsch 1') ndio lengo linalowezekana kwa mwanzilishi. Viwango hivi vinaeleza uwezo wa lugha tu — si kibali cha kukaa wala uraia wenyewe. Njia nzuri baada ya A1 ni A2 → B1 → B2 (kuishi na kufanya kazi kwa uhuru zaidi), kisha C1 → C2 (ufasaha wa kitaaluma), kufuatana na maelezo ya 'can-do' katika kila hatua."
+      },
+      "phrases": [
+        {
+          "de": "Ich lerne Deutsch.",
+          "en": "I am learning German."
+        },
+        {
+          "de": "Was ist das?",
+          "en": "What is that?"
+        },
+        {
+          "de": "Ich heiße Furaha.",
+          "en": "My name is Furaha."
+        },
+        {
+          "de": "Wir üben jeden Tag.",
+          "en": "We practise every day."
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "How many language levels does the CEFR describe (A1–C2)?",
+            "sw": "CEFR inaeleza viwango vingapi vya lugha (A1–C2)?"
+          },
+          "options": [
+            {
+              "en": "Six",
+              "sw": "Sita"
+            },
+            {
+              "en": "Four",
+              "sw": "Nne"
+            },
+            {
+              "en": "Five",
+              "sw": "Tano"
+            },
+            {
+              "en": "Three",
+              "sw": "Tatu"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "The CEFR groups proficiency into six levels: A1, A2, B1, B2, C1, C2.",
+            "sw": "CEFR ina viwango sita: A1, A2, B1, B2, C1, C2."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Which two levels describe an 'Independent User'?",
+            "sw": "Ni viwango vipi viwili vinavyoeleza 'Mtumiaji Aliyejitegemea/Independent User'?"
+          },
+          "options": [
+            {
+              "en": "A2 and B1",
+              "sw": "A2 na B1"
+            },
+            {
+              "en": "B1 and B2",
+              "sw": "B1 na B2"
+            },
+            {
+              "en": "A1 and A2",
+              "sw": "A1 na A2"
+            },
+            {
+              "en": "C1 and C2",
+              "sw": "C1 na C2"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "C1–C2 are 'Proficient User'; A1–A2 are 'Basic User'. B1–B2 are the Independent User band.",
+            "sw": "C1–C2 ni 'Mtumiaji Mahiri'; A1–A2 ni 'Mtumiaji wa Msingi'. B1–B2 ndio ngazi ya 'Mtumiaji Aliyejitegemea'."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Furaha is preparing for the A1 exam. What does A1 describe?",
+            "sw": "Furaha anajiandaa mtihani wa A1. A1 inaeleza nini?"
+          },
+          "options": [
+            {
+              "en": "An expert who understands everything",
+              "sw": "Mtaalam anayeelewa kila kitu"
+            },
+            {
+              "en": "A native-level poet",
+              "sw": "Mshairi wa kiwango cha asili"
+            },
+            {
+              "en": "A basic user who can greet, introduce themselves and ask simple questions",
+              "sw": "Mtumiaji wa msingi anayeweza kusalimu, kujitambulisha na kuuliza maswali rahisi"
+            },
+            {
+              "en": "A proficient speaker of academic German",
+              "sw": "Msemaji mahiri wa Kijerumani cha kitaaluma"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "A1 (Basic User) covers everyday expressions, introducing oneself and answering simple questions — exactly what Start Deutsch 1 tests.",
+            "sw": "A1 (Mtumiaji wa Msingi) hujumuisha maneno ya kila siku, kujitambulisha na kujibu maswali rahisi — ndivyo Start Deutsch 1 inavyojaribu."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Levels A1–C2 — German Language Courses and Exams (Goethe-Institut)",
+          "url": "https://www.goethe.de/en/spr/kur/stu.html"
+        },
+        {
+          "title": "German examinations A1–C2 (Goethe-Institut)",
+          "url": "https://www.goethe.de/en/spr/prf.html"
+        },
+        {
+          "title": "The CEFR Levels — level descriptions (Council of Europe)",
+          "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions"
+        }
+      ]
+    },
+    {
+      "id": "german-history-1",
+      "track": "german",
+      "type": "history",
+      "title": {
+        "en": "Germany becomes one state: 1871",
+        "sw": "Ujerumani kuwa dola moja: 1871"
+      },
+      "body": {
+        "en": "For centuries there was no single 'Germany' — instead, many German-speaking states and kingdoms existed. The German Empire was founded on 18 January 1871 after a series of wars led by Prussia, the strongest northern German state. Its king, Wilhelm I, became the Emperor (Kaiser), and Otto von Bismarck, the Prussian leader, became the first Chancellor. The empire lasted until 1918, when Germany became a republic after the First World War. Unification came through Prussian military power and diplomacy — not through everyone sharing one ethnic identity — and the new country stayed linguistically and culturally diverse, with many dialects and regional traditions continuing.",
+        "sw": "Kwa karne nyingi hapakuwa na 'Ujerumani' moja — kulikuwa na majimbo na falme nyingi zenye kuzungumza Kijerumani. Dola la Ujerumani lilianzishwa tarehe 18 Januari 1871 baada ya msururu wa vita ulioongozwa na Prussia, jimbo lenye nguvu zaidi kaskazini mwa Ujerumani. Mfalme wake Wilhelm I akawa Kaizari (Emperor), na Otto von Bismarck, kiongozi wa Prussia, akawa Chansela wa kwanza. Dola hilo liliendelea hadi 1918, Ujerumani ilipokuwa jamhuri baada ya Vita Kuu ya Kwanza ya Dunia. Kuungana huko kulikuja kupitia nguvu ya kijeshi na diplomasia ya Prussia — si kwa kuwa watu wote walishiriki utambulisho mmoja wa kikabila — na nchi mpya ilibaki tofautitofauti kwa lugha na utamaduni, huku lahaja na mila za kikanda zikiendelea."
+      },
+      "phrases": [
+        {
+          "de": "Das Deutsche Reich",
+          "en": "the German Empire"
+        },
+        {
+          "de": "Der Kaiser",
+          "en": "the Emperor"
+        },
+        {
+          "de": "Die Einheit",
+          "en": "unity"
+        },
+        {
+          "de": "Der Reichstag",
+          "en": "the parliament (Reichstag)"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "In which year was the German Empire founded?",
+            "sw": "Dola la Ujerumani lilianzishwa mwaka gani?"
+          },
+          "options": [
+            {
+              "en": "1871",
+              "sw": "1871"
+            },
+            {
+              "en": "1918",
+              "sw": "1918"
+            },
+            {
+              "en": "1848",
+              "sw": "1848"
+            },
+            {
+              "en": "1989",
+              "sw": "1989"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "The German Empire was proclaimed on 18 January 1871, led by Prussia.",
+            "sw": "Dola la Ujerumani lilitangazwa tarehe 18 Januari 1871 likiongozwa na Prussia."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Which German state led the unification?",
+            "sw": "Ni jimbo gani la Ujerumani lililoongoza kuunganisha?"
+          },
+          "options": [
+            {
+              "en": "Austria",
+              "sw": "Austria"
+            },
+            {
+              "en": "Prussia",
+              "sw": "Prussia"
+            },
+            {
+              "en": "Bavaria",
+              "sw": "Bavaria"
+            },
+            {
+              "en": "Saxony",
+              "sw": "Saxony"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "Prussia, the strongest northern German state, led the wars and diplomacy that created the empire.",
+            "sw": "Prussia, jimbo lenye nguvu zaidi kaskazini, ndilo lililoongoza vita na diplomasia za kuunda dola."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Who became the empire's first Emperor (Kaiser)?",
+            "sw": "Nani akawa Kaizari wa kwanza wa dola hilo?"
+          },
+          "options": [
+            {
+              "en": "Martin Luther",
+              "sw": "Martin Luther"
+            },
+            {
+              "en": "Friedrich Nietzsche",
+              "sw": "Friedrich Nietzsche"
+            },
+            {
+              "en": "Wilhelm I",
+              "sw": "Wilhelm I"
+            },
+            {
+              "en": "Otto von Bismarck",
+              "sw": "Otto von Bismarck"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "Wilhelm I, King of Prussia, became Emperor; Bismarck was the first Chancellor.",
+            "sw": "Wilhelm I, Mfalme wa Prussia, akawa Kaizari; Bismarck akawa Chansela wa kwanza."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "German Empire (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/German_Empire"
+        },
+        {
+          "title": "Germany from 1871 to 1918 (Britannica)",
+          "url": "https://www.britannica.com/place/Germany/Germany-from-1871-to-1918"
+        }
+      ]
+    },
+    {
+      "id": "german-history-2",
+      "track": "german",
+      "type": "history",
+      "title": {
+        "en": "How the German language took shape",
+        "sw": "Lugha ya Kijerumani ilivyojitengeneza"
+      },
+      "body": {
+        "en": "German is a West Germanic language with many regional dialects. In the Middle Ages a northern 'Low German' and a southern 'High German' grew apart — the High German consonant shift (around the 6th century) marks their division. For a long time there was no single standard, and people from different regions often could not understand each other. Standard German emerged slowly as a written language, not from one place. A key step was Martin Luther's translation of the Bible into German (New Testament 1522, complete Bible 1534), based largely on the East Central German of the Saxon chancery. Helped by the printing press, this spread a common written form, and by the 18th century a widely accepted written standard had developed. Dialects still exist today alongside the standard language.",
+        "sw": "Kijerumani ni lugha ya tawi la Kigermaniki Magharibi yenye lahaja nyingi. Katika Zama za Kati, 'Kijerumani cha Chini' (kaskazini) na 'Kijerumani cha Juu' (kusini) vilizidi kutofautiana — mabadiliko ya konsonanti za Kijerumani cha Juu (takriban karne ya 6) yanaashiria utengano huo. Kwa muda mrefu hapakuwa na kiwango kimoja, na watu wa mikoa tofauti mara nyingi hawakuelewana. Kijerumani sanifu kilijitengeneza polepole kama lugha ya maandishi, si kutoka eneo moja. Hatua kubwa ilikuwa tafsiri ya Biblia ya Martin Luther kwa Kijerumani (Agano Jipya 1522, Biblia kamili 1534), iliyotegemea zaidi Kijerumani cha kati-mashariki kinachotumika kwenye ofisi ya Saxony. Kwa msaada wa mashine ya uchapishaji, fomu hiyo ya maandishi ikaenea, na kufikia karne ya 18 kulikuwa na kiwango cha maandishi kilichokubalika kwa upana. Lahaja bado zinapatikana leo sambamba na lugha sanifu."
+      },
+      "phrases": [
+        {
+          "de": "die Sprache",
+          "en": "language"
+        },
+        {
+          "de": "der Dialekt",
+          "en": "dialect"
+        },
+        {
+          "de": "die Schrift",
+          "en": "script / writing"
+        },
+        {
+          "de": "die Standardsprache",
+          "en": "standard language"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "What did Martin Luther's Bible translation help to spread?",
+            "sw": "Tafsiri ya Biblia ya Martin Luther ilisaidia kueneza nini?"
+          },
+          "options": [
+            {
+              "en": "A common written form of German",
+              "sw": "Muundo mmoja wa maandishi ya Kijerumani"
+            },
+            {
+              "en": "The Latin alphabet only",
+              "sw": "Herufi za Kilatini tu"
+            },
+            {
+              "en": "The French language",
+              "sw": "Lugha ya Kifaransa"
+            },
+            {
+              "en": "A military government",
+              "sw": "Serikali ya kijeshi"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "Luther's Bible, printed widely, helped spread and standardise German as a common written language.",
+            "sw": "Biblia ya Luther iliyochapishwa sana ilisaidia kueneza na kusanifisha Kijerumani kama lugha moja ya maandishi."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Where did Standard German come from?",
+            "sw": "Kijerumani sanifu kilianzia wapi?"
+          },
+          "options": [
+            {
+              "en": "It came from France in 1500",
+              "sw": "Kilitoka Ufaransa mwaka 1500"
+            },
+            {
+              "en": "It developed over centuries as a written standard used across regions",
+              "sw": "Kilijitengeneza kwa karne nyingi kama kiwango cha maandishi kinachotumika katika mikoa mingi"
+            },
+            {
+              "en": "One king invented it in a year",
+              "sw": "Mfalme mmoja alikivumbua kwa mwaka mmoja"
+            },
+            {
+              "en": "It is only the dialect of Berlin",
+              "sw": "Ni lahaja ya Berlin pekee"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "Standard German emerged gradually as a written standard (helped by Luther's Bible), not as one region's dialect or a decree.",
+            "sw": "Kijerumani sanifu kilijitokeza polepole kama kiwango cha maandishi (kusaidiana na Biblia ya Luther), si lahaja ya eneo moja wala amri."
+          }
+        },
+        {
+          "prompt": {
+            "en": "The 'High German consonant shift' mainly distinguishes?",
+            "sw": "'Mabadiliko ya konsonanti za Kijerumani cha Juu' yanatofautisha nini?"
+          },
+          "options": [
+            {
+              "en": "Modern German from English",
+              "sw": "Kijerumani cha sasa na Kiingereza"
+            },
+            {
+              "en": "Written German from spoken German",
+              "sw": "Kijerumani cha maandishi na cha mazungumzo"
+            },
+            {
+              "en": "High German (south) from Low German (north)",
+              "sw": "Kijerumani cha Juu (kusini) na cha Chini (kaskazini)"
+            },
+            {
+              "en": "German from Swahili",
+              "sw": "Kijerumani na Kiswahili"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "The consonant shift, around the 6th century, marks the dividing line between southern High German and northern Low German.",
+            "sw": "Mabadiliko ya konsonanti, takriban karne ya 6, yanaashiria mpaka kati ya Kijerumani cha Juu (kusini) na cha Chini (kaskazini)."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "History of German (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/History_of_German"
+        },
+        {
+          "title": "German language (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/German_language"
+        }
+      ]
+    },
+    {
+      "id": "german-history-3",
+      "track": "german",
+      "type": "history",
+      "title": {
+        "en": "A divided Germany: 1945–1990",
+        "sw": "Ujerumani uliogawanyika: 1945–1990"
+      },
+      "body": {
+        "en": "After the Second World War ended in 1945, Germany was occupied and divided into four zones controlled by the USA, Britain, France and the Soviet Union. As the Cold War deepened, two separate states were created in 1949: the Federal Republic of Germany (FRG, 'West Germany') — a parliamentary democracy — and the German Democratic Republic (GDR, 'East Germany'), whose politics were dominated by the Soviet-aligned Socialist Unity Party (SED). Berlin, deep inside the eastern zone, was itself split, and in 1961 the Berlin Wall was built around West Berlin to stop East Germans from leaving. This division was the result of war and Cold War politics, not of geography or ethnicity — Germans on both sides shared the same language and culture.",
+        "sw": "Baada ya Vita Kuu ya Pili ya Dunia kumalizika mwaka 1945, Ujerumani iligawiwa katika kanda nne za udhibiti: Marekani, Uingereza, Ufaransa na Umoja wa Kisovieti. Vita vya Kiyu (Cold War) vilipoongezeka, dola mbili ziliundwa mwaka 1949: Jamhuri ya Shirikisho ya Ujerumani (FRG, 'Ujerumani Magharibi') — demokrasia ya bunge — na Jamhuri ya Kidemokrasia ya Ujerumani (GDR, 'Ujerumani Mashariki'), ambayo siasa zake zilitawaliwa na Chama cha SED kilichoungana na Umoja wa Kisovieti. Berlin, ikiwa ndani ya eneo la mashariki, nayo iligawanywa yenyewe, na mwaka 1961 Ukuta wa Berlin ukajengwa kuzunguka Berlin Magharibi kuwazuia Wajerumani wa Mashariki kutoka. Mgawanyiko huu ulitokana na vita na siasa za zama hizo, si jiografia wala kabila — Wajerumani pande zote mbili walishiriki lugha na utamaduni mmoja."
+      },
+      "phrases": [
+        {
+          "de": "die Teilung",
+          "en": "the division"
+        },
+        {
+          "de": "die Mauer",
+          "en": "the (Berlin) Wall"
+        },
+        {
+          "de": "Westdeutschland",
+          "en": "West Germany"
+        },
+        {
+          "de": "Ostdeutschland",
+          "en": "East Germany"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "After WWII, Germany was divided into how many Allied occupation zones?",
+            "sw": "Baada ya WWII, Ujerumani iligawanywa katika kanda ngapi za udhibiti wa Washirika?"
+          },
+          "options": [
+            {
+              "en": "Four",
+              "sw": "Nne"
+            },
+            {
+              "en": "Two",
+              "sw": "Mbili"
+            },
+            {
+              "en": "Three",
+              "sw": "Tatu"
+            },
+            {
+              "en": "Five",
+              "sw": "Tano"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "Four zones: USA, Britain, France and the Soviet Union.",
+            "sw": "Kanda nne: Marekani, Uingereza, Ufaransa na Umoja wa Kisovieti."
+          }
+        },
+        {
+          "prompt": {
+            "en": "In what year was the Federal Republic (West Germany) founded?",
+            "sw": "Jamhuri ya Shirikisho (Ujerumani Magharibi) ilianzishwa mwaka gani?"
+          },
+          "options": [
+            {
+              "en": "1990",
+              "sw": "1990"
+            },
+            {
+              "en": "1949",
+              "sw": "1949"
+            },
+            {
+              "en": "1945",
+              "sw": "1945"
+            },
+            {
+              "en": "1961",
+              "sw": "1961"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "The FRG (West Germany) was established on 23 May 1949; the GDR (East Germany) on 7 October 1949.",
+            "sw": "FRG (Magharibi) ilianzishwa 23 Mei 1949; GDR (Mashariki) 7 Oktoba 1949."
+          }
+        },
+        {
+          "prompt": {
+            "en": "What kind of state was West Germany (the FRG)?",
+            "sw": "Ujerumani Magharibi (FRG) ilikuwa dola la namna gani?"
+          },
+          "options": [
+            {
+              "en": "A monarchy",
+              "sw": "Ufalme"
+            },
+            {
+              "en": "A military dictatorship",
+              "sw": "Udikteta wa kijeshi"
+            },
+            {
+              "en": "A parliamentary democracy",
+              "sw": "Demokrasia ya bunge"
+            },
+            {
+              "en": "A single-party socialist republic",
+              "sw": "Jamhuri ya chama kimoja ya kisoshalisti"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "West Germany was a parliamentary democracy, in contrast to the socialist GDR.",
+            "sw": "Ujerumani Magharibi ilikuwa demokrasia ya bunge, tofauti na GDR ya kisoshalisti."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "History of Germany (1945–1990) / Division of Germany (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Division_of_Germany"
+        },
+        {
+          "title": "German Unity Day explained (DW News)",
+          "url": "https://www.dw.com/en/october-3-german-unity-day-reunification-explained-explainer-facts-history-west-germany-east-germany/a-74220285"
+        }
+      ]
+    },
+    {
+      "id": "german-history-4",
+      "track": "german",
+      "type": "history",
+      "title": {
+        "en": "Reunification and German democracy",
+        "sw": "Kuungana tena na demokrasia ya Ujerumani"
+      },
+      "body": {
+        "en": "The Peaceful Revolution in East Germany, with mass protests, led to the fall of the Berlin Wall on 9 November 1989, and Germany reunited on 3 October 1990 (now German Unity Day). Germany's democracy rests on the Basic Law (Grundgesetz), adopted in May 1949. It places fundamental rights in its very first articles and sets out the state's basic principles: democracy, the rule of law, federalism and the social state. Its institutions include the Bundestag (the directly elected parliament, whose members elect the Chancellor) and the Federal Constitutional Court, which is the guardian of the constitution. Since reunification, the elections and institutions that began in the West now cover the whole country.",
+        "sw": "Mapinduzi ya Amani (Peaceful Revolution) mashariki mwa Ujerumani, pamoja na maandamano makubwa, yalisababisha kuanguka kwa Ukuta wa Berlin tarehe 9 Novemba 1989, na Ujerumani ikaungana tena tarehe 3 Oktoba 1990 (sasa ni Siku ya Umoja wa Ujerumani). Demokrasia ya Ujerumani inaegemea Sheria ya Msingi (Grundgesetz) iliyopitishwa Mei 1949. Inaweka haki za msingi katika vifungu vyake vya mwanzo na kubainisha kanuni kuu za dola: demokrasia, utawala wa sheria, muundo wa shirikisho na dola la kijamii. Taasisi zake ni pamoja na Bundestag (bunge lililochaguliwa moja kwa moja, ambalo wabunge wake humchagua Chansela) na Mahakama ya Kikatiba ya Shirikisho, ambayo ndiyo mlinzi wa katiba. Baada ya kuungana tena, uchaguzi na taasisi zilizoanza magharibi sasa zinagusa nchi nzima."
+      },
+      "phrases": [
+        {
+          "de": "das Grundgesetz",
+          "en": "the Basic Law (constitution)"
+        },
+        {
+          "de": "der Bundestag",
+          "en": "the German parliament"
+        },
+        {
+          "de": "die Wiedervereinigung",
+          "en": "reunification"
+        },
+        {
+          "de": "die Demokratie",
+          "en": "democracy"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "When did Germany officially reunify?",
+            "sw": "Ujerumani iliungana tena rasmi lini?"
+          },
+          "options": [
+            {
+              "en": "3 October 1990",
+              "sw": "3 Oktoba 1990"
+            },
+            {
+              "en": "9 November 1989",
+              "sw": "9 Novemba 1989"
+            },
+            {
+              "en": "1 January 2000",
+              "sw": "1 Januari 2000"
+            },
+            {
+              "en": "23 May 1945",
+              "sw": "23 Mei 1945"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "The Berlin Wall fell on 9 November 1989; official reunification came on 3 October 1990, now German Unity Day.",
+            "sw": "Ukuta ulianguka 9 Novemba 1989; kuungana rasmi ni 3 Oktoba 1990, sasa Siku ya Umoja."
+          }
+        },
+        {
+          "prompt": {
+            "en": "What is the Basic Law (Grundgesetz)?",
+            "sw": "Sheria ya Msingi (Grundgesetz) ni nini?"
+          },
+          "options": [
+            {
+              "en": "The emperor's crown",
+              "sw": "Taji la Kaizari"
+            },
+            {
+              "en": "Germany's constitution, adopted in 1949",
+              "sw": "Katiba ya Ujerumani iliyopitishwa 1949"
+            },
+            {
+              "en": "The law that built the Berlin Wall",
+              "sw": "Sheria iliyojenga Ukuta wa Berlin"
+            },
+            {
+              "en": "A language exam",
+              "sw": "Mtihani wa lugha"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "The Basic Law, in force since May 1949, is Germany's constitution and sets out its democratic principles.",
+            "sw": "Sheria ya Msingi, ikitumika tangu Mei 1949, ni katiba ya Ujerumani na inaweka kanuni zake za kidemokrasia."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Which directly elected body elects the Federal Chancellor?",
+            "sw": "Chombo gani kilichochaguliwa moja kwa moja kinachomchagua Chansela wa Shirikisho?"
+          },
+          "options": [
+            {
+              "en": "The army",
+              "sw": "Jeshi"
+            },
+            {
+              "en": "The courts",
+              "sw": "Mahakama"
+            },
+            {
+              "en": "The Bundestag (parliament)",
+              "sw": "Bundestag (bunge)"
+            },
+            {
+              "en": "The Federal President alone",
+              "sw": "Rais wa Shirikisho pekee"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "The Bundestag is directly elected and elects the Chancellor; a separate Federal Constitutional Court guards the constitution.",
+            "sw": "Bundestag ndio huchaguliwa moja kwa moja na kumchagua Chansela; Mahakama tofauti ya Kikatiba ya Shirikisho inalinda katiba."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "The Basic Law (Federal Constitutional Court — Bundesverfassungsgericht)",
+          "url": "https://www.bundesverfassungsgericht.de/EN/BasicLawLegalBasis/TheBasicLaw/thebasiclaw_node.html"
+        },
+        {
+          "title": "The Federal Republic of Germany (since 1949) (German Bundestag)",
+          "url": "https://www.bundestag.de/en/parliament/history/parliamentarism/frg_parliamentarism/frg_parliamentarism-200324"
+        },
+        {
+          "title": "German Unity Day explained (DW News)",
+          "url": "https://www.dw.com/en/october-3-german-unity-day-reunification-explained-explainer-facts-history-west-germany-east-germany/a-74220285"
+        }
+      ]
+    },
+    {
+      "id": "swahili-history-1",
+      "track": "swahili",
+      "type": "history",
+      "title": {
+        "en": "Swahili is a Bantu language",
+        "sw": "Kiswahili ni lugha ya Kibantu"
+      },
+      "body": {
+        "en": "Kiswahili (Swahili) is a Bantu language of the Sabaki branch — it is not an 'Arabic' language. Its grammar and core vocabulary — the noun classes, the way verbs are built, and everyday words — are Bantu, inherited over a long history from Bantu-speaking peoples who lived along East Africa's coast. The first inhabitants of the Swahili Coast were Bantu-speaking Africans. Linguists find that the basic core vocabulary (everyday words like person, water, house) is overwhelmingly Bantu; loanwords from other languages form a smaller part of everyday speech. So Swahili did not begin as a mixture invented by foreign traders — it grew out of local Bantu speech and later borrowed selectively from the trading peoples it met.",
+        "sw": "Kiswahili ni lugha ya Kibantu ya tawi la Sabaki — si lugha ya 'Kiarabu'. Sarufi yake na msamiati wa msingi — mfumo wa ngeli, ujenzi wa vitenzi, na maneno ya kila siku — ni wa Kibantu, uliorithiwa kwa historia ndefu kutoka watu wanaozungumza Kibantu walioishi kando ya pwani ya Afrika Mashariki. Wakaazi wa kwanza wa Pwani ya Waswahili walikuwa Waafrika wanaozungumza Kibantu. Wanaisimu wanaona kwamba msamiati wa msingi (maneno ya kila siku kama mtu, maji, nyumba) ni wa Kibantu kwa kiasi kikubwa; maneno yaliyokopwa kutoka lugha nyingine ni sehemu ndogo ya mazungumzo ya kila siku. Kwa hiyo Kiswahili hakikuanza kama mchanganyiko uliobuniwa na wafanyabiashara wa kigeni — kiliibuka kutoka lugha za Kibantu za pwani na baadaye kukopa maneno kwa makusudi kutoka kwa wafanyabiashara waliofika."
+      },
+      "phrases": [
+        {
+          "sw": "Lugha ya Kibantu",
+          "en": "a Bantu language"
+        },
+        {
+          "sw": "Sarufi",
+          "en": "grammar"
+        },
+        {
+          "sw": "Neno",
+          "en": "word"
+        },
+        {
+          "sw": "Pwani ya Waswahili",
+          "en": "the Swahili coast"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "To which branch of the Bantu family does Swahili belong?",
+            "sw": "Kiswahili ni cha tawi gani la familia ya Kibantu?"
+          },
+          "options": [
+            {
+              "en": "Sabaki",
+              "sw": "Sabaki"
+            },
+            {
+              "en": "Cushitic",
+              "sw": "Kushiti"
+            },
+            {
+              "en": "Semitic",
+              "sw": "Semiti"
+            },
+            {
+              "en": "Romance",
+              "sw": "Kigaidi"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "Linguists classify Swahili as Bantu, in the Sabaki branch of the North-East Coast Bantu languages.",
+            "sw": "Wanaisimu wanaiweka Kiswahili katika lugha za Kibantu, tawi la Sabaki la lugha za Kibantu za Pwani ya Kaskazini-Mashariki."
+          }
+        },
+        {
+          "prompt": {
+            "en": "What is the origin of Swahili's basic grammar and everyday vocabulary?",
+            "sw": "Sarufi ya msingi ya Kiswahili na msamiati wa kila siku una asili gani?"
+          },
+          "options": [
+            {
+              "en": "Greek",
+              "sw": "Kigiriki"
+            },
+            {
+              "en": "Bantu",
+              "sw": "Kibantu"
+            },
+            {
+              "en": "Arabic",
+              "sw": "Kiarabu"
+            },
+            {
+              "en": "French",
+              "sw": "Kifaransa"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "The noun-class system, verb structure and core everyday words are Bantu — the heart of the language.",
+            "sw": "Mfumo wa ngeli, muundo wa vitenzi na maneno ya msingi ni ya Kibantu — huo ndio ulio moyo wa lugha."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Is it accurate to say Swahili is 'a simplified mix created by Arab traders'?",
+            "sw": "Je, ni sahihi kusema Kiswahili 'ni mchanganyiko uliorahisishwa ulioundwa na wafanyabiashara wa Kiarabu'?"
+          },
+          "options": [
+            {
+              "en": "Yes — it began as a colonial language",
+              "sw": "Ndiyo — ilianza kama lugha ya ukoloni"
+            },
+            {
+              "en": "No — it is a form of English",
+              "sw": "La — ni namna ya Kiingereza"
+            },
+            {
+              "en": "No — its grammar and core vocabulary are Bantu, not Arabic",
+              "sw": "La — sarufi na msamiati wa msingi ni wa Kibantu, si Kiarabu"
+            },
+            {
+              "en": "Yes — Arabic traders invented all of it",
+              "sw": "Ndiyo — wafanyabiashara wa Kiarabu waliivumbua yote"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "Swahili's structure is Bantu. Arabic added loanwords but did not create the language.",
+            "sw": "Muundo wa Kiswahili ni wa Kibantu. Kiarabu kiliongeza maneno ya kukopa lakini hakikuunda lugha."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Swahili (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Swahili"
+        },
+        {
+          "title": "The People of the Swahili Coast (National Geographic Education)",
+          "url": "https://education.nationalgeographic.org/resource/people-coast/"
+        }
+      ]
+    },
+    {
+      "id": "swahili-history-2",
+      "track": "swahili",
+      "type": "history",
+      "title": {
+        "en": "Coastal trade and Arabic loanwords",
+        "sw": "Biashara ya pwani na maneno yaliyokopwa kutoka Kiarabu"
+      },
+      "body": {
+        "en": "The name 'Kiswahili' comes from an Arabic word meaning 'of the coasts' (from 'sawahil', the coasts), pointing to the East African coast. From the 8th century onward, Muslim traders — mostly Arabs — settled permanently on the coast, and later, in the 12th century, Persian 'Shirazi' settlers arrived. Through centuries of trade and settlement, Swahili borrowed many words from Arabic — especially in religion, trade, law and administration — and some from Persian, Portuguese and English. But these are loanwords: they sit on top of a Bantu grammar. In everyday core vocabulary the base words stay mostly Bantu, and borrowing came through trade and contact, not conquest. Swahili is therefore best described as a Bantu language enriched by coastal trade — not a half-Arabic language.",
+        "sw": "Jina 'Kiswahili' linatokana na neno la Kiarabu linalomaanisha 'vya pwani' (kutoka 'sawahil', pwani), likirejelea Pwani ya Afrika Mashariki. Kuanzia karne ya 8, wafanyabiashara Waislamu — wengi wao Waarabu — walikaa kwa kudumu pwani, na baadaye, katika karne ya 12, wakaja walowezi 'Washirazi' kutoka Uajemi (Persia). Kupitia biashara na makazi ya karne nyingi, Kiswahili kilikopa maneno mengi kutoka Kiarabu — hasa katika dini, biashara, sheria na utawala — na machache kutoka Kiajemi, Kireno na Kiingereza. Lakini haya ni maneno ya kukopa: yamewekwa juu ya sarufi ya Kibantu. Katika msamiati wa msingi wa kila siku, maneno ya asili yanabaki ya Kibantu kwa kiasi kikubwa, na ukopaji ulitokana na biashara na mgusano, si ushindi. Basi Kiswahili ni lugha ya Kibantu iliyoboreshwa na biashara ya pwani — si lugha ya nusu-Kiarabu."
+      },
+      "phrases": [
+        {
+          "sw": "Pwani",
+          "en": "coast"
+        },
+        {
+          "sw": "Biashara",
+          "en": "trade / business"
+        },
+        {
+          "sw": "Maneno yaliyokopwa",
+          "en": "loanwords (borrowed words)"
+        },
+        {
+          "sw": "Utamaduni",
+          "en": "culture"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "What does the name 'Kiswahili' come from, in Arabic?",
+            "sw": "Jina 'Kiswahili' linatokana na neno gani la Kiarabu?"
+          },
+          "options": [
+            {
+              "en": "A word meaning 'coasts'",
+              "sw": "Neno linalomaanisha 'pwani'"
+            },
+            {
+              "en": "A word meaning 'mountain'",
+              "sw": "Neno linalomaanisha 'mlima'"
+            },
+            {
+              "en": "A word meaning 'river'",
+              "sw": "Neno linalomaanisha 'mto'"
+            },
+            {
+              "en": "A word meaning 'desert'",
+              "sw": "Neno linalomaanisha 'jangwa'"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "'Kiswahili' derives from the Arabic word for 'coasts' (sawahil), reflecting the East African coastal people.",
+            "sw": "'Kiswahili' linatokana na neno la Kiarabu la 'pwani' (sawahil), likirejelea watu wa pwani ya Afrika Mashariki."
+          }
+        },
+        {
+          "prompt": {
+            "en": "What did Arabic mainly contribute to Swahili?",
+            "sw": "Kiarabu kilichangia nini hasa kwa Kiswahili?"
+          },
+          "options": [
+            {
+              "en": "The entire sentence structure",
+              "sw": "Muundo mzima wa sentensi"
+            },
+            {
+              "en": "Loanwords in vocabulary",
+              "sw": "Maneno ya kukopa (msamiati)"
+            },
+            {
+              "en": "The basic grammar",
+              "sw": "Sarufi ya msingi"
+            },
+            {
+              "en": "The noun-class system",
+              "sw": "Mfumo wa ngeli"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "Arabic added many loanwords; the grammar and noun classes stayed Bantu.",
+            "sw": "Kiarabu kiliongeza maneno mengi ya kukopa; sarufi na ngeli zilibaki za Kibantu."
+          }
+        },
+        {
+          "prompt": {
+            "en": "How should Swahili best be described?",
+            "sw": "Kiswahili kinafaa kuelezewa vipi?"
+          },
+          "options": [
+            {
+              "en": "A European colonial language",
+              "sw": "Lugha ya kikoloni ya Ulaya"
+            },
+            {
+              "en": "A newly invented language",
+              "sw": "Lugha mpya iliyobuniwa"
+            },
+            {
+              "en": "A Bantu language enriched by coastal trade and loanwords",
+              "sw": "Lugha ya Kibantu iliyoboreshwa na biashara ya pwani na maneno ya kukopa"
+            },
+            {
+              "en": "An Arabic language spoken in Africa",
+              "sw": "Lugha ya Kiarabu inayozungumzwa Afrika"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "Swahili is Bantu in structure with heavy vocabulary borrowing — a coastal Bantu language, not an Arabic one.",
+            "sw": "Kiswahili ni Kibantu kwa muundo na kimekopa msamiati mwingi — ni lugha ya Kibantu ya pwani, si ya Kiarabu."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Swahili (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Swahili"
+        },
+        {
+          "title": "3.3 The Swahili Coast — World History Volume 2 (OpenStax)",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/3-3-the-swahili-coast"
+        }
+      ]
+    },
+    {
+      "id": "swahili-history-3",
+      "track": "swahili",
+      "type": "history",
+      "title": {
+        "en": "Swahili coastal culture and city-states",
+        "sw": "Utamaduni wa Pwani na miji-jimbo ya Kiswahili"
+      },
+      "body": {
+        "en": "The Swahili Coast stretches along East Africa from Somalia in the north to Mozambique in the south. Its people are a mix of African and Indian Ocean peoples, and this region is not a single country but a coastal and island culture. From roughly the 11th to 15th centuries the coast flourished with independent trading city-states and 'stone towns', connected across the Indian Ocean — trading gold, ivory, pottery, silk and glass. The Swahili people shared a common language (Swahili) and, over the centuries, adopted Islam; the first mosques on the coast date from the 9th century, and today the vast majority of Swahili people are Sunni Muslims. Religion and culture spread mainly through trade and settlement, not conquest. Many of these towns still exist today inside modern nations.",
+        "sw": "Pwani ya Waswahili inaanzia Somalia kaskazini hadi Mozambiki kusini. Watu wake ni mchanganyiko wa Waafrika na watu wa Bahari ya Hindi, na eneo hili si nchi moja bali utamaduni wa pwani na visiwa. Takriban karne ya 11 hadi 15, pwani ilistawi kwa miji-jimbo huru ya biashara na 'miji ya mawe', iliyounganishwa kupitia Bahari ya Hindi — ikifanya biashara ya dhahabu, pembe za ndovu, vyombo vya udongo, hariri na glasi. Waswahili walishiriki lugha moja (Kiswahili) na, kwa muda wa karne kadhaa, kukubali Uislamu; misikiti ya kwanza pwani ilianza karne ya 9, na leo wengi wa Waswahili ni Waislamu wa Suni. Dini na utamaduni vilienea hasa kupitia biashara na makazi, si ushindi. Miji mingi kati ya hii bado ipo leo ndani ya nchi za kisasa."
+      },
+      "phrases": [
+        {
+          "sw": "Miji ya pwani",
+          "en": "coastal towns / city-states"
+        },
+        {
+          "sw": "Bahari ya Hindi",
+          "en": "the Indian Ocean"
+        },
+        {
+          "sw": "Dhow",
+          "en": "a sailing boat of the Indian Ocean"
+        },
+        {
+          "sw": "Miji-jimbo",
+          "en": "city-states"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "What was the Swahili Coast, as a region?",
+            "sw": "Pwani ya Waswahili, kama eneo, ilikuwa nini?"
+          },
+          "options": [
+            {
+              "en": "A string of coastal city-states trading across the Indian Ocean",
+              "sw": "Msururu wa miji-jimbo ya pwani iliyofanya biashara katika Bahari ya Hindi"
+            },
+            {
+              "en": "A single kingdom ruled by one emperor",
+              "sw": "Ufalme mmoja wa Kaizari mmoja"
+            },
+            {
+              "en": "An inland farming state",
+              "sw": "Dola la kilimo bara"
+            },
+            {
+              "en": "A European colony from 800",
+              "sw": "Kikoloni cha Ulaya tangu 800"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "The coast was made up of independent trading city-states and 'stone towns', not one kingdom.",
+            "sw": "Pwani ilikuwa na miji-jimbo huru ya biashara na 'miji ya mawe', si ufalme mmoja."
+          }
+        },
+        {
+          "prompt": {
+            "en": "What religion do the vast majority of Swahili people practice today?",
+            "sw": "Wengi wa Waswahili leo wanafuata dini gani?"
+          },
+          "options": [
+            {
+              "en": "Buddhism",
+              "sw": "Ubuddha"
+            },
+            {
+              "en": "Sunni Islam",
+              "sw": "Uislamu wa Suni"
+            },
+            {
+              "en": "Orthodox Christianity",
+              "sw": "Ukristo wa Othodoksi"
+            },
+            {
+              "en": "Hinduism",
+              "sw": "Uhindu"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "Sources note that the vast majority of Swahili people today are Sunni Muslims.",
+            "sw": "Vyanzo vinaonyesha kwamba wengi wa Waswahili leo ni Waislamu wa Suni."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Which area does the Swahili Coast span?",
+            "sw": "Pwani ya Waswahili inaanzia wapi hadi wapi?"
+          },
+          "options": [
+            {
+              "en": "North Africa and Europe",
+              "sw": "Afrika Kaskazini na Ulaya"
+            },
+            {
+              "en": "The whole continent of Asia",
+              "sw": "Bara lote la Asia"
+            },
+            {
+              "en": "East Africa, from Somalia (north) to Mozambique (south)",
+              "sw": "Afrika Mashariki, kutoka Somalia (kaskazini) hadi Mozambiki (kusini)"
+            },
+            {
+              "en": "West Africa only",
+              "sw": "Afrika Magharibi tu"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "The Swahili Coast runs along East Africa's Indian Ocean edge from Somalia to Mozambique.",
+            "sw": "Pwani ya Waswahili iko kando ya Bahari ya Hindi ya Afrika Mashariki, kutoka Somalia hadi Mozambiki."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "The People of the Swahili Coast (National Geographic Education)",
+          "url": "https://education.nationalgeographic.org/resource/people-coast/"
+        },
+        {
+          "title": "Swahili coast (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Swahili_coast"
+        },
+        {
+          "title": "3.3 The Swahili Coast — World History Volume 2 (OpenStax)",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/3-3-the-swahili-coast"
+        }
+      ]
+    },
+    {
+      "id": "swahili-history-4",
+      "track": "swahili",
+      "type": "history",
+      "title": {
+        "en": "Swahili spreads across East Africa",
+        "sw": "Kuenea kwa Kiswahili Afrika Mashariki"
+      },
+      "body": {
+        "en": "Swahili grew from a coastal trading language into a shared lingua franca — a common language used by people of many different mother tongues. In the 20th century it gained a new role: after Tanganyika's independence in 1961, its leaders deliberately promoted Swahili to help unite a new nation of many ethnic groups. Today Swahili is a national or official language in several countries, including Tanzania and Kenya (Kenya made it a national and official language in 2010, and Uganda made it an official language in 2022), a national language of the Democratic Republic of the Congo, and a working/official language of the African Union and the East African Community. It is spoken across East Africa and the African Great Lakes by more than 100 million people by many estimates, most of them as a second language. It is a shared regional language across many countries, not the voice of a single empire.",
+        "sw": "Kiswahili kiliibuka kutoka lugha ya biashara ya pwani na kuwa lugha ya kawaida (lingua franca) — lugha moja inayotumiwa na watu wa lugha za mama tofautitofauti. Katika karne ya 20 kilipata nafasi mpya: baada ya uhuru wa Tanganyika mwaka 1961, viongozi wake waliendeleza Kiswahili kwa makusudi ili kuwaleta pamoja makabila mengi katika taifa jipya. Leo Kiswahili ni lugha ya taifa au rasmi katika nchi kadhaa, zikijumlisha Tanzania na Kenya (Kenya iliifanya iwe lugha ya taifa na rasmi mwaka 2010, na Uganda ikaifanya rasmi mwaka 2022), lugha ya taifa ya Jamhuri ya Kidemokrasia ya Kongo, na lugha ya kazi/rasmi ya Umoja wa Afrika na Jumuiya ya Afrika Mashariki. Kinazungumzwa Afrika Mashariki na Maziwa Makuu ya Afrika na zaidi ya watu milioni 100 kwa makadirio mengi, wengi wao kama lugha ya pili. Ni lugha ya kikanda inayoshirikiwa na nchi nyingi, si sauti ya ufalme mmoja."
+      },
+      "phrases": [
+        {
+          "sw": "Lugha ya taifa / lugha ya kitaifa",
+          "en": "national language"
+        },
+        {
+          "sw": "Lingua franca",
+          "en": "a shared/common language"
+        },
+        {
+          "sw": "Afrika Mashariki",
+          "en": "East Africa"
+        },
+        {
+          "sw": "Umoja",
+          "en": "unity"
+        }
+      ],
+      "questions": [
+        {
+          "prompt": {
+            "en": "Why did Tanzania's leaders promote Swahili after independence (1961)?",
+            "sw": "Viongozi wa Tanzania waliendeleza Kiswahili baada ya uhuru (1961) kwa nini?"
+          },
+          "options": [
+            {
+              "en": "To help unite a new nation of many ethnic groups",
+              "sw": "Kuwaleta pamoja makabila mengi katika taifa moja jipya"
+            },
+            {
+              "en": "To make everyone speak English",
+              "sw": "Kufanya kila mtu azungumze Kiingereza"
+            },
+            {
+              "en": "To replace it with Arabic",
+              "sw": "Kulibadilisha na Kiarabu"
+            },
+            {
+              "en": "To end all trade",
+              "sw": "Kukomesha biashara yote"
+            }
+          ],
+          "correctIndex": 0,
+          "explanation": {
+            "en": "Swahili was deliberately used after independence as a unifying national language for a multi-ethnic new state.",
+            "sw": "Baada ya uhuru, Kiswahili kilitumiwa kwa makusudi kama lugha ya taifa iliyowaleta pamoja makabila mengi."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Besides country governments, where is Swahili a working/official language?",
+            "sw": "Mbali na serikali za nchi, Kiswahili ni lugha ya kazi/rasmi katika chombo gani?"
+          },
+          "options": [
+            {
+              "en": "NATO",
+              "sw": "NATO"
+            },
+            {
+              "en": "The African Union and the East African Community",
+              "sw": "Umoja wa Afrika na Jumuiya ya Afrika Mashariki"
+            },
+            {
+              "en": "The United Nations Security Council only",
+              "sw": "Baraza la Usalama la UN pekee"
+            },
+            {
+              "en": "The European Parliament",
+              "sw": "Bunge la Ulaya"
+            }
+          ],
+          "correctIndex": 1,
+          "explanation": {
+            "en": "Swahili is a working/official language of the African Union and the East African Community.",
+            "sw": "Kiswahili ni lugha ya kazi/rasmi ya Umoja wa Afrika na Jumuiya ya Afrika Mashariki."
+          }
+        },
+        {
+          "prompt": {
+            "en": "Who are most of the speakers of Swahili today?",
+            "sw": "Wazungumzaji wengi wa Kiswahili leo ni wa namna gani?"
+          },
+          "options": [
+            {
+              "en": "Only people in one small country",
+              "sw": "Watu wa nchi moja ndogo pekee"
+            },
+            {
+              "en": "A single ethnic group",
+              "sw": "Kabila moja pekee"
+            },
+            {
+              "en": "Second-language speakers spread across many countries",
+              "sw": "Wazungumzaji wa lugha ya pili walioenea katika nchi nyingi"
+            },
+            {
+              "en": "Only the coastal Swahili people",
+              "sw": "Waswahili wa pwani pekee"
+            }
+          ],
+          "correctIndex": 2,
+          "explanation": {
+            "en": "Most Swahili speakers today are second-language speakers across East Africa and beyond, not natives of a single region.",
+            "sw": "Wazungumzaji wengi wa Kiswahili leo ni watumiaji wa lugha ya pili katika Afrika Mashariki na nje yake, si wenyeji wa eneo moja."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Swahili (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Swahili"
+        },
+        {
+          "title": "The People of the Swahili Coast (National Geographic Education)",
+          "url": "https://education.nationalgeographic.org/resource/people-coast/"
+        }
+      ]
+    }
+  ]
+}
