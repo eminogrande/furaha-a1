@@ -1,110 +1,84 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "items": [
     {
-      "region": "Germany",
+      "region": "Germany / Berlin",
       "title": {
-        "en": "Growth may be slowing",
-        "sw": "Ukuaji huenda unapungua"
+        "en": "Coalition talks to resume",
+        "sw": "Mazungumzo ya muungano kuendelea"
       },
       "summary": {
-        "en": "Germany’s economy ministry says growth probably slowed in the third quarter.",
-        "sw": "Wizara ya Uchumi ya Ujerumani inasema huenda ukuaji wa uchumi ulipungua katika robo ya tatu."
+        "en": "The Left, Greens and SPD plan to resume Berlin coalition talks after clarifying their agreement against antisemitism.",
+        "sw": "Chama cha Left, Greens na SPD vinapanga kuendelea na mazungumzo ya kuunda serikali ya Berlin baada ya kufafanua makubaliano yao ya kupinga chuki dhidi ya Wayahudi."
       },
-      "sourceUrl": "https://finance.yahoo.com/economy/articles/german-economy-likely-slowed-third-082724755.html",
+      "sourceUrl": "https://www.dw.com/en/germany-news-merz-sets-out-eu-priorities-after-urging-reforms/live-79656436",
       "publishedAt": "2026-10-14"
-    },
-    {
-      "region": "Berlin",
-      "title": {
-        "en": "Coalition talks paused",
-        "sw": "Mazungumzo ya muungano yasitishwa kwa muda"
-      },
-      "summary": {
-        "en": "The SPD and Greens paused talks with the Left to clarify commitments against antisemitism.",
-        "sw": "SPD na Greens zimesitisha kwa muda mazungumzo na chama cha Left ili kufafanua makubaliano ya kupinga chuki dhidi ya Wayahudi."
-      },
-      "sourceUrl": "https://www.reuters.com/5f374b32b07b/world/berlin-coalition-talks-called-off-over-antisemitism-deal-concerns-2026-10-13/",
-      "publishedAt": "2026-10-13"
     },
     {
       "region": "Tanzania",
       "title": {
-        "en": "Torch race supports development",
-        "sw": "Mbio za Mwenge zahamasisha maendeleo"
+        "en": "Protecting Lake Tanganyika fish",
+        "sw": "Kulinda samaki wa Ziwa Tanganyika"
       },
       "summary": {
-        "en": "Minister Joel Nanauka says 1,337 projects were launched or had foundation stones laid during this year’s Uhuru Torch Race.",
-        "sw": "Waziri Joel Nanauka amesema miradi 1,337 ilizinduliwa au kuwekewa mawe ya msingi wakati wa Mbio za Mwenge wa Uhuru mwaka huu."
+        "en": "The Citizen reports that Tanzania is increasing investment in fish farming and conservation as fish stocks decline.",
+        "sw": "The Citizen limeripoti kuwa Tanzania inaongeza uwekezaji katika ufugaji wa samaki na uhifadhi kutokana na kupungua kwa samaki."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/uhuru-torch-launches-projects-worth-sh2-24-trillion-5631872",
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/business/government-moves-to-tackle-sharp-decline-in-lake-tanganyika-fish-stocks-5631226",
       "publishedAt": "2026-10-14"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "Seeking environmental funding",
-        "sw": "Kutafuta fedha za mazingira"
+        "en": "Four motorcycle service outlets open",
+        "sw": "Vituo vinne vya huduma za pikipiki vyafunguliwa"
       },
       "summary": {
-        "en": "At consultations in Dar es Salaam, officials outlined Tanzania’s target of $41.06 million from the Global Environment Facility.",
-        "sw": "Katika mashauriano Dar es Salaam, maofisa wameeleza lengo la Tanzania kupata dola milioni 41.06 kutoka Mfuko wa Mazingira wa Dunia."
+        "en": "METL Bajaj has opened one sales and service outlet in Kinondoni and three in Kariakoo.",
+        "sw": "METL Bajaj imefungua kituo kimoja cha mauzo na huduma Kinondoni na vitatu Kariakoo."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-targets-41-million-for-environmental-protection-5631238",
-      "publishedAt": "2026-10-14"
-    },
-    {
-      "region": "Arusha / Berlin",
-      "title": {
-        "en": "EAC and Germany discuss health",
-        "sw": "EAC na Ujerumani zajadili afya"
-      },
-      "summary": {
-        "en": "In a statement issued from Arusha, the EAC reports talks in Berlin on pandemic preparedness and regional cooperation.",
-        "sw": "Katika taarifa iliyotolewa Arusha, EAC imeripoti mazungumzo yaliyofanyika Berlin kuhusu kujiandaa kukabili magonjwa ya mlipuko na ushirikiano wa kikanda."
-      },
-      "sourceUrl": "https://www.eac.int/press-releases/147-health/3607-eac-and-germany-reinforce-partnership-on-pandemic-preparedness-and-regional-development",
+      "sourceUrl": "https://thecitizen.co.tz/tanzania/business/automotive-dealer-opens-four-sales-and-service-points-in-city-expansion-5631618",
       "publishedAt": "2026-10-14"
     }
   ],
   "lesson": {
-    "de": "Wir lernen zusammen.",
-    "en": "We learn together.",
-    "sw": "Tunajifunza pamoja.",
+    "de": "Wo ist das Geschäft?",
+    "en": "Where is the shop?",
+    "sw": "Duka liko wapi?",
     "question": {
-      "en": "Choose the missing verb: Wir ___ zusammen.",
-      "sw": "Chagua kitenzi kinachokosekana: Wir ___ zusammen."
+      "en": "Which word asks about a place: ___ ist das Geschäft?",
+      "sw": "Neno gani huuliza kuhusu mahali: ___ ist das Geschäft?"
     },
     "options": [
       {
-        "en": "lerne",
-        "sw": "lerne"
+        "en": "Wann",
+        "sw": "Lini"
       },
       {
-        "en": "lernen",
-        "sw": "lernen"
+        "en": "Wo",
+        "sw": "Wapi"
       },
       {
-        "en": "lernst",
-        "sw": "lernst"
+        "en": "Wer",
+        "sw": "Nani"
       }
     ],
     "correctIndex": 1,
     "explanation": {
-      "en": "B: lernen. With wir (we), regular present-tense verbs end in -en. Ich lerne means I learn. Emin: Tunajifunza pamoja means We learn together. Review: Schule = school; Geld = money. Five words: lernen = learn; zusammen = together; die Gesundheit = health; die Umwelt = environment; die Nachricht = news item.",
-      "sw": "B: lernen. Kwa wir (sisi), vitenzi vya kawaida katika wakati uliopo huishia kwa -en. Ich lerne maana yake ninajifunza. Emin: Tunajifunza pamoja. Marudio: Schule = shule; Geld = pesa. Maneno matano: lernen = kujifunza; zusammen = pamoja; die Gesundheit = afya; die Umwelt = mazingira; die Nachricht = habari."
+      "en": "B: Wo means where. In this question, the verb ist follows Wo. Compare: Wo ist die Schule? = Where is the school? Emin: Duka liko wapi? = Where is the shop? Review: zusammen = together; die Umwelt = environment.",
+      "sw": "B: Wo maana yake wapi. Katika swali hili, kitenzi ist kinafuata Wo. Mfano mwingine: Wo ist die Schule? = Shule iko wapi? Emin: Duka liko wapi? Marudio: zusammen = pamoja; die Umwelt = mazingira."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-14-de.mp3",
-      "transcript": "Nachrichten und Lernen. Vierzehnter Oktober zweitausendsechsundzwanzig.\nDeutschland. Das Wirtschaftsministerium sagt: Die Wirtschaft ist im dritten Quartal wahrscheinlich langsamer gewachsen.\nBerlin. SPD und Grüne haben Gespräche mit der Linken unterbrochen. Sie wollen klären: Gelten die Vereinbarungen gegen Judenhass noch?\nTansania. Minister Joel Nanauka sagt: Bei der diesjährigen Fackellauf-Kampagne wurden eintausenddreihundertsiebenunddreißig Projekte eröffnet oder ihre Grundsteine gelegt.\nDaressalam. Tansania möchte Geld für die Umwelt bekommen. Bei einem Treffen ging es um das Ziel: einundvierzig Komma null sechs Millionen US-Dollar aus einem internationalen Umweltfonds.\nArusha und Berlin. Die Ostafrikanische Gemeinschaft berichtet aus Arusha über Gespräche in Berlin. Thema sind die Vorbereitung auf große Krankheitsausbrüche und regionale Zusammenarbeit. Das Treffen war in Berlin, nicht in Arusha.\nUnsere Quellen sind Reuters, The Citizen und die Ostafrikanische Gemeinschaft. Die Berliner Nachricht ist vom dreizehnten Oktober. Die anderen Nachrichten sind vom vierzehnten Oktober.\nJetzt lernen wir. Wir lernen zusammen. Fünf Wörter: lernen. zusammen. die Gesundheit. die Umwelt. die Nachricht. Wiederholung: die Schule. das Geld.\nGrammatik: ich lerne. Wir lernen. Bei wir endet das Verb hier auf en.\nEine Frage: Wir, Lücke, zusammen. A: lerne. B: lernen. C: lernst. Bitte kurz stoppen und wählen.\nDie Antwort ist B. Wir lernen zusammen. Bei wir sagen wir lernen, nicht lerne und nicht lernst."
+      "src": "audio/news/2026-10-15-de.mp3",
+      "transcript": "Nachrichten und Lernen. Fünfzehnter Oktober zweitausendsechsundzwanzig.\nDeutschland und Berlin. Die Linke, die Grünen und die SPD wollen wieder über eine gemeinsame Regierung sprechen. Sie haben ihre Vereinbarung gegen Judenhass geklärt. Das berichtet die Deutsche Welle.\nTansania. Im Tanganjikasee gibt es weniger Fische. Die Zeitung The Citizen berichtet: Tansania investiert mehr in Fischzucht und Naturschutz.\nDaressalam. Die Firma METL Bajaj hat vier Verkaufsstellen mit Service für Motorräder eröffnet. Eine ist in Kinondoni. Drei sind in Kariakoo.\nAlle drei Berichte sind vom vierzehnten Oktober. Für Arusha haben wir keine weitere neue Nachricht mit sicherem Veröffentlichungsdatum bestätigt.\nUnsere kleine Lektion: Wo ist das Geschäft? Fünf Wörter: wo, das Geschäft, kaufen, das Motorrad, der Fisch.\nWiederholung: zusammen. Die Umwelt.\nGrammatik: Nach dem Fragewort wo kommt hier das Verb ist. Wo ist das Geschäft? Wo ist die Schule?\nJetzt die Frage: Welches Wort fragt nach einem Ort? Lücke, ist das Geschäft? A: Wann. B: Wo. C: Wer. Bitte stoppen und wählen.\nDie Antwort ist B: Wo. Wo fragt nach einem Ort. Wann fragt nach einer Zeit. Wer fragt nach einer Person.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-14-en.mp3",
-      "transcript": "News and learning for October fourteenth, twenty twenty-six.\nGermany. The economy ministry says growth probably slowed in the third quarter.\nBerlin. The Social Democrats and Greens paused talks with the Left party. They want to clarify agreements against hatred of Jewish people.\nTanzania. Minister Joel Nanauka says one thousand three hundred and thirty-seven projects were opened or had foundation stones laid during this year's Uhuru Torch Race.\nDar es Salaam. Officials discussed Tanzania's target of forty-one point zero six million US dollars from the Global Environment Facility. This is a funding target, not money already received.\nArusha and Berlin. The East African Community issued a statement from Arusha about talks in Berlin. They discussed preparing for disease outbreaks and regional cooperation. The talks took place in Berlin, not Arusha.\nSources are Reuters, The Citizen and the East African Community. The Berlin report was published on October thirteenth. The other reports were published on October fourteenth.\nToday's German sentence is: Wir lernen zusammen. It means: We learn together. Emin's Swahili phrase, written in the lesson, has the same meaning.\nFive German words: lernen means learn. zusammen means together. die Gesundheit means health. die Umwelt means environment. die Nachricht means a news item. Review: Schule means school. Geld means money.\nGrammar: ich lerne means I learn. Wir lernen means we learn. With wir, regular present-tense verbs end in en.\nChoose the missing verb in: Wir, blank, zusammen. A: lerne. B: lernen. C: lernst. Pause and choose.\nThe answer is B, lernen. Wir means we, so we use lernen, not lerne or lernst."
+      "src": "audio/news/2026-10-15-en.mp3",
+      "transcript": "News and learning for October fifteenth, twenty twenty-six.\nGermany and Berlin. The Left, the Greens and the Social Democrats plan to restart talks about forming a government together. They have clarified their agreement against hatred of Jewish people. This is reported by Deutsche Welle.\nTanzania. Fish stocks in Lake Tanganyika are falling. The Citizen reports that Tanzania is increasing investment in fish farming and conservation.\nDar es Salaam. METL Bajaj has opened four motorcycle sales and service outlets. One is in Kinondoni. Three are in Kariakoo.\nAll three reports were published on October fourteenth. We could not confirm another new Arusha story with a reliable publication date.\nToday's German sentence is: Wo ist das Geschäft? It means: Where is the shop? Emin's Swahili phrase in the written lesson asks the same question.\nFive words: wo means where. Das Geschäft means the shop. Kaufen means to buy. Das Motorrad means the motorcycle. Der Fisch means the fish.\nReview: zusammen means together. Die Umwelt means the environment.\nGrammar: in this question, the verb ist comes after the question word wo. Wo ist die Schule? means: Where is the school?\nChoose the word asking about a place. Blank, ist das Geschäft? A: Wann. B: Wo. C: Wer. Pause and choose.\nThe answer is B: Wo. Wo asks where. Wann asks when. Wer asks who.\n"
     }
   ]
 }
