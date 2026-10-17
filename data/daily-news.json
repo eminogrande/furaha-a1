@@ -1,84 +1,84 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "items": [
     {
       "region": "Germany / Berlin",
       "title": {
-        "en": "Burgsdorfstraße set to reopen",
-        "sw": "Burgsdorfstraße kufunguliwa tena"
+        "en": "A square remembers Eva Mamlok",
+        "sw": "Uwanja wapewa jina la Eva Mamlok"
       },
       "summary": {
-        "en": "Berlin-Mitte says Burgsdorfstraße will reopen this afternoon after demolition ended a roughly ten-year closure.",
-        "sw": "Manispaa ya Berlin-Mitte imesema Burgsdorfstraße itafunguliwa tena leo alasiri baada ya ubomoaji kukamilika, kufuatia kufungwa kwa takriban miaka kumi."
+        "en": "Berlin renamed Blücherplatz as Eva-Mamlok-Platz to remember a Jewish woman who resisted the Nazis.",
+        "sw": "Berlin imebadili jina la Blücherplatz kuwa Eva-Mamlok-Platz kumkumbuka mwanamke Myahudi aliyepinga utawala wa Nazi."
       },
-      "sourceUrl": "https://www.berlin.de/ba-mitte/aktuelles/pressemitteilungen/2026/pressemitteilung.1726002.php",
-      "publishedAt": "2026-10-15"
+      "sourceUrl": "https://www.berlin.de/aktuelles/10701680-958090-bluecherplatz-in-kreuzberg-in-evamamlokp.html",
+      "publishedAt": "2026-10-16"
     },
     {
       "region": "Tanzania / Dar es Salaam",
       "title": {
-        "en": "More port cargo by rail",
-        "sw": "Mizigo zaidi ya bandarini kusafirishwa kwa reli"
+        "en": "Health experts discuss safer travel",
+        "sw": "Wataalamu wajadili afya ya wasafiri"
       },
       "summary": {
-        "en": "Tanzania aims to move up to 1,500 containers daily from Dar es Salaam port by rail to reduce congestion; this is a target, not a current total.",
-        "sw": "Tanzania inalenga kusafirisha hadi makontena 1,500 kwa siku kutoka Bandari ya Dar es Salaam kwa reli ili kupunguza msongamano; hili ni lengo, si kiwango kilichofikiwa sasa."
+        "en": "Health professionals meeting in Dar es Salaam are sharing ways to improve care for travellers at a conference running from October 14 to 17.",
+        "sw": "Wataalamu wa afya wanaokutana Dar es Salaam wanabadilishana mbinu za kuboresha huduma kwa wasafiri katika mkutano wa Oktoba 14 hadi 17."
       },
-      "sourceUrl": "https://thecitizen.co.tz/tanzania/business/government-banks-on-railway-to-ease-dar-port-congestion-5632696",
-      "publishedAt": "2026-10-15"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/experts-converge-in-dar-to-tackle-rising-travel-related-health-risks-5634294",
+      "publishedAt": "2026-10-16"
     },
     {
-      "region": "Tanzania / Arusha",
+      "region": "Tanzania / Arusha (EAC headquarters) / Dar es Salaam",
       "title": {
-        "en": "Joint tourism plan approved in Arusha",
-        "sw": "Mpango wa pamoja wa utalii waidhinishwa Arusha"
+        "en": "EAC seeks more trusted online trade",
+        "sw": "EAC yataka biashara ya mtandaoni yenye kuaminika zaidi"
       },
       "summary": {
-        "en": "Meeting in Arusha, East African tourism ministers approved a joint tourism marketing strategy for 2027–2036.",
-        "sw": "Katika mkutano wa Arusha, mawaziri wa utalii wa Afrika Mashariki wameidhinisha mkakati wa pamoja wa kutangaza utalii wa mwaka 2027 hadi 2036."
+        "en": "In a release from its Arusha headquarters, the EAC reported talks in Dar es Salaam on consumer trust and better data for regional online trade.",
+        "sw": "Katika taarifa kutoka makao yake makuu Arusha, EAC imeripoti mazungumzo yaliyofanyika Dar es Salaam kuhusu imani ya wanunuzi na takwimu bora za biashara ya mtandaoni katika kanda."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/east-african-community-approves-10-year-tourism-plan-ahead-of-afcon-2027-5633400",
-      "publishedAt": "2026-10-15"
+      "sourceUrl": "https://www.eac.int/eadrip-news-updates/eardip-press-releases/3609-eac-partner-states-advance-measure-to-strengthen-e-commerce-and-digital-trade",
+      "publishedAt": "2026-10-16"
     }
   ],
   "lesson": {
-    "de": "Wann kommt der Zug?",
-    "en": "When does the train arrive?",
-    "sw": "Treni inafika lini?",
+    "de": "Wie heißt der Platz?",
+    "en": "What is the square called?",
+    "sw": "Uwanja unaitwaje?",
     "question": {
-      "en": "Choose the word asking about time: ___ kommt der Zug?",
-      "sw": "Chagua neno linalouliza kuhusu wakati: ___ kommt der Zug?"
+      "en": "Choose the word asking for the name: ___ heißt der Platz?",
+      "sw": "Chagua neno la kuuliza jina: ___ heißt der Platz?"
     },
     "options": [
       {
-        "en": "Wo",
-        "sw": "Wapi"
-      },
-      {
-        "en": "Wer",
-        "sw": "Nani"
-      },
-      {
         "en": "Wann",
         "sw": "Lini"
+      },
+      {
+        "en": "Wie",
+        "sw": "Vipi"
+      },
+      {
+        "en": "Wo",
+        "sw": "Wapi"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": {
-      "en": "C: Wann means when; Wo asks where and Wer asks who. In this question, kommt follows Wann. Wann kommt der Bus? = When does the bus arrive? Emin: Treni inafika lini? Review: wo = where; zusammen = together.",
-      "sw": "C: Wann maana yake lini; Wo huuliza wapi na Wer huuliza nani. Katika swali hili, kommt hufuata Wann. Wann kommt der Bus? = Basi linafika lini? Emin: Treni inafika lini? Marudio: wo = wapi; zusammen = pamoja."
+      "en": "B: Wie heißt ...? asks what something is called. The verb heißt follows Wie. Wie heißt die Straße? = What is the street called? Review: Wann asks when; Wo asks where. Emin: Uwanja unaitwaje? = What is the square called?",
+      "sw": "B: Wie heißt ...? huuliza jina. Kitenzi heißt hufuata Wie. Wie heißt die Straße? = Barabara inaitwaje? Marudio: Wann huuliza lini; Wo huuliza wapi. Emin: Uwanja unaitwaje?"
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-16-de.mp3",
-      "transcript": "Nachrichten und Lernen. Sechzehnter Oktober zweitausendsechsundzwanzig.\nDeutschland, Berlin. Die Burgsdorfstraße soll heute Nachmittag wieder öffnen. Die Straße war ungefähr zehn Jahre gesperrt. Das gefährliche Haus ist jetzt abgerissen. Das meldet das Bezirksamt Mitte.\nTansania, Daressalam. Mehr Container sollen mit dem Zug vom Hafen weggebracht werden. Das Ziel sind bis zu fünfzehnhundert Container pro Tag. Das ist ein Plan, noch nicht die heutige Zahl. So soll es weniger Stau geben. Das berichtet die Zeitung The Citizen.\nArusha. Die Tourismusminister der Ostafrikanischen Gemeinschaft haben einen gemeinsamen Plan beschlossen. Sie wollen von zweitausendsiebenundzwanzig bis zweitausendsechsunddreißig gemeinsam für Reisen nach Ostafrika werben. Das berichtet The Citizen.\nAlle drei Meldungen sind vom fünfzehnten Oktober.\nUnsere Lektion: Wann kommt der Zug? Fünf Wörter: wann, der Zug, die Straße, kommen, reisen. Wiederholung: Wo ist das Geschäft? Wir lernen zusammen.\nGrammatik: Nach wann kommt hier das Verb. Wann kommt der Zug? Wann kommt der Bus?\nJetzt die Frage: Welches Wort fragt nach der Zeit? Lücke, kommt der Zug? A: Wo. B: Wer. C: Wann. Bitte stoppen und wählen.\nDie Antwort ist C: Wann. Wann fragt nach der Zeit. Wo fragt nach dem Ort. Wer fragt nach einer Person.\n"
+      "src": "audio/news/2026-10-17-de.mp3",
+      "transcript": "Nachrichten und Lernen. Siebzehnter Oktober zweitausendsechsundzwanzig.\nDeutschland, Berlin. Der Blücherplatz hat einen neuen Namen: Eva-Mamlok-Platz. Eva Mamlok war eine jüdische Frau. Sie kämpfte gegen die Nazis. Der Platz erinnert an sie. Das berichtet Berlin.de.\nTansania, Daressalam. Fachleute sprechen über Gesundheit auf Reisen. Sie wollen Reisende besser versorgen. Die Konferenz findet vom vierzehnten bis zum siebzehnten Oktober statt. Das berichtet The Citizen.\nArusha und Daressalam. Die Ostafrikanische Gemeinschaft berichtet aus ihrer Zentrale in Arusha über ein Treffen in Daressalam. Es geht um Handel im Internet. Die Länder wollen mehr Vertrauen beim Einkaufen im Internet und bessere Daten. Das Treffen war in Daressalam, nicht in Arusha.\nAlle drei Berichte sind vom sechzehnten Oktober.\nUnsere Lektion: Wie heißt der Platz? Fünf Wörter: der Platz, der Name, heißen, neu, die Reise.\nGrammatik: Nach wie steht hier das Verb heißt. Wie heißt der Platz? Wie heißt die Straße?\nWiederholung: Wann kommt der Zug? Wo ist das Geschäft?\nJetzt üben: Welches Wort fragt hier nach dem Namen? Lücke, heißt der Platz? A: Wann. B: Wie. C: Wo. Bitte stoppen und wählen.\nDie Antwort ist B: Wie. Wie heißt der Platz? Wann fragt nach der Zeit. Wo fragt nach dem Ort.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-16-en.mp3",
-      "transcript": "News and learning for October sixteenth, twenty twenty-six.\nGermany, Berlin. Burgsdorfstraße is due to reopen this afternoon. It was closed for about ten years. Demolition of an unsafe building is now finished. This comes from the Mitte district office.\nTanzania, Dar es Salaam. The government wants more containers to leave the port by train. The goal is up to fifteen hundred containers a day. This is a target, not the current total. The plan aims to reduce congestion. This is reported by The Citizen.\nArusha. East African tourism ministers approved a joint tourism marketing plan. It covers twenty twenty-seven to twenty thirty-six. The decision was made at a meeting in Arusha, according to The Citizen.\nAll three reports were published on October fifteenth.\nToday's German sentence is: Wann kommt der Zug? It means: When does the train arrive? Emin's Swahili phrase in the written lesson asks the same question.\nFive words: wann means when. Der Zug means the train. Die Straße means the street. Kommen means to come. Reisen means to travel.\nReview: Wo ist das Geschäft? means: Where is the shop? Zusammen means together.\nGrammar: in this question, the verb kommt follows wann. Wann kommt der Bus? means: When does the bus arrive?\nChoose the word asking about time. Blank, kommt der Zug? A: Wo. B: Wer. C: Wann. Pause and choose.\nThe answer is C: Wann. Wann asks when. Wo asks where. Wer asks who.\n"
+      "src": "audio/news/2026-10-17-en.mp3",
+      "transcript": "News and learning for October seventeenth, twenty twenty-six.\nGermany, Berlin. Blücherplatz has a new name: Eva-Mamlok-Platz. It remembers a Jewish woman who resisted the Nazis. This is reported by Berlin.de.\nTanzania, Dar es Salaam. Health experts are discussing how to improve care for travellers. Their conference runs from October fourteenth to seventeenth. This is reported by The Citizen.\nArusha and Dar es Salaam. The East African Community issued news from its headquarters in Arusha about talks held in Dar es Salaam. The countries want more trust in online shopping and better data about online trade. The meeting was in Dar es Salaam, not Arusha.\nAll three reports were published on October sixteenth.\nToday's German sentence: Wie heißt der Platz? What is the square called? Emin can practise the matching Swahili phrase in the written lesson.\nFive words: der Platz means the square. Der Name means the name. Heißen means to be called. Neu means new. Die Reise means the journey.\nGrammar: in this question, heißt follows Wie. Wie heißt die Straße? means: What is the street called?\nReview: Wann kommt der Zug? means: When does the train arrive? Wo means where.\nChoose the word asking for a name. Blank, heißt der Platz? A: Wann. B: Wie. C: Wo. Pause and choose.\nThe answer is B: Wie. Wie heißt asks what something is called. Wann asks when. Wo asks where.\n"
     }
   ]
 }
