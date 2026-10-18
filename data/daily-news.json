@@ -1,53 +1,53 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "items": [
     {
-      "region": "Germany / Berlin",
+      "region": "Germany",
       "title": {
-        "en": "A square remembers Eva Mamlok",
-        "sw": "Uwanja wapewa jina la Eva Mamlok"
+        "en": "Eurowings plans fewer flights",
+        "sw": "Eurowings yapanga kupunguza safari za ndege"
       },
       "summary": {
-        "en": "Berlin renamed Blücherplatz as Eva-Mamlok-Platz to remember a Jewish woman who resisted the Nazis.",
-        "sw": "Berlin imebadili jina la Blücherplatz kuwa Eva-Mamlok-Platz kumkumbuka mwanamke Myahudi aliyepinga utawala wa Nazi."
+        "en": "DW reports that Eurowings plans to cut five percent of its flight programme as high fuel costs put pressure on the airline.",
+        "sw": "DW inaripoti kuwa Eurowings inapanga kupunguza asilimia tano ya safari zake kutokana na gharama kubwa za mafuta."
       },
-      "sourceUrl": "https://www.berlin.de/aktuelles/10701680-958090-bluecherplatz-in-kreuzberg-in-evamamlokp.html",
-      "publishedAt": "2026-10-16"
+      "sourceUrl": "https://learngerman.dw.com/de/17102026-langsam-gesprochene-nachrichten/a-79685886",
+      "publishedAt": "2026-10-17"
     },
     {
       "region": "Tanzania / Dar es Salaam",
       "title": {
-        "en": "Health experts discuss safer travel",
-        "sw": "Wataalamu wajadili afya ya wasafiri"
+        "en": "Fans welcome Jihan home",
+        "sw": "Mashabiki wampokea Jihan nyumbani"
       },
       "summary": {
-        "en": "Health professionals meeting in Dar es Salaam are sharing ways to improve care for travellers at a conference running from October 14 to 17.",
-        "sw": "Wataalamu wa afya wanaokutana Dar es Salaam wanabadilishana mbinu za kuboresha huduma kwa wasafiri katika mkutano wa Oktoba 14 hadi 17."
+        "en": "Fans welcomed Miss Grand International winner Jihan Dimack at Julius Nyerere International Airport on Saturday.",
+        "sw": "Mashabiki walimpokea mshindi wa Miss Grand International, Jihan Dimack, katika Uwanja wa Ndege wa Kimataifa wa Julius Nyerere Jumamosi."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/experts-converge-in-dar-to-tackle-rising-travel-related-health-risks-5634294",
-      "publishedAt": "2026-10-16"
+      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/entertainment/jihan-lands-in-tanzania-after-making-history-at-miss-grand-international-5635696",
+      "publishedAt": "2026-10-17"
     },
     {
-      "region": "Tanzania / Arusha (EAC headquarters) / Dar es Salaam",
+      "region": "Tanzania / Arusha",
       "title": {
-        "en": "EAC seeks more trusted online trade",
-        "sw": "EAC yataka biashara ya mtandaoni yenye kuaminika zaidi"
+        "en": "Landmark improvements proposed",
+        "sw": "Maboresho ya alama za jiji yapendekezwa"
       },
       "summary": {
-        "en": "In a release from its Arusha headquarters, the EAC reported talks in Dar es Salaam on consumer trust and better data for regional online trade.",
-        "sw": "Katika taarifa kutoka makao yake makuu Arusha, EAC imeripoti mazungumzo yaliyofanyika Dar es Salaam kuhusu imani ya wanunuzi na takwimu bora za biashara ya mtandaoni katika kanda."
+        "en": "Arusha News reports plans to improve the Clock Tower roundabout and Arusha Declaration Monument; these are proposals, not completed works.",
+        "sw": "Arusha News inaripoti mipango ya kuboresha eneo la Mnara wa Saa na Mnara wa Azimio la Arusha; kazi hizo bado hazijakamilika."
       },
-      "sourceUrl": "https://www.eac.int/eadrip-news-updates/eardip-press-releases/3609-eac-partner-states-advance-measure-to-strengthen-e-commerce-and-digital-trade",
-      "publishedAt": "2026-10-16"
+      "sourceUrl": "https://www.arushanews.co.tz/localnews/iconic-clock-tower-for-facelift/",
+      "publishedAt": "2026-10-17"
     }
   ],
   "lesson": {
-    "de": "Wie heißt der Platz?",
-    "en": "What is the square called?",
-    "sw": "Uwanja unaitwaje?",
+    "de": "Wo ist der Flughafen?",
+    "en": "Where is the airport?",
+    "sw": "Uwanja wa ndege uko wapi?",
     "question": {
-      "en": "Choose the word asking for the name: ___ heißt der Platz?",
-      "sw": "Chagua neno la kuuliza jina: ___ heißt der Platz?"
+      "en": "Which word asks about a place: ___ ist der Flughafen?",
+      "sw": "Neno gani linauliza mahali: ___ ist der Flughafen?"
     },
     "options": [
       {
@@ -63,22 +63,22 @@
         "sw": "Wapi"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": {
-      "en": "B: Wie heißt ...? asks what something is called. The verb heißt follows Wie. Wie heißt die Straße? = What is the street called? Review: Wann asks when; Wo asks where. Emin: Uwanja unaitwaje? = What is the square called?",
-      "sw": "B: Wie heißt ...? huuliza jina. Kitenzi heißt hufuata Wie. Wie heißt die Straße? = Barabara inaitwaje? Marudio: Wann huuliza lini; Wo huuliza wapi. Emin: Uwanja unaitwaje?"
+      "en": "C: Wo means where. In this question the verb ist follows Wo. Wo ist der Platz? = Where is the square? Review: Wie heißt der Platz? asks its name; Wann asks when. Emin: Uwanja wa ndege uko wapi? = Where is the airport?",
+      "sw": "C: Wo maana yake wapi. Katika swali hili kitenzi ist kinafuata Wo. Wo ist der Platz? = Uwanja uko wapi? Marudio: Wie heißt der Platz? huuliza jina; Wann huuliza lini. Emin: Uwanja wa ndege uko wapi?"
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-17-de.mp3",
-      "transcript": "Nachrichten und Lernen. Siebzehnter Oktober zweitausendsechsundzwanzig.\nDeutschland, Berlin. Der Blücherplatz hat einen neuen Namen: Eva-Mamlok-Platz. Eva Mamlok war eine jüdische Frau. Sie kämpfte gegen die Nazis. Der Platz erinnert an sie. Das berichtet Berlin.de.\nTansania, Daressalam. Fachleute sprechen über Gesundheit auf Reisen. Sie wollen Reisende besser versorgen. Die Konferenz findet vom vierzehnten bis zum siebzehnten Oktober statt. Das berichtet The Citizen.\nArusha und Daressalam. Die Ostafrikanische Gemeinschaft berichtet aus ihrer Zentrale in Arusha über ein Treffen in Daressalam. Es geht um Handel im Internet. Die Länder wollen mehr Vertrauen beim Einkaufen im Internet und bessere Daten. Das Treffen war in Daressalam, nicht in Arusha.\nAlle drei Berichte sind vom sechzehnten Oktober.\nUnsere Lektion: Wie heißt der Platz? Fünf Wörter: der Platz, der Name, heißen, neu, die Reise.\nGrammatik: Nach wie steht hier das Verb heißt. Wie heißt der Platz? Wie heißt die Straße?\nWiederholung: Wann kommt der Zug? Wo ist das Geschäft?\nJetzt üben: Welches Wort fragt hier nach dem Namen? Lücke, heißt der Platz? A: Wann. B: Wie. C: Wo. Bitte stoppen und wählen.\nDie Antwort ist B: Wie. Wie heißt der Platz? Wann fragt nach der Zeit. Wo fragt nach dem Ort.\n"
+      "src": "audio/news/2026-10-18-de.mp3",
+      "transcript": "Nachrichten und Lernen. Achtzehnter Oktober zweitausendsechsundzwanzig.\nDeutschland. Eurowings plant weniger Flüge. Treibstoff ist teuer. Die Fluggesellschaft will fünf Prozent der geplanten Flüge streichen. Das berichtet die Deutsche Welle.\nTansania, Daressalam. Jihan Dimack ist zurück. Sie hat den Wettbewerb Miss Grand International gewonnen. Am Samstag haben Fans sie am Flughafen begrüßt. Das berichtet The Citizen.\nArusha. Zwei bekannte Orte sollen schöner werden: der Platz am Uhrturm und das Denkmal der Erklärung von Arusha. Es gibt Pläne. Die Arbeiten sind noch nicht fertig. Das berichtet Arusha News.\nDie drei Berichte sind vom siebzehnten Oktober. Für Berlin haben wir heute keine neue Meldung ausreichend geprüft.\nUnsere Lektion: Wo ist der Flughafen? Fünf Wörter: der Flughafen, das Flugzeug, fliegen, ankommen, die Uhr.\nGrammatik: Wo fragt nach einem Ort. Danach steht hier das Verb ist. Wo ist der Flughafen? Wo ist der Platz?\nWiederholung: Wie heißt der Platz? Wann kommt der Zug?\nJetzt üben: Welches Wort fragt nach einem Ort? Lücke, ist der Flughafen? A: Wann. B: Wie. C: Wo. Bitte stoppen und wählen.\nDie Antwort ist C: Wo. Wo fragt nach dem Ort. Wann fragt nach der Zeit.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-17-en.mp3",
-      "transcript": "News and learning for October seventeenth, twenty twenty-six.\nGermany, Berlin. Blücherplatz has a new name: Eva-Mamlok-Platz. It remembers a Jewish woman who resisted the Nazis. This is reported by Berlin.de.\nTanzania, Dar es Salaam. Health experts are discussing how to improve care for travellers. Their conference runs from October fourteenth to seventeenth. This is reported by The Citizen.\nArusha and Dar es Salaam. The East African Community issued news from its headquarters in Arusha about talks held in Dar es Salaam. The countries want more trust in online shopping and better data about online trade. The meeting was in Dar es Salaam, not Arusha.\nAll three reports were published on October sixteenth.\nToday's German sentence: Wie heißt der Platz? What is the square called? Emin can practise the matching Swahili phrase in the written lesson.\nFive words: der Platz means the square. Der Name means the name. Heißen means to be called. Neu means new. Die Reise means the journey.\nGrammar: in this question, heißt follows Wie. Wie heißt die Straße? means: What is the street called?\nReview: Wann kommt der Zug? means: When does the train arrive? Wo means where.\nChoose the word asking for a name. Blank, heißt der Platz? A: Wann. B: Wie. C: Wo. Pause and choose.\nThe answer is B: Wie. Wie heißt asks what something is called. Wann asks when. Wo asks where.\n"
+      "src": "audio/news/2026-10-18-en.mp3",
+      "transcript": "News and learning for October eighteenth, twenty twenty-six.\nGermany. Eurowings plans fewer flights because fuel is expensive. It plans to cut five percent of its flight programme, according to Deutsche Welle.\nTanzania, Dar es Salaam. Fans welcomed Jihan Dimack at the airport on Saturday. She won Miss Grand International. This is reported by The Citizen.\nArusha. There are plans to improve the Clock Tower roundabout and the Arusha Declaration Monument. These are proposals, not completed works. This is reported by Arusha News.\nAll three reports were published on October seventeenth. We could not sufficiently verify a fresh Berlin news report today.\nToday's German sentence: Wo ist der Flughafen? It means: Where is the airport? Emin can practise the matching Swahili phrase in the written lesson.\nFive words: der Flughafen, the airport. Das Flugzeug, the plane. Fliegen, to fly. Ankommen, to arrive. Die Uhr, the clock.\nGrammar: Wo asks about a place. Here, the verb ist follows Wo. Wo ist der Platz? means: Where is the square?\nReview: Wie heißt der Platz? means: What is the square called? Wann kommt der Zug? means: When does the train arrive?\nChoose the word asking about a place. Blank, ist der Flughafen? A: Wann. B: Wie. C: Wo. Pause and choose.\nThe answer is C: Wo, meaning where. Wann means when.\n"
     }
   ]
 }
