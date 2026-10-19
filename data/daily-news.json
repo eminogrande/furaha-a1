@@ -1,84 +1,84 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "items": [
     {
-      "region": "Germany",
+      "region": "Germany / Berlin",
       "title": {
-        "en": "Eurowings plans fewer flights",
-        "sw": "Eurowings yapanga kupunguza safari za ndege"
+        "en": "Berlin remembers deported Jews",
+        "sw": "Berlin yawakumbuka Wayahudi waliohamishwa kwa nguvu"
       },
       "summary": {
-        "en": "DW reports that Eurowings plans to cut five percent of its flight programme as high fuel costs put pressure on the airline.",
-        "sw": "DW inaripoti kuwa Eurowings inapanga kupunguza asilimia tano ya safari zake kutokana na gharama kubwa za mafuta."
+        "en": "People gathered at the Platform 17 memorial on Sunday, marking 85 years since systematic deportations of Jews from Berlin began.",
+        "sw": "Watu walikusanyika kwenye kumbukumbu ya Gleis 17 Jumapili, kuadhimisha miaka 85 tangu kuanza kwa uhamishaji wa kimfumo wa Wayahudi kutoka Berlin kwa nguvu."
       },
-      "sourceUrl": "https://learngerman.dw.com/de/17102026-langsam-gesprochene-nachrichten/a-79685886",
-      "publishedAt": "2026-10-17"
+      "sourceUrl": "https://www.dw.com/en/germany-news-berlins-leftist-parties-move-step-closer-to-forming-government/live-79686913",
+      "publishedAt": "2026-10-18"
+    },
+    {
+      "region": "Tanzania",
+      "title": {
+        "en": "Gas results announcement planned",
+        "sw": "Tangazo la matokeo ya uchimbaji wa gesi lapangwa"
+      },
+      "summary": {
+        "en": "The energy minister says the quantity of gas found after drilling in Mnazi Bay will be announced at an October 26–27 event in Msimbati.",
+        "sw": "Waziri wa Nishati amesema kiasi cha gesi kilichopatikana baada ya uchimbaji Mnazi Bay kitatangazwa katika hafla ya Oktoba 26 hadi 27 huko Msimbati."
+      },
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-to-announce-new-natural-gas-finds-soon-5637012",
+      "publishedAt": "2026-10-18"
     },
     {
       "region": "Tanzania / Dar es Salaam",
       "title": {
-        "en": "Fans welcome Jihan home",
-        "sw": "Mashabiki wampokea Jihan nyumbani"
+        "en": "Hospital reports screening campaign",
+        "sw": "Hospitali yaripoti kampeni ya uchunguzi"
       },
       "summary": {
-        "en": "Fans welcomed Miss Grand International winner Jihan Dimack at Julius Nyerere International Airport on Saturday.",
-        "sw": "Mashabiki walimpokea mshindi wa Miss Grand International, Jihan Dimack, katika Uwanja wa Ndege wa Kimataifa wa Julius Nyerere Jumamosi."
+        "en": "An October 18 report describes free breast cancer screening held at Aga Khan Hospital on October 16; this is not a new appointment invitation.",
+        "sw": "Habari ya Oktoba 18 inaeleza uchunguzi wa bure wa saratani ya matiti uliofanyika Hospitali ya Aga Khan Oktoba 16; hii si mwaliko wa uchunguzi mpya."
       },
-      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/entertainment/jihan-lands-in-tanzania-after-making-history-at-miss-grand-international-5635696",
-      "publishedAt": "2026-10-17"
-    },
-    {
-      "region": "Tanzania / Arusha",
-      "title": {
-        "en": "Landmark improvements proposed",
-        "sw": "Maboresho ya alama za jiji yapendekezwa"
-      },
-      "summary": {
-        "en": "Arusha News reports plans to improve the Clock Tower roundabout and Arusha Declaration Monument; these are proposals, not completed works.",
-        "sw": "Arusha News inaripoti mipango ya kuboresha eneo la Mnara wa Saa na Mnara wa Azimio la Arusha; kazi hizo bado hazijakamilika."
-      },
-      "sourceUrl": "https://www.arushanews.co.tz/localnews/iconic-clock-tower-for-facelift/",
-      "publishedAt": "2026-10-17"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/early-detection-key-to-breast-cancer-treatment-5636654",
+      "publishedAt": "2026-10-18"
     }
   ],
   "lesson": {
-    "de": "Wo ist der Flughafen?",
-    "en": "Where is the airport?",
-    "sw": "Uwanja wa ndege uko wapi?",
+    "de": "Wann ist der Termin?",
+    "en": "When is the appointment?",
+    "sw": "Miadi ni lini?",
     "question": {
-      "en": "Which word asks about a place: ___ ist der Flughafen?",
-      "sw": "Neno gani linauliza mahali: ___ ist der Flughafen?"
+      "en": "Choose the question asking WHEN an appointment is.",
+      "sw": "Chagua swali linalouliza miadi ni LINI."
     },
     "options": [
       {
-        "en": "Wann",
-        "sw": "Lini"
+        "en": "Wo ist der Termin?",
+        "sw": "Miadi iko wapi?"
       },
       {
-        "en": "Wie",
-        "sw": "Vipi"
+        "en": "Wann ist der Termin?",
+        "sw": "Miadi ni lini?"
       },
       {
-        "en": "Wo",
-        "sw": "Wapi"
+        "en": "Wie heißt der Arzt?",
+        "sw": "Daktari anaitwa nani?"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": {
-      "en": "C: Wo means where. In this question the verb ist follows Wo. Wo ist der Platz? = Where is the square? Review: Wie heißt der Platz? asks its name; Wann asks when. Emin: Uwanja wa ndege uko wapi? = Where is the airport?",
-      "sw": "C: Wo maana yake wapi. Katika swali hili kitenzi ist kinafuata Wo. Wo ist der Platz? = Uwanja uko wapi? Marudio: Wie heißt der Platz? huuliza jina; Wann huuliza lini. Emin: Uwanja wa ndege uko wapi?"
+      "en": "B: Wann asks about time; Wo asks about place. The verb ist follows the question word: Wann ist der Termin? Wo ist das Krankenhaus? Emin: Miadi ni lini? = When is the appointment? Review: Wo ist der Flughafen? = Where is the airport?",
+      "sw": "B: Wann huuliza wakati; Wo huuliza mahali. Kitenzi ist kinafuata neno la swali: Wann ist der Termin? = Miadi ni lini? Wo ist das Krankenhaus? = Hospitali iko wapi? Emin: Miadi ni lini? Marudio: Wo ist der Flughafen? = Uwanja wa ndege uko wapi?"
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-18-de.mp3",
-      "transcript": "Nachrichten und Lernen. Achtzehnter Oktober zweitausendsechsundzwanzig.\nDeutschland. Eurowings plant weniger Flüge. Treibstoff ist teuer. Die Fluggesellschaft will fünf Prozent der geplanten Flüge streichen. Das berichtet die Deutsche Welle.\nTansania, Daressalam. Jihan Dimack ist zurück. Sie hat den Wettbewerb Miss Grand International gewonnen. Am Samstag haben Fans sie am Flughafen begrüßt. Das berichtet The Citizen.\nArusha. Zwei bekannte Orte sollen schöner werden: der Platz am Uhrturm und das Denkmal der Erklärung von Arusha. Es gibt Pläne. Die Arbeiten sind noch nicht fertig. Das berichtet Arusha News.\nDie drei Berichte sind vom siebzehnten Oktober. Für Berlin haben wir heute keine neue Meldung ausreichend geprüft.\nUnsere Lektion: Wo ist der Flughafen? Fünf Wörter: der Flughafen, das Flugzeug, fliegen, ankommen, die Uhr.\nGrammatik: Wo fragt nach einem Ort. Danach steht hier das Verb ist. Wo ist der Flughafen? Wo ist der Platz?\nWiederholung: Wie heißt der Platz? Wann kommt der Zug?\nJetzt üben: Welches Wort fragt nach einem Ort? Lücke, ist der Flughafen? A: Wann. B: Wie. C: Wo. Bitte stoppen und wählen.\nDie Antwort ist C: Wo. Wo fragt nach dem Ort. Wann fragt nach der Zeit.\n"
+      "src": "audio/news/2026-10-19-de.mp3",
+      "transcript": "Nachrichten und Lernen. Neunzehnter Oktober zweitausendsechsundzwanzig.\nBerlin. Menschen haben am Sonntag am Denkmal Gleis siebzehn an deportierte jüdische Menschen erinnert. Vor fünfundachtzig Jahren begannen die systematischen Deportationen aus Berlin. Das berichtet die Deutsche Welle.\nTansania. In Mnazi Bay wurde nach Gas gebohrt. Der Energieminister sagt: Am sechsundzwanzigsten und siebenundzwanzigsten Oktober soll bekannt werden, wie viel Gas gefunden wurde. Das berichtet The Citizen.\nDaressalam. Das Aga-Khan-Krankenhaus hat am sechzehnten Oktober kostenlose Untersuchungen auf Brustkrebs angeboten. The Citizen berichtet am achtzehnten Oktober darüber. Das Angebot ist schon vorbei.\nAlle drei Berichte sind vom achtzehnten Oktober. Für Arusha haben wir heute keine neue lokale Meldung ausreichend geprüft.\nUnsere Lektion: Wann ist der Termin?\nFünf Wörter: der Termin, der Arzt, die Ärztin, die Untersuchung, warten.\nGrammatik: Wann fragt nach der Zeit. Wo fragt nach dem Ort. Wann ist der Termin? Wo ist das Krankenhaus?\nWiederholung: Wo ist der Flughafen? Wann kommt der Zug?\nWelche Frage fragt nach der Zeit? A: Wo ist der Termin? B: Wann ist der Termin? C: Wie heißt der Arzt? Bitte stoppen und wählen.\nDie Antwort ist B. Wann fragt nach der Zeit.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-18-en.mp3",
-      "transcript": "News and learning for October eighteenth, twenty twenty-six.\nGermany. Eurowings plans fewer flights because fuel is expensive. It plans to cut five percent of its flight programme, according to Deutsche Welle.\nTanzania, Dar es Salaam. Fans welcomed Jihan Dimack at the airport on Saturday. She won Miss Grand International. This is reported by The Citizen.\nArusha. There are plans to improve the Clock Tower roundabout and the Arusha Declaration Monument. These are proposals, not completed works. This is reported by Arusha News.\nAll three reports were published on October seventeenth. We could not sufficiently verify a fresh Berlin news report today.\nToday's German sentence: Wo ist der Flughafen? It means: Where is the airport? Emin can practise the matching Swahili phrase in the written lesson.\nFive words: der Flughafen, the airport. Das Flugzeug, the plane. Fliegen, to fly. Ankommen, to arrive. Die Uhr, the clock.\nGrammar: Wo asks about a place. Here, the verb ist follows Wo. Wo ist der Platz? means: Where is the square?\nReview: Wie heißt der Platz? means: What is the square called? Wann kommt der Zug? means: When does the train arrive?\nChoose the word asking about a place. Blank, ist der Flughafen? A: Wann. B: Wie. C: Wo. Pause and choose.\nThe answer is C: Wo, meaning where. Wann means when.\n"
+      "src": "audio/news/2026-10-19-en.mp3",
+      "transcript": "News and learning for October nineteenth, twenty twenty-six.\nGermany, Berlin. People gathered at the Platform Seventeen memorial on Sunday. They marked eighty-five years since systematic deportations of Jews from Berlin began. Deutsche Welle reports this.\nTanzania. The energy minister says the amount of gas found after drilling in Mnazi Bay will be announced at an event on October twenty-sixth and twenty-seventh in Msimbati. The Citizen reports this.\nDar es Salaam. An October eighteenth report describes free breast cancer screening at Aga Khan Hospital on October sixteenth. The event has already happened. This is not an invitation to a new appointment.\nAll three reports were published on October eighteenth. We could not sufficiently verify a fresh local Arusha report today.\nToday's German sentence: Wann ist der Termin? This means: When is the appointment? Emin's matching Swahili phrase is in the written lesson.\nFive words: der Termin, the appointment. Der Arzt, a male doctor. Die Ärztin, a female doctor. Die Untersuchung, the examination. Warten, to wait.\nGrammar: Wann asks about time. Wo asks about place. The verb ist follows the question word. Wann ist der Termin? When is the appointment? Wo ist das Krankenhaus? Where is the hospital?\nReview: Wo ist der Flughafen? Where is the airport? Wann kommt der Zug? When does the train arrive?\nWhich question asks about time? A: Wo ist der Termin? B: Wann ist der Termin? C: Wie heißt der Arzt? Pause and choose.\nThe answer is B. Wann means when. Wo means where.\n"
     }
   ]
 }
