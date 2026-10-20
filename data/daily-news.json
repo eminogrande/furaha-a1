@@ -1,84 +1,97 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "items": [
     {
       "region": "Germany / Berlin",
       "title": {
-        "en": "Berlin remembers deported Jews",
-        "sw": "Berlin yawakumbuka Wayahudi waliohamishwa kwa nguvu"
+        "en": "Berlin coalition talks move ahead",
+        "sw": "Mazungumzo ya muungano Berlin yasonga mbele"
       },
       "summary": {
-        "en": "People gathered at the Platform 17 memorial on Sunday, marking 85 years since systematic deportations of Jews from Berlin began.",
-        "sw": "Watu walikusanyika kwenye kumbukumbu ya Gleis 17 Jumapili, kuadhimisha miaka 85 tangu kuanza kwa uhamishaji wa kimfumo wa Wayahudi kutoka Berlin kwa nguvu."
+        "en": "Berlin's SPD and Greens voted on Monday to start coalition negotiations with the Left Party, which won the state election.",
+        "sw": "Jumatatu, vyama vya SPD na Kijani vya Berlin vilipiga kura kuanza mazungumzo ya kuunda serikali na chama cha Linke, kilichoshinda uchaguzi wa jimbo."
       },
-      "sourceUrl": "https://www.dw.com/en/germany-news-berlins-leftist-parties-move-step-closer-to-forming-government/live-79686913",
-      "publishedAt": "2026-10-18"
+      "sourceUrl": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354",
+      "publishedAt": "2026-10-19"
     },
     {
-      "region": "Tanzania",
+      "region": "Germany",
       "title": {
-        "en": "Gas results announcement planned",
-        "sw": "Tangazo la matokeo ya uchimbaji wa gesi lapangwa"
+        "en": "Volkswagen plans pay freeze",
+        "sw": "Volkswagen inapanga kusimamisha nyongeza ya mishahara"
       },
       "summary": {
-        "en": "The energy minister says the quantity of gas found after drilling in Mnazi Bay will be announced at an October 26–27 event in Msimbati.",
-        "sw": "Waziri wa Nishati amesema kiasi cha gesi kilichopatikana baada ya uchimbaji Mnazi Bay kitatangazwa katika hafla ya Oktoba 26 hadi 27 huko Msimbati."
+        "en": "VW wants to freeze salaries for about 660,000 workers worldwide until 2030; the works council says it will resist.",
+        "sw": "VW inataka kusimamisha mishahara ya wafanyakazi takriban 660,000 duniani hadi 2030; baraza la wafanyakazi linasema litapinga."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-to-announce-new-natural-gas-finds-soon-5637012",
-      "publishedAt": "2026-10-18"
+      "sourceUrl": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354",
+      "publishedAt": "2026-10-19"
     },
     {
       "region": "Tanzania / Dar es Salaam",
       "title": {
-        "en": "Hospital reports screening campaign",
-        "sw": "Hospitali yaripoti kampeni ya uchunguzi"
+        "en": "Form Four exams begin",
+        "sw": "Mitihani ya Kidato cha Nne yaanza"
       },
       "summary": {
-        "en": "An October 18 report describes free breast cancer screening held at Aga Khan Hospital on October 16; this is not a new appointment invitation.",
-        "sw": "Habari ya Oktoba 18 inaeleza uchunguzi wa bure wa saratani ya matiti uliofanyika Hospitali ya Aga Khan Oktoba 16; hii si mwaliko wa uchunguzi mpya."
+        "en": "Necta, speaking in Dar es Salaam, says 667,040 candidates sit the national Form Four exams from October 19 to November 6.",
+        "sw": "Necta, ikizungumza Dar es Salaam, imesema watahiniwa 667,040 wanafanya mitihani ya taifa ya Kidato cha Nne kuanzia Oktoba 19 hadi Novemba 6."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/early-detection-key-to-breast-cancer-treatment-5636654",
-      "publishedAt": "2026-10-18"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/667-040-candidates-start-national-form-four-examinations-today-5637498",
+      "publishedAt": "2026-10-19"
+    },
+    {
+      "region": "Tanzania",
+      "title": {
+        "en": "Ebola screening at borders",
+        "sw": "Uchunguzi wa Ebola mipakani"
+      },
+      "summary": {
+        "en": "Since October 17, all travellers entering Tanzania must fill an electronic health form and be screened, after Kenya confirmed Ebola cases.",
+        "sw": "Tangu Oktoba 17, wasafiri wote wanaoingia Tanzania lazima wajaze fomu ya afya ya kielektroniki na kuchunguzwa, baada ya Kenya kuthibitisha visa vya Ebola."
+      },
+      "sourceUrl": "https://www.tradingview.com/news/reuters.com,2026-10-19:newsml_Zaw9qtBHl:0-zawya-zawya-sng-tanzania-tightens-border-controls-as-ebola-cases-rise-in-kenya/",
+      "publishedAt": "2026-10-19"
     }
   ],
   "lesson": {
-    "de": "Wann ist der Termin?",
-    "en": "When is the appointment?",
-    "sw": "Miadi ni lini?",
+    "de": "Die Prüfung beginnt heute.",
+    "en": "The exam starts today.",
+    "sw": "Mtihani unaanza leo.",
     "question": {
-      "en": "Choose the question asking WHEN an appointment is.",
-      "sw": "Chagua swali linalouliza miadi ni LINI."
+      "en": "Which German sentence is correct?",
+      "sw": "Sentensi ipi ya Kijerumani ni sahihi?"
     },
     "options": [
       {
-        "en": "Wo ist der Termin?",
-        "sw": "Miadi iko wapi?"
+        "en": "Die Prüfung beginnt heute.",
+        "sw": "Mtihani unaanza leo."
       },
       {
-        "en": "Wann ist der Termin?",
-        "sw": "Miadi ni lini?"
+        "en": "Die Prüfung heute beginnt.",
+        "sw": "(mpangilio wa maneno si sahihi)"
       },
       {
-        "en": "Wie heißt der Arzt?",
-        "sw": "Daktari anaitwa nani?"
+        "en": "Die Prüfung beginnen heute.",
+        "sw": "(umbo la kitenzi si sahihi)"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
-      "en": "B: Wann asks about time; Wo asks about place. The verb ist follows the question word: Wann ist der Termin? Wo ist das Krankenhaus? Emin: Miadi ni lini? = When is the appointment? Review: Wo ist der Flughafen? = Where is the airport?",
-      "sw": "B: Wann huuliza wakati; Wo huuliza mahali. Kitenzi ist kinafuata neno la swali: Wann ist der Termin? = Miadi ni lini? Wo ist das Krankenhaus? = Hospitali iko wapi? Emin: Miadi ni lini? Marudio: Wo ist der Flughafen? = Uwanja wa ndege uko wapi?"
+      "en": "A: In a German statement the verb is in position 2. One exam = singular, so beginnen becomes beginnt. Review: Wann beginnt die Prüfung? = When does the exam start? (like Wann ist der Termin?). Emin: Mtihani unaanza leo; mtihani is m-/mi- class, so the verb takes u-.",
+      "sw": "A: Katika sentensi ya kawaida ya Kijerumani kitenzi kiko nafasi ya pili. Mtihani mmoja = umoja, hivyo beginnen inakuwa beginnt. Marudio: Wann beginnt die Prüfung? = Mtihani unaanza lini? (kama Wann ist der Termin?). Emin: mtihani ni ngeli ya m-/mi-, hivyo kitenzi kinaanza na u-."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-19-de.mp3",
-      "transcript": "Nachrichten und Lernen. Neunzehnter Oktober zweitausendsechsundzwanzig.\nBerlin. Menschen haben am Sonntag am Denkmal Gleis siebzehn an deportierte jüdische Menschen erinnert. Vor fünfundachtzig Jahren begannen die systematischen Deportationen aus Berlin. Das berichtet die Deutsche Welle.\nTansania. In Mnazi Bay wurde nach Gas gebohrt. Der Energieminister sagt: Am sechsundzwanzigsten und siebenundzwanzigsten Oktober soll bekannt werden, wie viel Gas gefunden wurde. Das berichtet The Citizen.\nDaressalam. Das Aga-Khan-Krankenhaus hat am sechzehnten Oktober kostenlose Untersuchungen auf Brustkrebs angeboten. The Citizen berichtet am achtzehnten Oktober darüber. Das Angebot ist schon vorbei.\nAlle drei Berichte sind vom achtzehnten Oktober. Für Arusha haben wir heute keine neue lokale Meldung ausreichend geprüft.\nUnsere Lektion: Wann ist der Termin?\nFünf Wörter: der Termin, der Arzt, die Ärztin, die Untersuchung, warten.\nGrammatik: Wann fragt nach der Zeit. Wo fragt nach dem Ort. Wann ist der Termin? Wo ist das Krankenhaus?\nWiederholung: Wo ist der Flughafen? Wann kommt der Zug?\nWelche Frage fragt nach der Zeit? A: Wo ist der Termin? B: Wann ist der Termin? C: Wie heißt der Arzt? Bitte stoppen und wählen.\nDie Antwort ist B. Wann fragt nach der Zeit.\n"
+      "src": "audio/news/2026-10-20-de.mp3",
+      "transcript": "Nachrichten und Lernen. Zwanzigster Oktober zweitausendsechsundzwanzig.\nBerlin. Die SPD und die Grünen wollen mit der Linken über eine Regierung sprechen. Das haben sie am Montag beschlossen. Das berichtet die Deutsche Welle.\nDeutschland. Volkswagen will die Löhne von etwa sechshundertsechzigtausend Menschen bis zweitausenddreißig nicht erhöhen. Der Betriebsrat ist dagegen. Das berichtet die Deutsche Welle.\nDaressalam. In Tansania beginnen die Prüfungen für die vierte Klasse der Sekundarschule. Sechshundertsiebenundsechzigtausend Schülerinnen und Schüler schreiben bis zum sechsten November. Das berichtet The Citizen.\nTansania. Seit dem siebzehnten Oktober gibt es an der Grenze Kontrollen wegen Ebola. Alle Reisenden füllen ein Formular aus. Grund sind Ebola-Fälle in Kenia. Das berichtet Zawya.\nAlle Berichte sind vom neunzehnten Oktober. Für Arusha haben wir heute keine neue lokale Meldung ausreichend geprüft.\nUnsere Lektion: Die Prüfung beginnt heute.\nFünf Wörter: die Prüfung, die Schule, der Schüler, die Schülerin, beginnen.\nGrammatik: Das Verb steht auf Platz zwei. Die Prüfung beginnt heute. Heute beginnt die Prüfung.\nWiederholung: Wann ist der Termin? Wann beginnt die Prüfung?\nWelcher Satz ist richtig? A: Die Prüfung beginnt heute. B: Die Prüfung heute beginnt. C: Die Prüfung beginnen heute. Bitte stoppen und wählen.\nDie Antwort ist A. Das Verb steht auf Platz zwei, und es heißt beginnt.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-19-en.mp3",
-      "transcript": "News and learning for October nineteenth, twenty twenty-six.\nGermany, Berlin. People gathered at the Platform Seventeen memorial on Sunday. They marked eighty-five years since systematic deportations of Jews from Berlin began. Deutsche Welle reports this.\nTanzania. The energy minister says the amount of gas found after drilling in Mnazi Bay will be announced at an event on October twenty-sixth and twenty-seventh in Msimbati. The Citizen reports this.\nDar es Salaam. An October eighteenth report describes free breast cancer screening at Aga Khan Hospital on October sixteenth. The event has already happened. This is not an invitation to a new appointment.\nAll three reports were published on October eighteenth. We could not sufficiently verify a fresh local Arusha report today.\nToday's German sentence: Wann ist der Termin? This means: When is the appointment? Emin's matching Swahili phrase is in the written lesson.\nFive words: der Termin, the appointment. Der Arzt, a male doctor. Die Ärztin, a female doctor. Die Untersuchung, the examination. Warten, to wait.\nGrammar: Wann asks about time. Wo asks about place. The verb ist follows the question word. Wann ist der Termin? When is the appointment? Wo ist das Krankenhaus? Where is the hospital?\nReview: Wo ist der Flughafen? Where is the airport? Wann kommt der Zug? When does the train arrive?\nWhich question asks about time? A: Wo ist der Termin? B: Wann ist der Termin? C: Wie heißt der Arzt? Pause and choose.\nThe answer is B. Wann means when. Wo means where.\n"
+      "src": "audio/news/2026-10-20-en.mp3",
+      "transcript": "News and learning for October twentieth, twenty twenty-six.\nGermany, Berlin. Berlin's SPD and Greens voted on Monday to start coalition talks with the Left Party. Deutsche Welle reports this.\nGermany. Volkswagen wants to freeze pay for about six hundred sixty thousand workers worldwide until twenty thirty. The works council says it will resist. Deutsche Welle reports this.\nDar es Salaam. The exam council Necta says six hundred sixty-seven thousand and forty candidates are sitting the national Form Four exams, from October nineteenth to November sixth. The Citizen reports this.\nTanzania. Since October seventeenth, all travellers entering Tanzania must fill an electronic health form and be screened, after Kenya confirmed Ebola cases. Zawya reports this.\nAll reports were published on October nineteenth. We could not sufficiently verify a fresh local Arusha report today.\nToday's German sentence: Die Prüfung beginnt heute. This means: The exam starts today. Emin's matching Swahili phrase is in the written lesson.\nFive words: die Prüfung, the exam. Die Schule, the school. Der Schüler, a male student. Die Schülerin, a female student. Beginnen, to begin.\nGrammar: in a German statement, the verb is in position two. Die Prüfung beginnt heute. Or: Heute beginnt die Prüfung. One exam is singular, so beginnen becomes beginnt.\nReview: Wann ist der Termin? When is the appointment? Wann beginnt die Prüfung? When does the exam start?\nWhich sentence is correct? A: Die Prüfung beginnt heute. B: Die Prüfung heute beginnt. C: Die Prüfung beginnen heute. Pause and choose.\nThe answer is A. The verb is in position two, and the singular form is beginnt.\n"
     }
   ]
 }
