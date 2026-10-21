@@ -1,97 +1,97 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "items": [
-    {
-      "region": "Germany / Berlin",
-      "title": {
-        "en": "Berlin coalition talks move ahead",
-        "sw": "Mazungumzo ya muungano Berlin yasonga mbele"
-      },
-      "summary": {
-        "en": "Berlin's SPD and Greens voted on Monday to start coalition negotiations with the Left Party, which won the state election.",
-        "sw": "Jumatatu, vyama vya SPD na Kijani vya Berlin vilipiga kura kuanza mazungumzo ya kuunda serikali na chama cha Linke, kilichoshinda uchaguzi wa jimbo."
-      },
-      "sourceUrl": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354",
-      "publishedAt": "2026-10-19"
-    },
     {
       "region": "Germany",
       "title": {
-        "en": "Volkswagen plans pay freeze",
-        "sw": "Volkswagen inapanga kusimamisha nyongeza ya mishahara"
+        "en": "Tobacco tax starts early by mistake",
+        "sw": "Kodi ya tumbaku yaanza mapema kwa makosa"
       },
       "summary": {
-        "en": "VW wants to freeze salaries for about 660,000 workers worldwide until 2030; the works council says it will resist.",
-        "sw": "VW inataka kusimamisha mishahara ya wafanyakazi takriban 660,000 duniani hadi 2030; baraza la wafanyakazi linasema litapinga."
+        "en": "Germany's new tobacco tax was meant to start in 2027, but a publishing error in the law makes it apply from today; the finance ministry says it will correct the mistake.",
+        "sw": "Kodi mpya ya tumbaku ya Ujerumani ilipaswa kuanza 2027, lakini makosa ya kuchapisha sheria yanaifanya ianze leo; wizara ya fedha inasema itarekebisha makosa hayo."
       },
-      "sourceUrl": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354",
-      "publishedAt": "2026-10-19"
+      "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
+      "publishedAt": "2026-10-21"
+    },
+    {
+      "region": "Berlin",
+      "title": {
+        "en": "Berlin hack exposes weak IT security",
+        "sw": "Uvunjaji wa mtandao Berlin waonyesha usalama dhaifu wa TEHAMA"
+      },
+      "summary": {
+        "en": "rbb reports sensitive data from the August hack of two Berlin Senate departments is now on the darknet, and only five percent of computers had attack-detection software.",
+        "sw": "rbb inaripoti data nyeti kutoka uvunjaji wa Agosti wa idara mbili za Seneti ya Berlin sasa ziko darknet, na ni asilimia tano tu ya kompyuta zilikuwa na programu ya kubaini mashambulizi."
+      },
+      "sourceUrl": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-hackerangriff-verwaltung-darknet-rhysida-daten-senatorin-bonde.html",
+      "publishedAt": "2026-10-21"
+    },
+    {
+      "region": "Dar es Salaam",
+      "title": {
+        "en": "Call for smarter rules in Kariakoo",
+        "sw": "Wito wa kanuni bora Kariakoo"
+      },
+      "summary": {
+        "en": "Experts in Dar es Salaam say blocking over 900 foreign-trader licences is not enough; Tanzanian traders also need capital, skills and support to use the protected business chances.",
+        "sw": "Wataalamu Dar es Salaam wanasema kuzuia leseni zaidi ya 900 za wafanyabiashara wa kigeni haitoshi; wafanyabiashara Watanzania pia wanahitaji mtaji, ujuzi na msaada kutumia fursa zilizolindwa."
+      },
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/wanted-new-strategy-to-tame-rogue-foreigners-in-kariakoo-5638674",
+      "publishedAt": "2026-10-20"
     },
     {
       "region": "Tanzania / Dar es Salaam",
       "title": {
-        "en": "Form Four exams begin",
-        "sw": "Mitihani ya Kidato cha Nne yaanza"
+        "en": "Dar prepares for heavy El Niño rains",
+        "sw": "Dar yajiandaa kwa mvua kubwa za El Niño"
       },
       "summary": {
-        "en": "Necta, speaking in Dar es Salaam, says 667,040 candidates sit the national Form Four exams from October 19 to November 6.",
-        "sw": "Necta, ikizungumza Dar es Salaam, imesema watahiniwa 667,040 wanafanya mitihani ya taifa ya Kidato cha Nne kuanzia Oktoba 19 hadi Novemba 6."
+        "en": "Dar es Salaam authorities are clearing drains and preparing shelters as forecasters warn of wetter-than-normal October to December rains across Tanzania.",
+        "sw": "Mamlaka za Dar es Salaam zinasafisha mifereji na kuandaa makazi ya dharura huku watabiri wakionya mvua kubwa kuliko kawaida Oktoba hadi Desemba nchini Tanzania."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/667-040-candidates-start-national-form-four-examinations-today-5637498",
-      "publishedAt": "2026-10-19"
-    },
-    {
-      "region": "Tanzania",
-      "title": {
-        "en": "Ebola screening at borders",
-        "sw": "Uchunguzi wa Ebola mipakani"
-      },
-      "summary": {
-        "en": "Since October 17, all travellers entering Tanzania must fill an electronic health form and be screened, after Kenya confirmed Ebola cases.",
-        "sw": "Tangu Oktoba 17, wasafiri wote wanaoingia Tanzania lazima wajaze fomu ya afya ya kielektroniki na kuchunguzwa, baada ya Kenya kuthibitisha visa vya Ebola."
-      },
-      "sourceUrl": "https://www.tradingview.com/news/reuters.com,2026-10-19:newsml_Zaw9qtBHl:0-zawya-zawya-sng-tanzania-tightens-border-controls-as-ebola-cases-rise-in-kenya/",
-      "publishedAt": "2026-10-19"
+      "sourceUrl": "https://www.globalissues.org/news/2026/10/20/44383",
+      "publishedAt": "2026-10-20"
     }
   ],
   "lesson": {
-    "de": "Die Prüfung beginnt heute.",
-    "en": "The exam starts today.",
-    "sw": "Mtihani unaanza leo.",
+    "de": "Es regnet heute stark.",
+    "en": "It is raining heavily today.",
+    "sw": "Mvua inanyesha sana leo.",
     "question": {
       "en": "Which German sentence is correct?",
       "sw": "Sentensi ipi ya Kijerumani ni sahihi?"
     },
     "options": [
       {
-        "en": "Die Prüfung beginnt heute.",
-        "sw": "Mtihani unaanza leo."
+        "en": "Es regnet heute stark.",
+        "sw": "Mvua inanyesha sana leo."
       },
       {
-        "en": "Die Prüfung heute beginnt.",
-        "sw": "(mpangilio wa maneno si sahihi)"
-      },
-      {
-        "en": "Die Prüfung beginnen heute.",
+        "en": "Es regen heute stark.",
         "sw": "(umbo la kitenzi si sahihi)"
+      },
+      {
+        "en": "Regnet es heute stark.",
+        "sw": "(hii ni swali, si kauli)"
       }
     ],
     "correctIndex": 0,
     "explanation": {
-      "en": "A: In a German statement the verb is in position 2. One exam = singular, so beginnen becomes beginnt. Review: Wann beginnt die Prüfung? = When does the exam start? (like Wann ist der Termin?). Emin: Mtihani unaanza leo; mtihani is m-/mi- class, so the verb takes u-.",
-      "sw": "A: Katika sentensi ya kawaida ya Kijerumani kitenzi kiko nafasi ya pili. Mtihani mmoja = umoja, hivyo beginnen inakuwa beginnt. Marudio: Wann beginnt die Prüfung? = Mtihani unaanza lini? (kama Wann ist der Termin?). Emin: mtihani ni ngeli ya m-/mi-, hivyo kitenzi kinaanza na u-."
+      "en": "A: Weather sentences use es + regnet (singular, ending -t). Review from yesterday: Die Prüfung beginnt heute = The exam starts today. Emin: Mvua inanyesha sana leo; mvua takes i- verb prefix.",
+      "sw": "A: Sentensi za hali ya hewa hutumia es + regnet (umoja, mwisho -t). Marudio ya jana: Die Prüfung beginnt heute = Mtihani unaanza leo. Emin: mvua inachukua kiambishi i-."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-20-de.mp3",
-      "transcript": "Nachrichten und Lernen. Zwanzigster Oktober zweitausendsechsundzwanzig.\nBerlin. Die SPD und die Grünen wollen mit der Linken über eine Regierung sprechen. Das haben sie am Montag beschlossen. Das berichtet die Deutsche Welle.\nDeutschland. Volkswagen will die Löhne von etwa sechshundertsechzigtausend Menschen bis zweitausenddreißig nicht erhöhen. Der Betriebsrat ist dagegen. Das berichtet die Deutsche Welle.\nDaressalam. In Tansania beginnen die Prüfungen für die vierte Klasse der Sekundarschule. Sechshundertsiebenundsechzigtausend Schülerinnen und Schüler schreiben bis zum sechsten November. Das berichtet The Citizen.\nTansania. Seit dem siebzehnten Oktober gibt es an der Grenze Kontrollen wegen Ebola. Alle Reisenden füllen ein Formular aus. Grund sind Ebola-Fälle in Kenia. Das berichtet Zawya.\nAlle Berichte sind vom neunzehnten Oktober. Für Arusha haben wir heute keine neue lokale Meldung ausreichend geprüft.\nUnsere Lektion: Die Prüfung beginnt heute.\nFünf Wörter: die Prüfung, die Schule, der Schüler, die Schülerin, beginnen.\nGrammatik: Das Verb steht auf Platz zwei. Die Prüfung beginnt heute. Heute beginnt die Prüfung.\nWiederholung: Wann ist der Termin? Wann beginnt die Prüfung?\nWelcher Satz ist richtig? A: Die Prüfung beginnt heute. B: Die Prüfung heute beginnt. C: Die Prüfung beginnen heute. Bitte stoppen und wählen.\nDie Antwort ist A. Das Verb steht auf Platz zwei, und es heißt beginnt.\n"
+      "src": "audio/news/2026-10-21-de.mp3",
+      "transcript": "Nachrichten und Lernen. Einundzwanzigster Oktober zweitausendsechsundzwanzig.\nDeutschland. Die höhere Tabaksteuer gilt durch einen Fehler schon ab heute. Geplant war zweitausendsiebenundzwanzig. Das Finanzministerium will den Fehler korrigieren. Das berichtet die Tagesschau.\nBerlin. Nach dem Hackerangriff im August sind sensible Daten im Darknet. Nur fünf Prozent der Computer hatten eine Software gegen Angriffe. Das berichtet rbb24.\nDaressalam. In Kariakoo wurden über neunhundert Lizenzen ausländischer Händler nicht verlängert. Experten sagen: Tanzanische Händler brauchen auch Geld und Ausbildung. Das berichtet The Citizen.\nTansania. Daressalam bereitet sich auf starken Regen vor. Arbeiter reinigen die Abwasserkanäle. Das berichtet IPS.\nAlle Berichte sind vom zwanzigsten oder einundzwanzigsten Oktober. Für Arusha haben wir heute keine neue lokale Meldung ausreichend geprüft.\nUnsere Lektion: Es regnet heute stark.\nFünf Wörter: der Regen, das Wasser, heute, stark, die Straße.\nGrammatik: Es regnet. Das Wort es ist hier kein echtes Subjekt. Man sagt einfach: Es regnet.\nWiederholung: Die Prüfung beginnt heute. Heute regnet es stark.\nWelcher Satz ist richtig? A: Es regnet heute stark. B: Es regen heute stark. C: Regnet es heute stark ist eine Aussage. Bitte stoppen und wählen.\nDie Antwort ist A. Nach es heißt es regnet, mit t am Ende.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-20-en.mp3",
-      "transcript": "News and learning for October twentieth, twenty twenty-six.\nGermany, Berlin. Berlin's SPD and Greens voted on Monday to start coalition talks with the Left Party. Deutsche Welle reports this.\nGermany. Volkswagen wants to freeze pay for about six hundred sixty thousand workers worldwide until twenty thirty. The works council says it will resist. Deutsche Welle reports this.\nDar es Salaam. The exam council Necta says six hundred sixty-seven thousand and forty candidates are sitting the national Form Four exams, from October nineteenth to November sixth. The Citizen reports this.\nTanzania. Since October seventeenth, all travellers entering Tanzania must fill an electronic health form and be screened, after Kenya confirmed Ebola cases. Zawya reports this.\nAll reports were published on October nineteenth. We could not sufficiently verify a fresh local Arusha report today.\nToday's German sentence: Die Prüfung beginnt heute. This means: The exam starts today. Emin's matching Swahili phrase is in the written lesson.\nFive words: die Prüfung, the exam. Die Schule, the school. Der Schüler, a male student. Die Schülerin, a female student. Beginnen, to begin.\nGrammar: in a German statement, the verb is in position two. Die Prüfung beginnt heute. Or: Heute beginnt die Prüfung. One exam is singular, so beginnen becomes beginnt.\nReview: Wann ist der Termin? When is the appointment? Wann beginnt die Prüfung? When does the exam start?\nWhich sentence is correct? A: Die Prüfung beginnt heute. B: Die Prüfung heute beginnt. C: Die Prüfung beginnen heute. Pause and choose.\nThe answer is A. The verb is in position two, and the singular form is beginnt.\n"
+      "src": "audio/news/2026-10-21-en.mp3",
+      "transcript": "News and learning for October twenty-first, twenty twenty-six.\nGermany. The higher tobacco tax applies from today by mistake. It was planned for twenty twenty-seven. The finance ministry says it will fix the error. Tagesschau reports this.\nBerlin. After the August cyber attack, sensitive data is now on the darknet. Only five percent of computers had attack-detection software. rbb24 reports this.\nDar es Salaam. In Kariakoo, over nine hundred foreign-trader licences were not renewed. Experts say Tanzanian traders also need capital and skills. The Citizen reports this.\nTanzania. Dar es Salaam is preparing for heavy rain. Workers are clearing drainage channels. IPS reports this.\nAll reports are from October twentieth or twenty-first. We could not sufficiently verify a fresh local Arusha report today.\nToday's German sentence: Es regnet heute stark. This means: It is raining heavily today. Emin, the Swahili is: Mvua inanyesha sana leo.\nFive words: der Regen, the rain. Das Wasser, the water. Heute, today. Stark, strong or heavy. Die Straße, the street.\nGrammar: Es regnet means it rains. The word es is a dummy subject; German weather sentences need it.\nReview: Die Prüfung beginnt heute, the exam starts today. Heute regnet es stark, today it rains heavily.\nWhich sentence is correct? A: Es regnet heute stark. B: Es regen heute stark. C: Regnet es heute stark, as a statement. Pause and choose.\nThe answer is A. After es, the verb is regnet, ending in t.\n"
     }
   ]
 }
