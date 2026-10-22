@@ -1,97 +1,97 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "Tobacco tax starts early by mistake",
-        "sw": "Kodi ya tumbaku yaanza mapema kwa makosa"
+        "en": "Nvidia chief promotes AI industry",
+        "sw": "Mkuu wa Nvidia ahimiza matumizi ya AI viwandani"
       },
       "summary": {
-        "en": "Germany's new tobacco tax was meant to start in 2027, but a publishing error in the law makes it apply from today; the finance ministry says it will correct the mistake.",
-        "sw": "Kodi mpya ya tumbaku ya Ujerumani ilipaswa kuanza 2027, lakini makosa ya kuchapisha sheria yanaifanya ianze leo; wizara ya fedha inasema itarekebisha makosa hayo."
+        "en": "At a Berlin conference, Jensen Huang said Germany and Europe could use artificial intelligence in robots, machines and factories.",
+        "sw": "Katika mkutano Berlin, Jensen Huang alisema Ujerumani na Ulaya zinaweza kutumia akili bandia katika roboti, mashine na viwanda."
       },
-      "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
+      "sourceUrl": "https://www.dw.com/en/germany-news-afd-s-weidel-calls-for-major-eu-reforms/live-79719483?maca=en-rss-en-ger-1023-xml-atom",
       "publishedAt": "2026-10-21"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "Berlin hack exposes weak IT security",
-        "sw": "Uvunjaji wa mtandao Berlin waonyesha usalama dhaifu wa TEHAMA"
+        "en": "Replacement buses on the Ringbahn",
+        "sw": "Mabasi mbadala kwenye Ringbahn"
       },
       "summary": {
-        "en": "rbb reports sensitive data from the August hack of two Berlin Senate departments is now on the darknet, and only five percent of computers had attack-detection software.",
-        "sw": "rbb inaripoti data nyeti kutoka uvunjaji wa Agosti wa idara mbili za Seneti ya Berlin sasa ziko darknet, na ni asilimia tano tu ya kompyuta zilikuwa na programu ya kubaini mashambulizi."
+        "en": "Bridge and cable works have stopped Ringbahn trains between Halensee and Westend; passengers must use replacement buses and allow more time.",
+        "sw": "Kazi za madaraja na nyaya zimesimamisha treni za Ringbahn kati ya Halensee na Westend; abiria watumie mabasi mbadala na watenge muda zaidi."
       },
-      "sourceUrl": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-hackerangriff-verwaltung-darknet-rhysida-daten-senatorin-bonde.html",
-      "publishedAt": "2026-10-21"
+      "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/rbb-ringbahn-ab-donnerstagmorgen-zwischen-halensee-und-westend-unterbrochen-100.html",
+      "publishedAt": "2026-10-22T07:45:00+02:00"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "Call for smarter rules in Kariakoo",
-        "sw": "Wito wa kanuni bora Kariakoo"
+        "en": "Africa–India business talks in Dar",
+        "sw": "Mazungumzo ya biashara Afrika na India Dar"
       },
       "summary": {
-        "en": "Experts in Dar es Salaam say blocking over 900 foreign-trader licences is not enough; Tanzanian traders also need capital, skills and support to use the protected business chances.",
-        "sw": "Wataalamu Dar es Salaam wanasema kuzuia leseni zaidi ya 900 za wafanyabiashara wa kigeni haitoshi; wafanyabiashara Watanzania pia wanahitaji mtaji, ujuzi na msaada kutumia fursa zilizolindwa."
+        "en": "An accounting conference in Dar es Salaam brought professionals and business leaders together to discuss trade, investment and cooperation between Africa and India.",
+        "sw": "Mkutano wa uhasibu Dar es Salaam uliwakutanisha wataalamu na viongozi wa biashara kujadili biashara, uwekezaji na ushirikiano kati ya Afrika na India."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/wanted-new-strategy-to-tame-rogue-foreigners-in-kariakoo-5638674",
-      "publishedAt": "2026-10-20"
+      "sourceUrl": "https://ippmedia.co.tz/the-guardian/news/local-news/read/icai-africa-conference-in-dar-strengthens-africa-india-trade-and-professional-ties-2026-10-21-145604",
+      "publishedAt": "2026-10-21"
     },
     {
-      "region": "Tanzania / Dar es Salaam",
+      "region": "Tanzania",
       "title": {
-        "en": "Dar prepares for heavy El Niño rains",
-        "sw": "Dar yajiandaa kwa mvua kubwa za El Niño"
+        "en": "New uses for sisal waste",
+        "sw": "Matumizi mapya ya mabaki ya mkonge"
       },
       "summary": {
-        "en": "Dar es Salaam authorities are clearing drains and preparing shelters as forecasters warn of wetter-than-normal October to December rains across Tanzania.",
-        "sw": "Mamlaka za Dar es Salaam zinasafisha mifereji na kuandaa makazi ya dharura huku watabiri wakionya mvua kubwa kuliko kawaida Oktoba hadi Desemba nchini Tanzania."
+        "en": "Researchers presenting findings in Tanga say sisal waste can help produce animal feed and organic fertiliser, while its potential for energy is still being studied.",
+        "sw": "Watafiti waliowasilisha matokeo Tanga wanasema mabaki ya mkonge yanaweza kutumika kuzalisha chakula cha mifugo na mbolea ya asili, huku uwezekano wa kuzalisha nishati ukiendelea kuchunguzwa."
       },
-      "sourceUrl": "https://www.globalissues.org/news/2026/10/20/44383",
-      "publishedAt": "2026-10-20"
+      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/tanzania-researchers-turn-sisal-waste-into-animal-feed-fertiliser-and-energy-5639886",
+      "publishedAt": "2026-10-21T07:08:39Z"
     }
   ],
   "lesson": {
-    "de": "Es regnet heute stark.",
-    "en": "It is raining heavily today.",
-    "sw": "Mvua inanyesha sana leo.",
+    "de": "Heute fahren wir mit dem Bus.",
+    "en": "Today we are travelling by bus.",
+    "sw": "Leo tunasafiri kwa basi.",
     "question": {
-      "en": "Which German sentence is correct?",
-      "sw": "Sentensi ipi ya Kijerumani ni sahihi?"
+      "en": "In “Heute fahren wir mit dem Bus”, how are we travelling?",
+      "sw": "Katika “Heute fahren wir mit dem Bus”, tunasafiri kwa usafiri gani?"
     },
     "options": [
       {
-        "en": "Es regnet heute stark.",
-        "sw": "Mvua inanyesha sana leo."
+        "en": "By train",
+        "sw": "Kwa treni"
       },
       {
-        "en": "Es regen heute stark.",
-        "sw": "(umbo la kitenzi si sahihi)"
+        "en": "By bus",
+        "sw": "Kwa basi"
       },
       {
-        "en": "Regnet es heute stark.",
-        "sw": "(hii ni swali, si kauli)"
+        "en": "By plane",
+        "sw": "Kwa ndege"
       }
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": {
-      "en": "A: Weather sentences use es + regnet (singular, ending -t). Review from yesterday: Die Prüfung beginnt heute = The exam starts today. Emin: Mvua inanyesha sana leo; mvua takes i- verb prefix.",
-      "sw": "A: Sentensi za hali ya hewa hutumia es + regnet (umoja, mwisho -t). Marudio ya jana: Die Prüfung beginnt heute = Mtihani unaanza leo. Emin: mvua inachukua kiambishi i-."
+      "en": "B: mit dem Bus means by bus. After mit, German uses the dative: der Bus becomes dem Bus; der Zug becomes dem Zug. Five words: der Bus = basi = bus; der Zug = treni = train; fahren = kusafiri = travel; warten = kusubiri = wait; die Zeit = muda = time. Emin: Tunaenda kwa basi = We are going by bus. Review: heute = leo = today; Es regnet heute stark = It is raining heavily today.",
+      "sw": "B: mit dem Bus maana yake kwa basi. Baada ya mit, Kijerumani hutumia hali ya dative: der Bus huwa dem Bus; der Zug huwa dem Zug. Maneno matano: der Bus = basi; der Zug = treni; fahren = kusafiri; warten = kusubiri; die Zeit = muda. Emin: Tunaenda kwa basi = We are going by bus. Marudio: heute = leo; Es regnet heute stark = Mvua inanyesha sana leo."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-21-de.mp3",
-      "transcript": "Nachrichten und Lernen. Einundzwanzigster Oktober zweitausendsechsundzwanzig.\nDeutschland. Die höhere Tabaksteuer gilt durch einen Fehler schon ab heute. Geplant war zweitausendsiebenundzwanzig. Das Finanzministerium will den Fehler korrigieren. Das berichtet die Tagesschau.\nBerlin. Nach dem Hackerangriff im August sind sensible Daten im Darknet. Nur fünf Prozent der Computer hatten eine Software gegen Angriffe. Das berichtet rbb24.\nDaressalam. In Kariakoo wurden über neunhundert Lizenzen ausländischer Händler nicht verlängert. Experten sagen: Tanzanische Händler brauchen auch Geld und Ausbildung. Das berichtet The Citizen.\nTansania. Daressalam bereitet sich auf starken Regen vor. Arbeiter reinigen die Abwasserkanäle. Das berichtet IPS.\nAlle Berichte sind vom zwanzigsten oder einundzwanzigsten Oktober. Für Arusha haben wir heute keine neue lokale Meldung ausreichend geprüft.\nUnsere Lektion: Es regnet heute stark.\nFünf Wörter: der Regen, das Wasser, heute, stark, die Straße.\nGrammatik: Es regnet. Das Wort es ist hier kein echtes Subjekt. Man sagt einfach: Es regnet.\nWiederholung: Die Prüfung beginnt heute. Heute regnet es stark.\nWelcher Satz ist richtig? A: Es regnet heute stark. B: Es regen heute stark. C: Regnet es heute stark ist eine Aussage. Bitte stoppen und wählen.\nDie Antwort ist A. Nach es heißt es regnet, mit t am Ende.\n"
+      "src": "audio/news/2026-10-22-de.mp3",
+      "transcript": "Nachrichten und Lernen. Zweiundzwanzigster Oktober zweitausendsechsundzwanzig.\nDeutschland. Der Chef von Nvidia spricht in Berlin. Er sagt: Deutschland und Europa können künstliche Intelligenz für Roboter, Maschinen und Fabriken nutzen. Das berichtet die Deutsche Welle vom einundzwanzigsten Oktober.\nBerlin. Zwischen Halensee und Westend fahren keine Ringbahnzüge. Es gibt Arbeiten an Brücken und Kabeln. Fahrgäste müssen Ersatzbusse nehmen und mehr Zeit einplanen. Das berichtet rbb über die Tagesschau am zweiundzwanzigsten Oktober.\nDaressalam. Fachleute und Geschäftsleute treffen sich bei einer Konferenz. Sie sprechen über Handel und Zusammenarbeit zwischen Afrika und Indien. Das berichtet The Guardian vom einundzwanzigsten Oktober.\nTansania. Forscher berichten in Tanga über Reste der Sisalpflanze. Daraus können Tierfutter und natürlicher Dünger entstehen. Die Forscher prüfen auch die Nutzung für Energie. Das berichtet The Citizen vom einundzwanzigsten Oktober.\nFür Arusha konnten wir heute keine frische lokale Nachricht ausreichend prüfen.\nUnsere Lektion: Heute fahren wir mit dem Bus.\nFünf Wörter: der Bus. Der Zug. Fahren. Warten. Die Zeit.\nGrammatik: Nach mit kommt der Dativ. Der Bus wird dem Bus. Wir fahren mit dem Bus. Wir fahren mit dem Zug.\nWiederholung: Es regnet heute stark. Heute heißt auf Englisch today.\nFrage: Heute fahren wir mit dem Bus. Wie fahren wir? A: Mit dem Zug. B: Mit dem Bus. C: Mit dem Flugzeug. Bitte stoppen und wählen.\nDie Antwort ist B. Wir fahren mit dem Bus.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-21-en.mp3",
-      "transcript": "News and learning for October twenty-first, twenty twenty-six.\nGermany. The higher tobacco tax applies from today by mistake. It was planned for twenty twenty-seven. The finance ministry says it will fix the error. Tagesschau reports this.\nBerlin. After the August cyber attack, sensitive data is now on the darknet. Only five percent of computers had attack-detection software. rbb24 reports this.\nDar es Salaam. In Kariakoo, over nine hundred foreign-trader licences were not renewed. Experts say Tanzanian traders also need capital and skills. The Citizen reports this.\nTanzania. Dar es Salaam is preparing for heavy rain. Workers are clearing drainage channels. IPS reports this.\nAll reports are from October twentieth or twenty-first. We could not sufficiently verify a fresh local Arusha report today.\nToday's German sentence: Es regnet heute stark. This means: It is raining heavily today. Emin, the Swahili is: Mvua inanyesha sana leo.\nFive words: der Regen, the rain. Das Wasser, the water. Heute, today. Stark, strong or heavy. Die Straße, the street.\nGrammar: Es regnet means it rains. The word es is a dummy subject; German weather sentences need it.\nReview: Die Prüfung beginnt heute, the exam starts today. Heute regnet es stark, today it rains heavily.\nWhich sentence is correct? A: Es regnet heute stark. B: Es regen heute stark. C: Regnet es heute stark, as a statement. Pause and choose.\nThe answer is A. After es, the verb is regnet, ending in t.\n"
+      "src": "audio/news/2026-10-22-en.mp3",
+      "transcript": "News and learning for October twenty-second, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Nvidia chief Jensen Huang spoke in Berlin. He said Germany and Europe could use artificial intelligence for robots, machines and factories. Deutsche Welle reported this on October twenty-first.\nBerlin. Ringbahn trains are not running between Halensee and Westend because of bridge and cable works. Passengers must take replacement buses and allow more time. This is from rbb via Tagesschau, October twenty-second.\nDar es Salaam. An accounting conference brought professionals and business leaders together. They discussed trade, investment and cooperation between Africa and India. The Guardian reported this on October twenty-first.\nTanzania. Researchers in Tanga say sisal waste can help make animal feed and organic fertiliser. They are still studying its potential for energy. The Citizen reported this on October twenty-first.\nWe could not sufficiently verify a fresh local Arusha story today.\nToday's German sentence: Heute fahren wir mit dem Bus. This means: Today we are travelling by bus.\nFive words: der Bus, bus. Der Zug, train. Fahren, travel. Warten, wait. Die Zeit, time.\nGrammar: after mit, German uses the dative. Der Bus becomes dem Bus. Wir fahren mit dem Bus means we travel by bus. Wir fahren mit dem Zug means we travel by train.\nFor Emin, the useful Swahili phrase is written in the lesson; this recording is English, not Swahili.\nReview: heute means today. Es regnet heute stark means it is raining heavily today.\nQuestion: in Heute fahren wir mit dem Bus, how are we travelling? A: by train. B: by bus. C: by plane. Pause and choose.\nThe answer is B, by bus. Mit dem Bus means by bus.\n"
     }
   ]
 }
