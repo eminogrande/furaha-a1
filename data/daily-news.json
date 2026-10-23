@@ -1,97 +1,110 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "Nvidia chief promotes AI industry",
-        "sw": "Mkuu wa Nvidia ahimiza matumizi ya AI viwandani"
+        "en": "Rail delays will take years to fix",
+        "sw": "Kutatua ucheleweshaji wa treni kutachukua miaka"
       },
       "summary": {
-        "en": "At a Berlin conference, Jensen Huang said Germany and Europe could use artificial intelligence in robots, machines and factories.",
-        "sw": "Katika mkutano Berlin, Jensen Huang alisema Ujerumani na Ulaya zinaweza kutumia akili bandia katika roboti, mashine na viwanda."
+        "en": "Deutsche Bahn says major improvements in punctuality are unlikely before key rail renovation projects are finished, including work planned for 2029.",
+        "sw": "Deutsche Bahn inasema maboresho makubwa ya kufika kwa wakati hayatarajiwi kabla ya kukamilika kwa miradi muhimu ya ukarabati wa reli, ikiwemo kazi iliyopangwa mwaka 2029."
       },
-      "sourceUrl": "https://www.dw.com/en/germany-news-afd-s-weidel-calls-for-major-eu-reforms/live-79719483?maca=en-rss-en-ger-1023-xml-atom",
-      "publishedAt": "2026-10-21"
+      "sourceUrl": "https://www.dw.com/en/germany-news-many-sites-back-online-after-php-security-fix/live-79728628?maca=en-rss-en-ger-1023-rdf",
+      "publishedAt": "2026-10-22"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "Replacement buses on the Ringbahn",
-        "sw": "Mabasi mbadala kwenye Ringbahn"
+        "en": "A November of library celebrations",
+        "sw": "Sherehe za maktaba mwezi Novemba"
       },
       "summary": {
-        "en": "Bridge and cable works have stopped Ringbahn trains between Halensee and Westend; passengers must use replacement buses and allow more time.",
-        "sw": "Kazi za madaraja na nyaya zimesimamisha treni za Ringbahn kati ya Halensee na Westend; abiria watumie mabasi mbadala na watenge muda zaidi."
+        "en": "The Ingeborg-Drewitz Library announced free November events celebrating 130 years of reading history in Steglitz; some events require registration.",
+        "sw": "Maktaba ya Ingeborg-Drewitz imetangaza shughuli za bure mwezi Novemba kusherehekea miaka 130 ya historia ya usomaji Steglitz; baadhi zinahitaji kujisajili."
       },
-      "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/rbb-ringbahn-ab-donnerstagmorgen-zwischen-halensee-und-westend-unterbrochen-100.html",
-      "publishedAt": "2026-10-22T07:45:00+02:00"
+      "sourceUrl": "https://www.berlin.de/ba-steglitz-zehlendorf/aktuelles/pressemitteilungen/2026/pressemitteilung.1729714.php",
+      "publishedAt": "2026-10-22T13:16:00+02:00"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "Africa–India business talks in Dar",
-        "sw": "Mazungumzo ya biashara Afrika na India Dar"
+        "en": "Checks before Mandela Road compensation",
+        "sw": "Uhakiki kabla ya fidia ya Barabara ya Mandela"
       },
       "summary": {
-        "en": "An accounting conference in Dar es Salaam brought professionals and business leaders together to discuss trade, investment and cooperation between Africa and India.",
-        "sw": "Mkutano wa uhasibu Dar es Salaam uliwakutanisha wataalamu na viongozi wa biashara kujadili biashara, uwekezaji na ushirikiano kati ya Afrika na India."
+        "en": "Tanroads is checking compensation documents for property owners affected by the planned Mandela Road upgrade for the fifth BRT phase; a contractor has not yet been selected.",
+        "sw": "Tanroads inahakiki nyaraka za fidia za wenye mali watakaoathiriwa na upanuzi uliopangwa wa Barabara ya Mandela kwa awamu ya tano ya mabasi ya mwendokasi; mkandarasi bado hajachaguliwa."
       },
-      "sourceUrl": "https://ippmedia.co.tz/the-guardian/news/local-news/read/icai-africa-conference-in-dar-strengthens-africa-india-trade-and-professional-ties-2026-10-21-145604",
-      "publishedAt": "2026-10-21"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/business/tanroads-verifies-compensation-records-for-mandela-road-project-5641192",
+      "publishedAt": "2026-10-22T06:50:58Z"
     },
     {
       "region": "Tanzania",
       "title": {
-        "en": "New uses for sisal waste",
-        "sw": "Matumizi mapya ya mabaki ya mkonge"
+        "en": "Environment regulator seeks stronger powers",
+        "sw": "NEMC yaomba mamlaka zaidi"
       },
       "summary": {
-        "en": "Researchers presenting findings in Tanga say sisal waste can help produce animal feed and organic fertiliser, while its potential for energy is still being studied.",
-        "sw": "Watafiti waliowasilisha matokeo Tanga wanasema mabaki ya mkonge yanaweza kutumika kuzalisha chakula cha mifugo na mbolea ya asili, huku uwezekano wa kuzalisha nishati ukiendelea kuchunguzwa."
+        "en": "NEMC has asked parliamentary committees for legal changes to strengthen environmental enforcement and improve waste management.",
+        "sw": "NEMC imewasilisha kwa kamati za Bunge mapendekezo ya mabadiliko ya sheria ili kuimarisha usimamizi wa mazingira na kuboresha udhibiti wa taka."
       },
-      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/tanzania-researchers-turn-sisal-waste-into-animal-feed-fertiliser-and-energy-5639886",
-      "publishedAt": "2026-10-21T07:08:39Z"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/nemc-takes-autonomy-push-to-parliamentary-committees-5641474",
+      "publishedAt": "2026-10-22T09:40:51Z"
+    },
+    {
+      "region": "Arusha",
+      "title": {
+        "en": "Mollel leads after first golf round",
+        "sw": "Mollel aongoza baada ya raundi ya kwanza ya gofu"
+      },
+      "summary": {
+        "en": "Nuru Mollel took the opening-round lead at the Tanzania Open at Kili Golf in Arusha, finishing two shots ahead of his nearest rival.",
+        "sw": "Nuru Mollel ameongoza raundi ya kwanza ya Tanzania Open katika Kili Golf, Arusha, akiwa mbele kwa mipigo miwili dhidi ya mshindani wake wa karibu."
+      },
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/sports/mollel-takes-early-lead-at-vodacom-tanzania-open-5641224",
+      "publishedAt": "2026-10-22T20:52:58Z"
     }
   ],
   "lesson": {
-    "de": "Heute fahren wir mit dem Bus.",
-    "en": "Today we are travelling by bus.",
-    "sw": "Leo tunasafiri kwa basi.",
+    "de": "Heute lesen wir ein Buch.",
+    "en": "Today we are reading a book.",
+    "sw": "Leo tunasoma kitabu.",
     "question": {
-      "en": "In “Heute fahren wir mit dem Bus”, how are we travelling?",
-      "sw": "Katika “Heute fahren wir mit dem Bus”, tunasafiri kwa usafiri gani?"
+      "en": "In “Heute lesen wir ein Buch”, what are we reading?",
+      "sw": "Katika “Heute lesen wir ein Buch”, tunasoma nini?"
     },
     "options": [
       {
-        "en": "By train",
-        "sw": "Kwa treni"
+        "en": "A newspaper",
+        "sw": "Gazeti"
       },
       {
-        "en": "By bus",
-        "sw": "Kwa basi"
+        "en": "A letter",
+        "sw": "Barua"
       },
       {
-        "en": "By plane",
-        "sw": "Kwa ndege"
+        "en": "A book",
+        "sw": "Kitabu"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": {
-      "en": "B: mit dem Bus means by bus. After mit, German uses the dative: der Bus becomes dem Bus; der Zug becomes dem Zug. Five words: der Bus = basi = bus; der Zug = treni = train; fahren = kusafiri = travel; warten = kusubiri = wait; die Zeit = muda = time. Emin: Tunaenda kwa basi = We are going by bus. Review: heute = leo = today; Es regnet heute stark = It is raining heavily today.",
-      "sw": "B: mit dem Bus maana yake kwa basi. Baada ya mit, Kijerumani hutumia hali ya dative: der Bus huwa dem Bus; der Zug huwa dem Zug. Maneno matano: der Bus = basi; der Zug = treni; fahren = kusafiri; warten = kusubiri; die Zeit = muda. Emin: Tunaenda kwa basi = We are going by bus. Marudio: heute = leo; Es regnet heute stark = Mvua inanyesha sana leo."
+      "en": "C: ein Buch means a book. Grammar: with Heute first, the conjugated verb stays second: Heute lesen wir. Heute fahren wir mit dem Bus follows the same pattern. Five words: das Buch = kitabu = book; lesen = kusoma = read; die Bibliothek = maktaba = library; die Zeitung = gazeti = newspaper; kostenlos = bila malipo = free of charge. Emin: Tunasoma kitabu = We are reading a book. Review: heute = leo = today; der Bus = basi = bus. This exercise is practice, not an exam-readiness assessment.",
+      "sw": "C: ein Buch maana yake kitabu. Sarufi: Heute ikiwa mwanzoni, kitenzi kilichonyambuliwa hubaki nafasi ya pili: Heute lesen wir. Heute fahren wir mit dem Bus hufuata mpangilio huo pia. Maneno matano: das Buch = kitabu; lesen = kusoma; die Bibliothek = maktaba; die Zeitung = gazeti; kostenlos = bila malipo. Emin: Tunasoma kitabu = We are reading a book. Marudio: heute = leo; der Bus = basi. Zoezi hili ni la kujifunza, si kipimo cha utayari wa mtihani."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-22-de.mp3",
-      "transcript": "Nachrichten und Lernen. Zweiundzwanzigster Oktober zweitausendsechsundzwanzig.\nDeutschland. Der Chef von Nvidia spricht in Berlin. Er sagt: Deutschland und Europa können künstliche Intelligenz für Roboter, Maschinen und Fabriken nutzen. Das berichtet die Deutsche Welle vom einundzwanzigsten Oktober.\nBerlin. Zwischen Halensee und Westend fahren keine Ringbahnzüge. Es gibt Arbeiten an Brücken und Kabeln. Fahrgäste müssen Ersatzbusse nehmen und mehr Zeit einplanen. Das berichtet rbb über die Tagesschau am zweiundzwanzigsten Oktober.\nDaressalam. Fachleute und Geschäftsleute treffen sich bei einer Konferenz. Sie sprechen über Handel und Zusammenarbeit zwischen Afrika und Indien. Das berichtet The Guardian vom einundzwanzigsten Oktober.\nTansania. Forscher berichten in Tanga über Reste der Sisalpflanze. Daraus können Tierfutter und natürlicher Dünger entstehen. Die Forscher prüfen auch die Nutzung für Energie. Das berichtet The Citizen vom einundzwanzigsten Oktober.\nFür Arusha konnten wir heute keine frische lokale Nachricht ausreichend prüfen.\nUnsere Lektion: Heute fahren wir mit dem Bus.\nFünf Wörter: der Bus. Der Zug. Fahren. Warten. Die Zeit.\nGrammatik: Nach mit kommt der Dativ. Der Bus wird dem Bus. Wir fahren mit dem Bus. Wir fahren mit dem Zug.\nWiederholung: Es regnet heute stark. Heute heißt auf Englisch today.\nFrage: Heute fahren wir mit dem Bus. Wie fahren wir? A: Mit dem Zug. B: Mit dem Bus. C: Mit dem Flugzeug. Bitte stoppen und wählen.\nDie Antwort ist B. Wir fahren mit dem Bus.\n"
+      "src": "audio/news/2026-10-23-de.mp3",
+      "transcript": "Nachrichten und Lernen. Dreiundzwanzigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme ist mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Viele Züge kommen zu spät. Die Bahn sagt: Große Verbesserungen brauchen noch mehrere Jahre. Wichtige Arbeiten am Schienennetz müssen zuerst fertig werden. Das berichtet die Deutsche Welle vom zweiundzwanzigsten Oktober.\nBerlin. Die Ingeborg-Drewitz-Bibliothek feiert im November. Es gibt kostenlose Veranstaltungen. Es geht um hundertdreißig Jahre Lesen in Steglitz. Für manche Veranstaltungen muss man sich anmelden. Das meldet das Bezirksamt am zweiundzwanzigsten Oktober.\nDaressalam. Die Straßenbehörde prüft Dokumente für Entschädigungen. Die Mandela-Straße soll für eine neue Schnellbusstrecke ausgebaut werden. Eine Baufirma ist noch nicht ausgewählt. Das berichtet The Citizen vom zweiundzwanzigsten Oktober.\nTansania. Die Umweltbehörde möchte stärkere Rechte. Sie hat Vorschläge für neue Regeln an Ausschüsse im Parlament gegeben. Es geht um Umweltschutz und Müll. Das berichtet The Citizen vom zweiundzwanzigsten Oktober.\nArusha. Nuru Mollel führt nach der ersten Runde beim Golfturnier Tanzania Open. Er liegt zwei Schläge vor seinem nächsten Gegner. Das berichtet The Citizen vom zweiundzwanzigsten Oktober.\nUnsere Lektion: Heute lesen wir ein Buch.\nFünf Wörter: das Buch. Lesen. Die Bibliothek. Die Zeitung. Kostenlos.\nGrammatik: Heute steht am Anfang. Das Verb steht auf Platz zwei. Heute lesen wir ein Buch. Heute fahren wir mit dem Bus.\nWiederholung: heute. Der Bus.\nFrage: Heute lesen wir ein Buch. Was lesen wir? A: Eine Zeitung. B: Einen Brief. C: Ein Buch. Bitte stoppen und wählen.\nDie Antwort ist C. Wir lesen ein Buch.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-22-en.mp3",
-      "transcript": "News and learning for October twenty-second, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Nvidia chief Jensen Huang spoke in Berlin. He said Germany and Europe could use artificial intelligence for robots, machines and factories. Deutsche Welle reported this on October twenty-first.\nBerlin. Ringbahn trains are not running between Halensee and Westend because of bridge and cable works. Passengers must take replacement buses and allow more time. This is from rbb via Tagesschau, October twenty-second.\nDar es Salaam. An accounting conference brought professionals and business leaders together. They discussed trade, investment and cooperation between Africa and India. The Guardian reported this on October twenty-first.\nTanzania. Researchers in Tanga say sisal waste can help make animal feed and organic fertiliser. They are still studying its potential for energy. The Citizen reported this on October twenty-first.\nWe could not sufficiently verify a fresh local Arusha story today.\nToday's German sentence: Heute fahren wir mit dem Bus. This means: Today we are travelling by bus.\nFive words: der Bus, bus. Der Zug, train. Fahren, travel. Warten, wait. Die Zeit, time.\nGrammar: after mit, German uses the dative. Der Bus becomes dem Bus. Wir fahren mit dem Bus means we travel by bus. Wir fahren mit dem Zug means we travel by train.\nFor Emin, the useful Swahili phrase is written in the lesson; this recording is English, not Swahili.\nReview: heute means today. Es regnet heute stark means it is raining heavily today.\nQuestion: in Heute fahren wir mit dem Bus, how are we travelling? A: by train. B: by bus. C: by plane. Pause and choose.\nThe answer is B, by bus. Mit dem Bus means by bus.\n"
+      "src": "audio/news/2026-10-23-en.mp3",
+      "transcript": "News and learning for October twenty-third, twenty twenty-six. This is AI narration in the approved Nuri voice. All five sources were published on October twenty-second.\nGermany. Deutsche Bahn says major improvements in train punctuality will take several more years. Important rail renovation projects must be finished first. This is from Deutsche Welle.\nBerlin. The Ingeborg-Drewitz Library announced free events in November. They celebrate a hundred and thirty years of reading history in Steglitz. Some events need registration. This is from the district council.\nDar es Salaam. Tanroads is checking compensation papers before the planned Mandela Road upgrade for a new rapid bus corridor. A building contractor has not yet been selected. This is from The Citizen.\nTanzania. The environment regulator wants stronger legal powers. It has given proposals to parliamentary committees to improve environmental enforcement and waste management. This is from The Citizen.\nArusha. Nuru Mollel leads after the first round of the Tanzania Open golf tournament. He is two shots ahead of his nearest rival. This is from The Citizen.\nToday's German sentence: Heute lesen wir ein Buch. It means: Today we are reading a book.\nFive words: das Buch, book. Lesen, read. Die Bibliothek, library. Die Zeitung, newspaper. Kostenlos, free of charge.\nGrammar: when Heute comes first, the conjugated verb stays in second position. Heute lesen wir ein Buch. Today we are reading a book. Review yesterday: Heute fahren wir mit dem Bus. Today we are travelling by bus.\nEmin's Swahili phrase and all Swahili translations are in the written lesson. This recording is English, not Swahili.\nQuestion: in Heute lesen wir ein Buch, what are we reading? A: a newspaper. B: a letter. C: a book. Pause and choose.\nThe answer is C, a book. Ein Buch means a book. This is learning practice, not proof of exam readiness.\n"
     }
   ]
 }
