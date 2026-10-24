@@ -1,110 +1,110 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "Rail delays will take years to fix",
-        "sw": "Kutatua ucheleweshaji wa treni kutachukua miaka"
+        "en": "Home prices barely rise",
+        "sw": "Bei za nyumba zapanda kidogo sana"
       },
       "summary": {
-        "en": "Deutsche Bahn says major improvements in punctuality are unlikely before key rail renovation projects are finished, including work planned for 2029.",
-        "sw": "Deutsche Bahn inasema maboresho makubwa ya kufika kwa wakati hayatarajiwi kabla ya kukamilika kwa miradi muhimu ya ukarabati wa reli, ikiwemo kazi iliyopangwa mwaka 2029."
+        "en": "Reuters reports that German home prices barely increased in the third quarter, as higher borrowing costs weakened demand.",
+        "sw": "Reuters inaripoti kuwa bei za nyumba Ujerumani zilipanda kidogo sana katika robo ya tatu ya mwaka, huku gharama kubwa za mikopo zikipunguza mahitaji."
       },
-      "sourceUrl": "https://www.dw.com/en/germany-news-many-sites-back-online-after-php-security-fix/live-79728628?maca=en-rss-en-ger-1023-rdf",
-      "publishedAt": "2026-10-22"
+      "sourceUrl": "https://www.newsobserver.com/news/nation-world/national/article317743327.html",
+      "publishedAt": "2026-10-23"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "A November of library celebrations",
-        "sw": "Sherehe za maktaba mwezi Novemba"
+        "en": "Parking payments move to phones",
+        "sw": "Malipo ya maegesho yahamia kwenye simu"
       },
       "summary": {
-        "en": "The Ingeborg-Drewitz Library announced free November events celebrating 130 years of reading history in Steglitz; some events require registration.",
-        "sw": "Maktaba ya Ingeborg-Drewitz imetangaza shughuli za bure mwezi Novemba kusherehekea miaka 130 ya historia ya usomaji Steglitz; baadhi zinahitaji kujisajili."
+        "en": "rbb reports that about 68 percent of Berlin parking tickets were bought by phone in 2025; app service fees vary.",
+        "sw": "rbb inaripoti kuwa takriban asilimia 68 ya tiketi za maegesho Berlin zilinunuliwa kwa simu mwaka 2025; ada za huduma hutofautiana kati ya programu."
       },
-      "sourceUrl": "https://www.berlin.de/ba-steglitz-zehlendorf/aktuelles/pressemitteilungen/2026/pressemitteilung.1729714.php",
-      "publishedAt": "2026-10-22T13:16:00+02:00"
+      "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/rbb-das-geschaeft-mit-dem-handyparken-boomt-und-geht-erst-richtig-los-102.html",
+      "publishedAt": "2026-10-24T07:14:00+02:00"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "Checks before Mandela Road compensation",
-        "sw": "Uhakiki kabla ya fidia ya Barabara ya Mandela"
+        "en": "University keeps supplementary exams",
+        "sw": "Chuo chaendelea na mitihani ya marudio"
       },
       "summary": {
-        "en": "Tanroads is checking compensation documents for property owners affected by the planned Mandela Road upgrade for the fifth BRT phase; a contractor has not yet been selected.",
-        "sw": "Tanroads inahakiki nyaraka za fidia za wenye mali watakaoathiriwa na upanuzi uliopangwa wa Barabara ya Mandela kwa awamu ya tano ya mabasi ya mwendokasi; mkandarasi bado hajachaguliwa."
+        "en": "The University of Dar es Salaam says special and supplementary exams have not been abolished but will take place within the regular academic calendar.",
+        "sw": "Chuo Kikuu cha Dar es Salaam kinasema mitihani maalumu na ya marudio haijafutwa, bali itafanyika ndani ya kalenda ya kawaida ya masomo."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/business/tanroads-verifies-compensation-records-for-mandela-road-project-5641192",
-      "publishedAt": "2026-10-22T06:50:58Z"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/udsm-dismisses-claims-of-scrapping-special-and-supplementary-exams-5643650",
+      "publishedAt": "2026-10-23"
     },
     {
       "region": "Tanzania",
       "title": {
-        "en": "Environment regulator seeks stronger powers",
-        "sw": "NEMC yaomba mamlaka zaidi"
+        "en": "Call to invest in skills",
+        "sw": "Wito wa kuwekeza katika ujuzi"
       },
       "summary": {
-        "en": "NEMC has asked parliamentary committees for legal changes to strengthen environmental enforcement and improve waste management.",
-        "sw": "NEMC imewasilisha kwa kamati za Bunge mapendekezo ya mabadiliko ya sheria ili kuimarisha usimamizi wa mazingira na kuboresha udhibiti wa taka."
+        "en": "At a UN anniversary event, Tanzania asked development partners to invest more in skills, innovation and sustainable infrastructure for Vision 2050.",
+        "sw": "Katika maadhimisho ya Umoja wa Mataifa, Tanzania imewaomba washirika wa maendeleo kuongeza uwekezaji katika ujuzi, ubunifu na miundombinu endelevu kwa Dira ya 2050."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/nemc-takes-autonomy-push-to-parliamentary-committees-5641474",
-      "publishedAt": "2026-10-22T09:40:51Z"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-urges-partners-to-back-vision-2050-5643226",
+      "publishedAt": "2026-10-23"
     },
     {
       "region": "Arusha",
       "title": {
-        "en": "Mollel leads after first golf round",
-        "sw": "Mollel aongoza baada ya raundi ya kwanza ya gofu"
+        "en": "Border patrol vehicles handed over",
+        "sw": "Magari ya doria za mipakani yakabidhiwa"
       },
       "summary": {
-        "en": "Nuru Mollel took the opening-round lead at the Tanzania Open at Kili Golf in Arusha, finishing two shots ahead of his nearest rival.",
-        "sw": "Nuru Mollel ameongoza raundi ya kwanza ya Tanzania Open katika Kili Golf, Arusha, akiwa mbele kwa mipigo miwili dhidi ya mshindani wake wa karibu."
+        "en": "At its Arusha headquarters, the EAC handed over 16 Japan-funded patrol vehicles for border operations across its eight partner states.",
+        "sw": "Katika makao yake makuu Arusha, Jumuiya ya Afrika Mashariki imekabidhi magari 16 ya doria yaliyofadhiliwa na Japan kwa shughuli za mipakani katika nchi zake nane wanachama."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/sports/mollel-takes-early-lead-at-vodacom-tanzania-open-5641224",
-      "publishedAt": "2026-10-22T20:52:58Z"
+      "sourceUrl": "https://www.eac.int/press-releases/154-peace-security/3610-eac,-japan-and-unops-join-forces-to-strengthen-border-security-and-enhance-regional-trade%20",
+      "publishedAt": "2026-10-23"
     }
   ],
   "lesson": {
-    "de": "Heute lesen wir ein Buch.",
-    "en": "Today we are reading a book.",
-    "sw": "Leo tunasoma kitabu.",
+    "de": "Wir lernen für die Prüfung.",
+    "en": "We are studying for the exam.",
+    "sw": "Tunasoma kwa ajili ya mtihani.",
     "question": {
-      "en": "In “Heute lesen wir ein Buch”, what are we reading?",
-      "sw": "Katika “Heute lesen wir ein Buch”, tunasoma nini?"
+      "en": "In “Wir lernen für die Prüfung”, why are we studying?",
+      "sw": "Katika “Wir lernen für die Prüfung”, tunasoma kwa ajili ya nini?"
     },
     "options": [
       {
-        "en": "A newspaper",
-        "sw": "Gazeti"
+        "en": "For the exam",
+        "sw": "Kwa ajili ya mtihani"
       },
       {
-        "en": "A letter",
-        "sw": "Barua"
+        "en": "For a journey",
+        "sw": "Kwa ajili ya safari"
       },
       {
-        "en": "A book",
-        "sw": "Kitabu"
+        "en": "For a football match",
+        "sw": "Kwa ajili ya mechi ya mpira"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": {
-      "en": "C: ein Buch means a book. Grammar: with Heute first, the conjugated verb stays second: Heute lesen wir. Heute fahren wir mit dem Bus follows the same pattern. Five words: das Buch = kitabu = book; lesen = kusoma = read; die Bibliothek = maktaba = library; die Zeitung = gazeti = newspaper; kostenlos = bila malipo = free of charge. Emin: Tunasoma kitabu = We are reading a book. Review: heute = leo = today; der Bus = basi = bus. This exercise is practice, not an exam-readiness assessment.",
-      "sw": "C: ein Buch maana yake kitabu. Sarufi: Heute ikiwa mwanzoni, kitenzi kilichonyambuliwa hubaki nafasi ya pili: Heute lesen wir. Heute fahren wir mit dem Bus hufuata mpangilio huo pia. Maneno matano: das Buch = kitabu; lesen = kusoma; die Bibliothek = maktaba; die Zeitung = gazeti; kostenlos = bila malipo. Emin: Tunasoma kitabu = We are reading a book. Marudio: heute = leo; der Bus = basi. Zoezi hili ni la kujifunza, si kipimo cha utayari wa mtihani."
+      "en": "A: für die Prüfung means for the exam. Grammar: wir takes lernen, not lernt. Wir lernen. Wir lesen ein Buch. Five words: lernen = kujifunza = learn; die Prüfung = mtihani = exam; die Universität = chuo kikuu = university; der Student = mwanafunzi wa chuo wa kiume = male university student; die Studentin = mwanafunzi wa chuo wa kike = female university student. Emin: Tunasoma kwa ajili ya mtihani = We are studying for the exam. Review: lesen = kusoma = read; das Buch = kitabu = book. Practice does not establish exam readiness.",
+      "sw": "A: für die Prüfung maana yake kwa ajili ya mtihani. Sarufi: wir hutumia lernen, si lernt. Wir lernen = tunajifunza. Wir lesen ein Buch = tunasoma kitabu. Maneno matano: lernen = kujifunza; die Prüfung = mtihani; die Universität = chuo kikuu; der Student = mwanafunzi wa chuo wa kiume; die Studentin = mwanafunzi wa chuo wa kike. Emin: Tunasoma kwa ajili ya mtihani = We are studying for the exam. Marudio: lesen = kusoma; das Buch = kitabu. Zoezi hili halithibitishi utayari wa mtihani."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-23-de.mp3",
-      "transcript": "Nachrichten und Lernen. Dreiundzwanzigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme ist mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Viele Züge kommen zu spät. Die Bahn sagt: Große Verbesserungen brauchen noch mehrere Jahre. Wichtige Arbeiten am Schienennetz müssen zuerst fertig werden. Das berichtet die Deutsche Welle vom zweiundzwanzigsten Oktober.\nBerlin. Die Ingeborg-Drewitz-Bibliothek feiert im November. Es gibt kostenlose Veranstaltungen. Es geht um hundertdreißig Jahre Lesen in Steglitz. Für manche Veranstaltungen muss man sich anmelden. Das meldet das Bezirksamt am zweiundzwanzigsten Oktober.\nDaressalam. Die Straßenbehörde prüft Dokumente für Entschädigungen. Die Mandela-Straße soll für eine neue Schnellbusstrecke ausgebaut werden. Eine Baufirma ist noch nicht ausgewählt. Das berichtet The Citizen vom zweiundzwanzigsten Oktober.\nTansania. Die Umweltbehörde möchte stärkere Rechte. Sie hat Vorschläge für neue Regeln an Ausschüsse im Parlament gegeben. Es geht um Umweltschutz und Müll. Das berichtet The Citizen vom zweiundzwanzigsten Oktober.\nArusha. Nuru Mollel führt nach der ersten Runde beim Golfturnier Tanzania Open. Er liegt zwei Schläge vor seinem nächsten Gegner. Das berichtet The Citizen vom zweiundzwanzigsten Oktober.\nUnsere Lektion: Heute lesen wir ein Buch.\nFünf Wörter: das Buch. Lesen. Die Bibliothek. Die Zeitung. Kostenlos.\nGrammatik: Heute steht am Anfang. Das Verb steht auf Platz zwei. Heute lesen wir ein Buch. Heute fahren wir mit dem Bus.\nWiederholung: heute. Der Bus.\nFrage: Heute lesen wir ein Buch. Was lesen wir? A: Eine Zeitung. B: Einen Brief. C: Ein Buch. Bitte stoppen und wählen.\nDie Antwort ist C. Wir lesen ein Buch.\n"
+      "src": "audio/news/2026-10-24-de.mp3",
+      "transcript": "Nachrichten und Lernen. Vierundzwanzigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Die Preise für Häuser und Wohnungen steigen kaum. Kredite sind teuer. Deshalb wollen weniger Menschen ein Haus kaufen. Das berichtet Reuters am dreiundzwanzigsten Oktober.\nBerlin. Viele Menschen bezahlen das Parken mit dem Handy. Im Jahr zweitausendfünfundzwanzig waren es etwa achtundsechzig Prozent der Parkscheine. Die Apps verlangen unterschiedliche Gebühren. Das berichtet der rbb am vierundzwanzigsten Oktober.\nDaressalam. Die Universität sagt: Es gibt weiter besondere Prüfungen und Nachprüfungen. Sie finden jetzt im normalen Studienkalender statt. Das berichtet The Citizen am dreiundzwanzigsten Oktober.\nTansania. Die Regierung bittet ihre Partner um mehr Investitionen. Menschen sollen neue Fähigkeiten lernen. Auch neue Ideen und gute Infrastruktur sind wichtig. Das berichtet The Citizen am dreiundzwanzigsten Oktober.\nArusha. Die Ostafrikanische Gemeinschaft hat sechzehn Autos für die Grenzpolizei übergeben. Japan bezahlt die Autos. Acht Mitgliedsländer erhalten je zwei Autos. Das meldet die Gemeinschaft am dreiundzwanzigsten Oktober.\nUnsere Lektion: Wir lernen für die Prüfung.\nFünf Wörter: lernen. Die Prüfung. Die Universität. Der Student. Die Studentin.\nGrammatik: Wir lernen. Nicht: Wir lernt. Wiederholung: Wir lesen ein Buch.\nFrage: Wir lernen für die Prüfung. Warum lernen wir? A: Für die Prüfung. B: Für eine Reise. C: Für ein Fußballspiel. Bitte stoppen und wählen.\nDie Antwort ist A: Für die Prüfung.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-23-en.mp3",
-      "transcript": "News and learning for October twenty-third, twenty twenty-six. This is AI narration in the approved Nuri voice. All five sources were published on October twenty-second.\nGermany. Deutsche Bahn says major improvements in train punctuality will take several more years. Important rail renovation projects must be finished first. This is from Deutsche Welle.\nBerlin. The Ingeborg-Drewitz Library announced free events in November. They celebrate a hundred and thirty years of reading history in Steglitz. Some events need registration. This is from the district council.\nDar es Salaam. Tanroads is checking compensation papers before the planned Mandela Road upgrade for a new rapid bus corridor. A building contractor has not yet been selected. This is from The Citizen.\nTanzania. The environment regulator wants stronger legal powers. It has given proposals to parliamentary committees to improve environmental enforcement and waste management. This is from The Citizen.\nArusha. Nuru Mollel leads after the first round of the Tanzania Open golf tournament. He is two shots ahead of his nearest rival. This is from The Citizen.\nToday's German sentence: Heute lesen wir ein Buch. It means: Today we are reading a book.\nFive words: das Buch, book. Lesen, read. Die Bibliothek, library. Die Zeitung, newspaper. Kostenlos, free of charge.\nGrammar: when Heute comes first, the conjugated verb stays in second position. Heute lesen wir ein Buch. Today we are reading a book. Review yesterday: Heute fahren wir mit dem Bus. Today we are travelling by bus.\nEmin's Swahili phrase and all Swahili translations are in the written lesson. This recording is English, not Swahili.\nQuestion: in Heute lesen wir ein Buch, what are we reading? A: a newspaper. B: a letter. C: a book. Pause and choose.\nThe answer is C, a book. Ein Buch means a book. This is learning practice, not proof of exam readiness.\n"
+      "src": "audio/news/2026-10-24-en.mp3",
+      "transcript": "News and learning for October twenty-fourth, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Home prices barely rose in the third quarter. Higher borrowing costs reduced demand. Reuters reported this on October twenty-third.\nBerlin. About sixty-eight percent of parking tickets were bought by phone in twenty twenty-five. Different apps charge different service fees. This is from rbb on October twenty-fourth.\nDar es Salaam. The university says special and supplementary exams have not been abolished. They will take place within the regular academic calendar. The Citizen reported this on October twenty-third.\nTanzania. The government asked development partners to invest more in skills, innovation and sustainable infrastructure for Vision twenty fifty. The Citizen reported this on October twenty-third.\nArusha. The East African Community handed over sixteen border patrol vehicles funded by Japan. Its eight partner states receive two each. The community published this on October twenty-third.\nToday's sentence: Wir lernen für die Prüfung. We are studying for the exam.\nFive words: lernen, learn. Die Prüfung, exam. Die Universität, university. Der Student, male university student. Die Studentin, female university student.\nGrammar: with wir, use lernen, not lernt. Wir lernen means we learn. Review: Wir lesen ein Buch. We are reading a book.\nEmin's Swahili phrase and translations are in the text. This recording is English, not Swahili.\nQuestion: in Wir lernen für die Prüfung, why are we studying? A: for the exam. B: for a journey. C: for a football match. Pause and choose.\nThe answer is A. Für die Prüfung means for the exam. This practice does not establish exam readiness.\n"
     }
   ]
 }
