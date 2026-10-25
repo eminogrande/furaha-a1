@@ -1,110 +1,110 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "Home prices barely rise",
-        "sw": "Bei za nyumba zapanda kidogo sana"
+        "en": "Merz calls for unity",
+        "sw": "Merz atoa wito wa umoja"
       },
       "summary": {
-        "en": "Reuters reports that German home prices barely increased in the third quarter, as higher borrowing costs weakened demand.",
-        "sw": "Reuters inaripoti kuwa bei za nyumba Ujerumani zilipanda kidogo sana katika robo ya tatu ya mwaka, huku gharama kubwa za mikopo zikipunguza mahitaji."
+        "en": "Chancellor Friedrich Merz called for closer CDU/CSU cooperation at a party conference in Munich.",
+        "sw": "Kansela Friedrich Merz ametoa wito wa ushirikiano wa karibu zaidi kati ya CDU na CSU katika mkutano wa chama mjini Munich."
       },
-      "sourceUrl": "https://www.newsobserver.com/news/nation-world/national/article317743327.html",
-      "publishedAt": "2026-10-23"
+      "sourceUrl": "https://www.dw.com/en/germany-news-merz-calls-for-unity-at-csu-party-conference/live-79749353?maca=en-rss-en-ger-1023-xml-atom",
+      "publishedAt": "2026-10-24"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "Parking payments move to phones",
-        "sw": "Malipo ya maegesho yahamia kwenye simu"
+        "en": "Clocks go back",
+        "sw": "Saa zarudishwa nyuma"
       },
       "summary": {
-        "en": "rbb reports that about 68 percent of Berlin parking tickets were bought by phone in 2025; app service fees vary.",
-        "sw": "rbb inaripoti kuwa takriban asilimia 68 ya tiketi za maegesho Berlin zilinunuliwa kwa simu mwaka 2025; ada za huduma hutofautiana kati ya programu."
+        "en": "Berlin switches to winter time today: clocks move back from 3 am to 2 am.",
+        "sw": "Berlin inaanza kutumia saa za majira ya baridi leo: saa zinarudishwa nyuma kwa saa moja, kutoka 03:00 hadi 02:00."
       },
-      "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/rbb-das-geschaeft-mit-dem-handyparken-boomt-und-geht-erst-richtig-los-102.html",
-      "publishedAt": "2026-10-24T07:14:00+02:00"
-    },
-    {
-      "region": "Dar es Salaam",
-      "title": {
-        "en": "University keeps supplementary exams",
-        "sw": "Chuo chaendelea na mitihani ya marudio"
-      },
-      "summary": {
-        "en": "The University of Dar es Salaam says special and supplementary exams have not been abolished but will take place within the regular academic calendar.",
-        "sw": "Chuo Kikuu cha Dar es Salaam kinasema mitihani maalumu na ya marudio haijafutwa, bali itafanyika ndani ya kalenda ya kawaida ya masomo."
-      },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/udsm-dismisses-claims-of-scrapping-special-and-supplementary-exams-5643650",
-      "publishedAt": "2026-10-23"
+      "sourceUrl": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-umstellung-auf-winterzeit-der-25-oktober-hat-in-diesem-jahr-25-stunden-100.html",
+      "publishedAt": "2026-10-24T22:00:00+02:00"
     },
     {
       "region": "Tanzania",
       "title": {
-        "en": "Call to invest in skills",
-        "sw": "Wito wa kuwekeza katika ujuzi"
+        "en": "Young people invited into health decisions",
+        "sw": "Vijana washirikishwa katika maamuzi ya afya"
       },
       "summary": {
-        "en": "At a UN anniversary event, Tanzania asked development partners to invest more in skills, innovation and sustainable infrastructure for Vision 2050.",
-        "sw": "Katika maadhimisho ya Umoja wa Mataifa, Tanzania imewaomba washirika wa maendeleo kuongeza uwekezaji katika ujuzi, ubunifu na miundombinu endelevu kwa Dira ya 2050."
+        "en": "At a youth health dialogue, officials called for young people’s proposals to shape health policies and budgets.",
+        "sw": "Katika mkutano kuhusu afya ya vijana, viongozi wametaka mapendekezo ya vijana yazingatiwe katika sera na bajeti za afya."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-urges-partners-to-back-vision-2050-5643226",
-      "publishedAt": "2026-10-23"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-seeks-ways-to-curb-sexual-performance-product-use-among-youth-5644438",
+      "publishedAt": "2026-10-24T15:49:11Z"
+    },
+    {
+      "region": "Dar es Salaam",
+      "title": {
+        "en": "Azam reaches the group stage",
+        "sw": "Azam yaingia hatua ya makundi"
+      },
+      "summary": {
+        "en": "Iddy Nado’s goal gave Azam a 1-0 win over ZED and a place in the CAF Confederation Cup group stage.",
+        "sw": "Bao la Iddy Nado limeipa Azam ushindi wa 1-0 dhidi ya ZED na nafasi katika hatua ya makundi ya Kombe la Shirikisho Afrika."
+      },
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/sports/football/nado-fires-azam-into-confederation-cup-group-stage-5644396",
+      "publishedAt": "2026-10-24T15:35:53Z"
     },
     {
       "region": "Arusha",
       "title": {
-        "en": "Border patrol vehicles handed over",
-        "sw": "Magari ya doria za mipakani yakabidhiwa"
+        "en": "Hotels prepare for Afcon visitors",
+        "sw": "Hoteli zajiandaa kwa wageni wa Afcon"
       },
       "summary": {
-        "en": "At its Arusha headquarters, the EAC handed over 16 Japan-funded patrol vehicles for border operations across its eight partner states.",
-        "sw": "Katika makao yake makuu Arusha, Jumuiya ya Afrika Mashariki imekabidhi magari 16 ya doria yaliyofadhiliwa na Japan kwa shughuli za mipakani katika nchi zake nane wanachama."
+        "en": "Tourism minister Ashatu Kijaji inspected two hotel projects at Lake Duluti ahead of Afcon 2027.",
+        "sw": "Waziri wa Maliasili na Utalii Ashatu Kijaji amekagua miradi miwili ya hoteli katika Ziwa Duluti kabla ya Afcon 2027."
       },
-      "sourceUrl": "https://www.eac.int/press-releases/154-peace-security/3610-eac,-japan-and-unops-join-forces-to-strengthen-border-security-and-enhance-regional-trade%20",
-      "publishedAt": "2026-10-23"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-afcon-2027-preparations-5644454",
+      "publishedAt": "2026-10-24T15:55:44Z"
     }
   ],
   "lesson": {
-    "de": "Wir lernen für die Prüfung.",
-    "en": "We are studying for the exam.",
-    "sw": "Tunasoma kwa ajili ya mtihani.",
+    "de": "Wie spät ist es?",
+    "en": "What time is it?",
+    "sw": "Ni saa ngapi?",
     "question": {
-      "en": "In “Wir lernen für die Prüfung”, why are we studying?",
-      "sw": "Katika “Wir lernen für die Prüfung”, tunasoma kwa ajili ya nini?"
+      "en": "What does “Wie spät ist es?” ask about?",
+      "sw": "“Wie spät ist es?” inauliza kuhusu nini?"
     },
     "options": [
       {
-        "en": "For the exam",
-        "sw": "Kwa ajili ya mtihani"
+        "en": "The price",
+        "sw": "Bei"
       },
       {
-        "en": "For a journey",
-        "sw": "Kwa ajili ya safari"
+        "en": "The time",
+        "sw": "Saa"
       },
       {
-        "en": "For a football match",
-        "sw": "Kwa ajili ya mechi ya mpira"
+        "en": "The weather",
+        "sw": "Hali ya hewa"
       }
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": {
-      "en": "A: für die Prüfung means for the exam. Grammar: wir takes lernen, not lernt. Wir lernen. Wir lesen ein Buch. Five words: lernen = kujifunza = learn; die Prüfung = mtihani = exam; die Universität = chuo kikuu = university; der Student = mwanafunzi wa chuo wa kiume = male university student; die Studentin = mwanafunzi wa chuo wa kike = female university student. Emin: Tunasoma kwa ajili ya mtihani = We are studying for the exam. Review: lesen = kusoma = read; das Buch = kitabu = book. Practice does not establish exam readiness.",
-      "sw": "A: für die Prüfung maana yake kwa ajili ya mtihani. Sarufi: wir hutumia lernen, si lernt. Wir lernen = tunajifunza. Wir lesen ein Buch = tunasoma kitabu. Maneno matano: lernen = kujifunza; die Prüfung = mtihani; die Universität = chuo kikuu; der Student = mwanafunzi wa chuo wa kiume; die Studentin = mwanafunzi wa chuo wa kike. Emin: Tunasoma kwa ajili ya mtihani = We are studying for the exam. Marudio: lesen = kusoma; das Buch = kitabu. Zoezi hili halithibitishi utayari wa mtihani."
+      "en": "B: it asks the time, not the price. Grammar: in this question, ist comes before es. Wie spät ist es? = What time is it? Es ist acht Uhr. = It is eight o’clock. Five words: die Uhr = saa = clock; die Stunde = saa moja = hour; spät = chelewa = late; früh = mapema = early; zurück = nyuma = back. Emin: Ni saa ngapi? = What time is it? Review: Wir lesen ein Buch. = We read a book. Wir lernen für die Prüfung. = We study for the exam. Practice is not proof of exam readiness.",
+      "sw": "B: swali linauliza saa, si bei. Sarufi: katika swali hili, ist inatangulia es. Wie spät ist es? = Ni saa ngapi? Es ist acht Uhr. = Ni 08:00. Maneno matano: die Uhr = saa; die Stunde = saa moja; spät = chelewa; früh = mapema; zurück = nyuma. Emin: Ni saa ngapi? = What time is it? Marudio: Wir lesen ein Buch. = Tunasoma kitabu. Wir lernen für die Prüfung. = Tunasoma kwa ajili ya mtihani. Mazoezi haya hayathibitishi utayari wa mtihani."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-24-de.mp3",
-      "transcript": "Nachrichten und Lernen. Vierundzwanzigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Die Preise für Häuser und Wohnungen steigen kaum. Kredite sind teuer. Deshalb wollen weniger Menschen ein Haus kaufen. Das berichtet Reuters am dreiundzwanzigsten Oktober.\nBerlin. Viele Menschen bezahlen das Parken mit dem Handy. Im Jahr zweitausendfünfundzwanzig waren es etwa achtundsechzig Prozent der Parkscheine. Die Apps verlangen unterschiedliche Gebühren. Das berichtet der rbb am vierundzwanzigsten Oktober.\nDaressalam. Die Universität sagt: Es gibt weiter besondere Prüfungen und Nachprüfungen. Sie finden jetzt im normalen Studienkalender statt. Das berichtet The Citizen am dreiundzwanzigsten Oktober.\nTansania. Die Regierung bittet ihre Partner um mehr Investitionen. Menschen sollen neue Fähigkeiten lernen. Auch neue Ideen und gute Infrastruktur sind wichtig. Das berichtet The Citizen am dreiundzwanzigsten Oktober.\nArusha. Die Ostafrikanische Gemeinschaft hat sechzehn Autos für die Grenzpolizei übergeben. Japan bezahlt die Autos. Acht Mitgliedsländer erhalten je zwei Autos. Das meldet die Gemeinschaft am dreiundzwanzigsten Oktober.\nUnsere Lektion: Wir lernen für die Prüfung.\nFünf Wörter: lernen. Die Prüfung. Die Universität. Der Student. Die Studentin.\nGrammatik: Wir lernen. Nicht: Wir lernt. Wiederholung: Wir lesen ein Buch.\nFrage: Wir lernen für die Prüfung. Warum lernen wir? A: Für die Prüfung. B: Für eine Reise. C: Für ein Fußballspiel. Bitte stoppen und wählen.\nDie Antwort ist A: Für die Prüfung.\n"
+      "src": "audio/news/2026-10-25-de.mp3",
+      "transcript": "Nachrichten und Lernen. Fünfundzwanzigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Bundeskanzler Friedrich Merz spricht in München. Er sagt: CDU und CSU sollen enger zusammenarbeiten.\nBerlin. Heute beginnt die Winterzeit. Um drei Uhr werden die Uhren auf zwei Uhr zurückgestellt. Wir haben eine Stunde mehr.\nTansania. Junge Menschen sollen bei Entscheidungen über Gesundheit mitreden. Ihre Vorschläge sollen bei der Planung helfen.\nDaressalam. Azam gewinnt gegen ZED mit eins zu null. Iddy Nado schießt das Tor. Azam kommt in die Gruppenphase des afrikanischen Konföderationen-Pokals.\nArusha. Ministerin Ashatu Kijaji besucht zwei Hotelprojekte am Duluti-See. Die Hotels sollen Gäste für den Afrika-Cup zweitausendsiebenundzwanzig aufnehmen.\nDie Quellen sind Deutsche Welle, rbb und The Citizen. Alle Berichte sind vom vierundzwanzigsten Oktober.\nUnsere Lektion: Wie spät ist es? Es ist acht Uhr.\nFünf Wörter: die Uhr. Die Stunde. Spät. Früh. Zurück.\nGrammatik: In der Frage steht ist vor es. Wie spät ist es? In der Antwort: Es ist acht Uhr.\nWiederholung: Wir lesen ein Buch. Wir lernen für die Prüfung.\nFrage: Was bedeutet: Wie spät ist es? A: Wir fragen nach dem Preis. B: Wir fragen nach der Uhrzeit. C: Wir fragen nach dem Wetter. Bitte stoppen und wählen.\nDie Antwort ist B. Wir fragen nach der Uhrzeit.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-24-en.mp3",
-      "transcript": "News and learning for October twenty-fourth, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Home prices barely rose in the third quarter. Higher borrowing costs reduced demand. Reuters reported this on October twenty-third.\nBerlin. About sixty-eight percent of parking tickets were bought by phone in twenty twenty-five. Different apps charge different service fees. This is from rbb on October twenty-fourth.\nDar es Salaam. The university says special and supplementary exams have not been abolished. They will take place within the regular academic calendar. The Citizen reported this on October twenty-third.\nTanzania. The government asked development partners to invest more in skills, innovation and sustainable infrastructure for Vision twenty fifty. The Citizen reported this on October twenty-third.\nArusha. The East African Community handed over sixteen border patrol vehicles funded by Japan. Its eight partner states receive two each. The community published this on October twenty-third.\nToday's sentence: Wir lernen für die Prüfung. We are studying for the exam.\nFive words: lernen, learn. Die Prüfung, exam. Die Universität, university. Der Student, male university student. Die Studentin, female university student.\nGrammar: with wir, use lernen, not lernt. Wir lernen means we learn. Review: Wir lesen ein Buch. We are reading a book.\nEmin's Swahili phrase and translations are in the text. This recording is English, not Swahili.\nQuestion: in Wir lernen für die Prüfung, why are we studying? A: for the exam. B: for a journey. C: for a football match. Pause and choose.\nThe answer is A. Für die Prüfung means for the exam. This practice does not establish exam readiness.\n"
+      "src": "audio/news/2026-10-25-en.mp3",
+      "transcript": "News and learning for October twenty-fifth, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Chancellor Friedrich Merz called for closer cooperation between the CDU and CSU at a party conference in Munich.\nBerlin. Winter time starts today. Clocks move back from three in the morning to two in the morning.\nTanzania. At a youth health dialogue, officials called for young people's proposals to help shape health policies and budgets.\nDar es Salaam. Iddy Nado scored as Azam beat ZED one nil. Azam qualified for the group stage of the CAF Confederation Cup.\nArusha. Tourism minister Ashatu Kijaji inspected two hotel projects at Lake Duluti ahead of the twenty twenty-seven Africa Cup of Nations.\nThe sources are Deutsche Welle, rbb and The Citizen. All reports were published on October twenty-fourth.\nToday's German sentence: Wie spät ist es? This means: What time is it? Es ist acht Uhr means: It is eight o'clock.\nFive words: die Uhr, clock. Die Stunde, hour. Spät, late. Früh, early. Zurück, back.\nGrammar: in this German question, ist comes before es. In the answer, es comes before ist.\nReview: Wir lesen ein Buch. We read a book. Wir lernen für die Prüfung. We study for the exam.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: What does Wie spät ist es ask about? A: the price. B: the time. C: the weather. Pause and choose.\nThe answer is B, the time. This exercise does not prove exam readiness.\n"
     }
   ]
 }
