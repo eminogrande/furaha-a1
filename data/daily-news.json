@@ -1,110 +1,110 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "Merz calls for unity",
-        "sw": "Merz atoa wito wa umoja"
+        "en": "Storm Manja hits the north",
+        "sw": "Dhoruba Manja yapiga kaskazini"
       },
       "summary": {
-        "en": "Chancellor Friedrich Merz called for closer CDU/CSU cooperation at a party conference in Munich.",
-        "sw": "Kansela Friedrich Merz ametoa wito wa ushirikiano wa karibu zaidi kati ya CDU na CSU katika mkutano wa chama mjini Munich."
+        "en": "Storm Manja brought strong wind and a new North Sea storm-flood warning, with high water expected around midday.",
+        "sw": "Dhoruba Manja imeleta upepo mkali na onyo jipya la mafuriko Bahari ya Kaskazini, huku maji yakitarajiwa kupanda karibu adhuhuri."
       },
-      "sourceUrl": "https://www.dw.com/en/germany-news-merz-calls-for-unity-at-csu-party-conference/live-79749353?maca=en-rss-en-ger-1023-xml-atom",
-      "publishedAt": "2026-10-24"
+      "sourceUrl": "https://www.tagesschau.de/inland/regional/unwetter-im-norden-neue-sturmflutwarnung-fuer-heute-mittag,wetter-7178.html",
+      "publishedAt": "2026-10-26T06:09:00+02:00"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "Clocks go back",
-        "sw": "Saa zarudishwa nyuma"
+        "en": "Four museums open free",
+        "sw": "Makumbusho manne yafunguliwa bure"
       },
       "summary": {
-        "en": "Berlin switches to winter time today: clocks move back from 3 am to 2 am.",
-        "sw": "Berlin inaanza kutumia saa za majira ya baridi leo: saa zinarudishwa nyuma kwa saa moja, kutoka 03:00 hadi 02:00."
+        "en": "Four Berlin museums opened free on Sunday, with tours, readings and workshops for visitors.",
+        "sw": "Makumbusho manne Berlin yamefunguliwa bure Jumapili, yakiwa na ziara, usomaji na warsha kwa wageni."
       },
-      "sourceUrl": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-umstellung-auf-winterzeit-der-25-oktober-hat-in-diesem-jahr-25-stunden-100.html",
-      "publishedAt": "2026-10-24T22:00:00+02:00"
+      "sourceUrl": "https://www.rbb24.de/kultur/beitrag/2026/10/vier-berliner-museen-sonntag-kostenlos.html",
+      "publishedAt": "2026-10-25"
     },
     {
       "region": "Tanzania",
       "title": {
-        "en": "Young people invited into health decisions",
-        "sw": "Vijana washirikishwa katika maamuzi ya afya"
+        "en": "Seven-day elephant operation starts",
+        "sw": "Operesheni ya siku saba ya tembo yaanza"
       },
       "summary": {
-        "en": "At a youth health dialogue, officials called for young people’s proposals to shape health policies and budgets.",
-        "sw": "Katika mkutano kuhusu afya ya vijana, viongozi wametaka mapendekezo ya vijana yazingatiwe katika sera na bajeti za afya."
+        "en": "Same District starts a seven-day operation today to move elephants away from homes and farms, using drones and vehicles.",
+        "sw": "Wilaya ya Same inaanza leo operesheni ya siku saba kuwaondoa tembo karibu na nyumba na mashamba, kwa kutumia ndege zisizo na rubani na magari."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-seeks-ways-to-curb-sexual-performance-product-use-among-youth-5644438",
-      "publishedAt": "2026-10-24T15:49:11Z"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/same-launches-seven-day-operation-to-drive-elephants-from-settlements-5644876",
+      "publishedAt": "2026-10-25"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "Azam reaches the group stage",
-        "sw": "Azam yaingia hatua ya makundi"
+        "en": "Railway funding secured",
+        "sw": "Fedha za reli zimepatikana"
       },
       "summary": {
-        "en": "Iddy Nado’s goal gave Azam a 1-0 win over ZED and a place in the CAF Confederation Cup group stage.",
-        "sw": "Bao la Iddy Nado limeipa Azam ushindi wa 1-0 dhidi ya ZED na nafasi katika hatua ya makundi ya Kombe la Shirikisho Afrika."
+        "en": "Tanzania has secured Sh3.67 trillion for 424 km of standard-gauge railway from Makutupora to Isaka, part of the Dar es Salaam to Mwanza line.",
+        "sw": "Tanzania imepata Sh3.67 trilioni kwa kilomita 424 za reli ya kisasa kutoka Makutupora hadi Isaka, sehemu ya njia ya Dar es Salaam hadi Mwanza."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/sports/football/nado-fires-azam-into-confederation-cup-group-stage-5644396",
-      "publishedAt": "2026-10-24T15:35:53Z"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-secures-sh3-67-trillion-for-424km-sgr-link-from-makutupora-to-isaka-5644888",
+      "publishedAt": "2026-10-25"
     },
     {
       "region": "Arusha",
       "title": {
-        "en": "Hotels prepare for Afcon visitors",
-        "sw": "Hoteli zajiandaa kwa wageni wa Afcon"
+        "en": "Five medals at Arusha swim gala",
+        "sw": "Medali tano kwenye mashindano ya kuogelea Arusha"
       },
       "summary": {
-        "en": "Tourism minister Ashatu Kijaji inspected two hotel projects at Lake Duluti ahead of Afcon 2027.",
-        "sw": "Waziri wa Maliasili na Utalii Ashatu Kijaji amekagua miradi miwili ya hoteli katika Ziwa Duluti kabla ya Afcon 2027."
+        "en": "Swimmer Nikkie Onovo won three gold and two silver medals at the Arusha International Masters Swimming Championship, with over 300 swimmers taking part.",
+        "sw": "Mwogeleaji Nikkie Onovo ameshinda medali tatu za dhahabu na mbili za fedha kwenye Mashindano ya Kimataifa ya Kuogelea Arusha, yaliyoshirikisha waogeleaji zaidi ya 300."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-afcon-2027-preparations-5644454",
-      "publishedAt": "2026-10-24T15:55:44Z"
+      "sourceUrl": "https://www.arushanews.co.tz/sports/onovo-scoops-5-medals-in-arusha-swimming-gala",
+      "publishedAt": "2026-10-26"
     }
   ],
   "lesson": {
-    "de": "Wie spät ist es?",
-    "en": "What time is it?",
-    "sw": "Ni saa ngapi?",
+    "de": "Der Eintritt ist heute frei.",
+    "en": "Admission is free today.",
+    "sw": "Kiingilio ni bure leo.",
     "question": {
-      "en": "What does “Wie spät ist es?” ask about?",
-      "sw": "“Wie spät ist es?” inauliza kuhusu nini?"
+      "en": "What does \"Der Eintritt ist frei\" mean?",
+      "sw": "\"Der Eintritt ist frei\" inamaanisha nini?"
     },
     "options": [
       {
-        "en": "The price",
-        "sw": "Bei"
+        "en": "Admission is free",
+        "sw": "Kiingilio ni bure"
       },
       {
-        "en": "The time",
-        "sw": "Saa"
+        "en": "Admission costs money",
+        "sw": "Kiingilio ni kwa malipo"
       },
       {
-        "en": "The weather",
-        "sw": "Hali ya hewa"
+        "en": "The museum is closed",
+        "sw": "Makumbusho yamefungwa"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
-      "en": "B: it asks the time, not the price. Grammar: in this question, ist comes before es. Wie spät ist es? = What time is it? Es ist acht Uhr. = It is eight o’clock. Five words: die Uhr = saa = clock; die Stunde = saa moja = hour; spät = chelewa = late; früh = mapema = early; zurück = nyuma = back. Emin: Ni saa ngapi? = What time is it? Review: Wir lesen ein Buch. = We read a book. Wir lernen für die Prüfung. = We study for the exam. Practice is not proof of exam readiness.",
-      "sw": "B: swali linauliza saa, si bei. Sarufi: katika swali hili, ist inatangulia es. Wie spät ist es? = Ni saa ngapi? Es ist acht Uhr. = Ni 08:00. Maneno matano: die Uhr = saa; die Stunde = saa moja; spät = chelewa; früh = mapema; zurück = nyuma. Emin: Ni saa ngapi? = What time is it? Marudio: Wir lesen ein Buch. = Tunasoma kitabu. Wir lernen für die Prüfung. = Tunasoma kwa ajili ya mtihani. Mazoezi haya hayathibitishi utayari wa mtihani."
+      "en": "A: frei here means free of charge, not closed. Grammar: ist = is. Heute = today. Five words: der Eintritt = kiingilio = admission; das Museum = jumba la makumbusho = museum; der Wind = upepo = wind; der Regen = mvua = rain; frei = bure = free. Emin: Leo kuna upepo mkali. = Today there is strong wind. Review: Wie spät ist es? = What time is it? Wir lesen ein Buch. = We read a book. This practice does not prove exam readiness.",
+      "sw": "A: frei hapa inamaanisha bure, si kufungwa. Sarufi: ist = ni. Heute = leo. Maneno matano: der Eintritt = kiingilio; das Museum = jumba la makumbusho; der Wind = upepo; der Regen = mvua; frei = bure. Emin: Leo kuna upepo mkali. = Today there is strong wind. Marudio: Wie spät ist es? = Ni saa ngapi? Wir lesen ein Buch. = Tunasoma kitabu. Mazoezi haya hayathibitishi utayari wa mtihani."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-25-de.mp3",
-      "transcript": "Nachrichten und Lernen. Fünfundzwanzigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Bundeskanzler Friedrich Merz spricht in München. Er sagt: CDU und CSU sollen enger zusammenarbeiten.\nBerlin. Heute beginnt die Winterzeit. Um drei Uhr werden die Uhren auf zwei Uhr zurückgestellt. Wir haben eine Stunde mehr.\nTansania. Junge Menschen sollen bei Entscheidungen über Gesundheit mitreden. Ihre Vorschläge sollen bei der Planung helfen.\nDaressalam. Azam gewinnt gegen ZED mit eins zu null. Iddy Nado schießt das Tor. Azam kommt in die Gruppenphase des afrikanischen Konföderationen-Pokals.\nArusha. Ministerin Ashatu Kijaji besucht zwei Hotelprojekte am Duluti-See. Die Hotels sollen Gäste für den Afrika-Cup zweitausendsiebenundzwanzig aufnehmen.\nDie Quellen sind Deutsche Welle, rbb und The Citizen. Alle Berichte sind vom vierundzwanzigsten Oktober.\nUnsere Lektion: Wie spät ist es? Es ist acht Uhr.\nFünf Wörter: die Uhr. Die Stunde. Spät. Früh. Zurück.\nGrammatik: In der Frage steht ist vor es. Wie spät ist es? In der Antwort: Es ist acht Uhr.\nWiederholung: Wir lesen ein Buch. Wir lernen für die Prüfung.\nFrage: Was bedeutet: Wie spät ist es? A: Wir fragen nach dem Preis. B: Wir fragen nach der Uhrzeit. C: Wir fragen nach dem Wetter. Bitte stoppen und wählen.\nDie Antwort ist B. Wir fragen nach der Uhrzeit.\n"
+      "src": "audio/news/2026-10-26-de.mp3",
+      "transcript": "Nachrichten und Lernen. Sechsundzwanzigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Sturm Manja bringt starken Wind an die Nordsee. Es gibt eine neue Warnung vor Sturmflut. Das Hochwasser kommt gegen Mittag.\nBerlin. Vier Museen sind am Sonntag kostenlos offen. Es gibt Führungen, Lesungen und Workshops.\nTansania. Im Bezirk Same beginnt heute eine Aktion von sieben Tagen. Teams bringen Elefanten weg von Häusern und Feldern. Sie nutzen Drohnen und Autos.\nDaressalam. Tansania hat Geld für eine neue Bahnstrecke gesichert: vierhundertvierundzwanzig Kilometer von Makutupora nach Isaka. Die Strecke gehört zur Linie von Daressalam nach Mwanza.\nArusha. Die Schwimmerin Nikkie Onovo gewinnt drei Goldmedaillen und zwei Silbermedaillen. Mehr als dreihundert Schwimmer machen mit.\nDie Quellen sind Tagesschau, rbb, The Citizen und Arusha News. Die Berichte sind vom fünfundzwanzigsten und sechsundzwanzigsten Oktober.\nUnsere Lektion: Der Eintritt ist heute frei.\nFünf Wörter: der Eintritt. Das Museum. Der Wind. Der Regen. Frei.\nGrammatik: ist ist das Verb. Heute ist das Wort für heute.\nWiederholung: Wie spät ist es? Wir lesen ein Buch.\nFrage: Was bedeutet: Der Eintritt ist frei? A: Der Eintritt kostet nichts. B: Der Eintritt kostet Geld. C: Das Museum ist geschlossen. Bitte stoppen und wählen.\nDie Antwort ist A. Der Eintritt kostet nichts.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-25-en.mp3",
-      "transcript": "News and learning for October twenty-fifth, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Chancellor Friedrich Merz called for closer cooperation between the CDU and CSU at a party conference in Munich.\nBerlin. Winter time starts today. Clocks move back from three in the morning to two in the morning.\nTanzania. At a youth health dialogue, officials called for young people's proposals to help shape health policies and budgets.\nDar es Salaam. Iddy Nado scored as Azam beat ZED one nil. Azam qualified for the group stage of the CAF Confederation Cup.\nArusha. Tourism minister Ashatu Kijaji inspected two hotel projects at Lake Duluti ahead of the twenty twenty-seven Africa Cup of Nations.\nThe sources are Deutsche Welle, rbb and The Citizen. All reports were published on October twenty-fourth.\nToday's German sentence: Wie spät ist es? This means: What time is it? Es ist acht Uhr means: It is eight o'clock.\nFive words: die Uhr, clock. Die Stunde, hour. Spät, late. Früh, early. Zurück, back.\nGrammar: in this German question, ist comes before es. In the answer, es comes before ist.\nReview: Wir lesen ein Buch. We read a book. Wir lernen für die Prüfung. We study for the exam.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: What does Wie spät ist es ask about? A: the price. B: the time. C: the weather. Pause and choose.\nThe answer is B, the time. This exercise does not prove exam readiness.\n"
+      "src": "audio/news/2026-10-26-en.mp3",
+      "transcript": "News and learning for October twenty-sixth, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Storm Manja brought strong wind to the North Sea. There is a new storm-flood warning, with high water expected around midday.\nBerlin. Four museums opened free on Sunday, with tours, readings and workshops.\nTanzania. Same District starts a seven-day operation today. Teams will move elephants away from homes and farms, using drones and vehicles.\nDar es Salaam. Tanzania has secured funding for 424 kilometres of standard-gauge railway from Makutupora to Isaka. The line is part of the route from Dar es Salaam to Mwanza.\nArusha. Swimmer Nikkie Onovo won three gold and two silver medals. More than 300 swimmers took part.\nThe sources are Tagesschau, rbb, The Citizen and Arusha News, published on October twenty-fifth and twenty-sixth.\nToday's German sentence: Der Eintritt ist heute frei. This means: Admission is free today.\nFive words: der Eintritt, admission. Das Museum, museum. Der Wind, wind. Der Regen, rain. Frei, free.\nGrammar: ist means is. Heute means today.\nReview: Wie spät ist es? What time is it? Wir lesen ein Buch. We read a book.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: What does Der Eintritt ist frei mean? A: admission is free. B: admission costs money. C: the museum is closed. Pause and choose.\nThe answer is A, admission is free. This exercise does not prove exam readiness.\n"
     }
   ]
 }
