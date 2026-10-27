@@ -1,110 +1,110 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "Storm Manja hits the north",
-        "sw": "Dhoruba Manja yapiga kaskazini"
+        "en": "Kane wins the Ballon d'Or",
+        "sw": "Kane ashinda Ballon d'Or"
       },
       "summary": {
-        "en": "Storm Manja brought strong wind and a new North Sea storm-flood warning, with high water expected around midday.",
-        "sw": "Dhoruba Manja imeleta upepo mkali na onyo jipya la mafuriko Bahari ya Kaskazini, huku maji yakitarajiwa kupanda karibu adhuhuri."
+        "en": "Bayern striker Harry Kane won the Ballon d'Or in London, the first Bundesliga player to win it since 1996.",
+        "sw": "Mshambuliaji wa Bayern Harry Kane ameshinda Ballon d'Or mjini London, mchezaji wa kwanza wa Bundesliga kushinda tuzo hiyo tangu 1996."
       },
-      "sourceUrl": "https://www.tagesschau.de/inland/regional/unwetter-im-norden-neue-sturmflutwarnung-fuer-heute-mittag,wetter-7178.html",
-      "publishedAt": "2026-10-26T06:09:00+02:00"
+      "sourceUrl": "https://www.tagesschau.de/sport/eilmeldung-9588.html",
+      "publishedAt": "2026-10-27T00:20:00+01:00"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "Four museums open free",
-        "sw": "Makumbusho manne yafunguliwa bure"
+        "en": "Berlin taxis lose BER pick-ups",
+        "sw": "Teksi za Berlin kuacha kuchukua abiria BER"
       },
       "summary": {
-        "en": "Four Berlin museums opened free on Sunday, with tours, readings and workshops for visitors.",
-        "sw": "Makumbusho manne Berlin yamefunguliwa bure Jumapili, yakiwa na ziara, usomaji na warsha kwa wageni."
+        "en": "From 1 January 2027 Berlin taxis may no longer pick up passengers at BER airport; booking by phone or app stays possible.",
+        "sw": "Kuanzia 1 Januari 2027 teksi za Berlin haziruhusiwi kuchukua abiria uwanja wa ndege wa BER; kuagiza kwa simu au programu bado kunawezekana."
       },
-      "sourceUrl": "https://www.rbb24.de/kultur/beitrag/2026/10/vier-berliner-museen-sonntag-kostenlos.html",
-      "publishedAt": "2026-10-25"
+      "sourceUrl": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/ab-januar-keine-berliner-taxis-ber.html",
+      "publishedAt": "2026-10-26T15:27:00+01:00"
     },
     {
       "region": "Tanzania",
       "title": {
-        "en": "Seven-day elephant operation starts",
-        "sw": "Operesheni ya siku saba ya tembo yaanza"
+        "en": "Parliament meets in Dodoma",
+        "sw": "Bunge lakutana Dodoma"
       },
       "summary": {
-        "en": "Same District starts a seven-day operation today to move elephants away from homes and farms, using drones and vehicles.",
-        "sw": "Wilaya ya Same inaanza leo operesheni ya siku saba kuwaondoa tembo karibu na nyumba na mashamba, kwa kutumia ndege zisizo na rubani na magari."
+        "en": "The fifth meeting of Parliament starts today in Dodoma and runs until 6 November, with 160 questions planned.",
+        "sw": "Mkutano wa tano wa Bunge unaanza leo Dodoma hadi tarehe 6 Novemba, na maswali 160 yamepangwa."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/same-launches-seven-day-operation-to-drive-elephants-from-settlements-5644876",
-      "publishedAt": "2026-10-25"
+      "sourceUrl": "https://www.parliament.go.tz/uploads/documents/sw-1793036882-press%20release%20mkutano%20wa%205.pdf",
+      "publishedAt": "2026-10-26"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "Railway funding secured",
-        "sw": "Fedha za reli zimepatikana"
+        "en": "New embryo test in Tanzania",
+        "sw": "Kipimo kipya cha viinitete Tanzania"
       },
       "summary": {
-        "en": "Tanzania has secured Sh3.67 trillion for 424 km of standard-gauge railway from Makutupora to Isaka, part of the Dar es Salaam to Mwanza line.",
-        "sw": "Tanzania imepata Sh3.67 trilioni kwa kilomita 424 za reli ya kisasa kutoka Makutupora hadi Isaka, sehemu ya njia ya Dar es Salaam hadi Mwanza."
+        "en": "A Dar es Salaam fertility centre offers a genetic test for embryos and says it has done over 800 screenings.",
+        "sw": "Kituo cha uzazi Dar es Salaam kinatoa kipimo cha vinasaba vya viinitete na kinasema kimefanya vipimo zaidi ya 800."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-secures-sh3-67-trillion-for-424km-sgr-link-from-makutupora-to-isaka-5644888",
-      "publishedAt": "2026-10-25"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/new-genetic-test-tackles-repeated-pregnancy-loss-5646680",
+      "publishedAt": "2026-10-27"
     },
     {
       "region": "Arusha",
       "title": {
-        "en": "Five medals at Arusha swim gala",
-        "sw": "Medali tano kwenye mashindano ya kuogelea Arusha"
+        "en": "Medikea opens a clinic in Arusha",
+        "sw": "Medikea yafungua kliniki Arusha"
       },
       "summary": {
-        "en": "Swimmer Nikkie Onovo won three gold and two silver medals at the Arusha International Masters Swimming Championship, with over 300 swimmers taking part.",
-        "sw": "Mwogeleaji Nikkie Onovo ameshinda medali tatu za dhahabu na mbili za fedha kwenye Mashindano ya Kimataifa ya Kuogelea Arusha, yaliyoshirikisha waogeleaji zaidi ya 300."
+        "en": "Healthcare company Medikea raised 1.2 million dollars and opened new clinics in Arusha and Morogoro.",
+        "sw": "Kampuni ya afya Medikea imepata dola milioni 1.2 na kufungua kliniki mpya Arusha na Morogoro."
       },
-      "sourceUrl": "https://www.arushanews.co.tz/sports/onovo-scoops-5-medals-in-arusha-swimming-gala",
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/medikea-raises-1-2-million-to-expand-tanzania-clinic-network-5646060",
       "publishedAt": "2026-10-26"
     }
   ],
   "lesson": {
-    "de": "Der Eintritt ist heute frei.",
-    "en": "Admission is free today.",
-    "sw": "Kiingilio ni bure leo.",
+    "de": "Er spielt heute Fußball.",
+    "en": "He plays football today.",
+    "sw": "Anacheza mpira wa miguu leo.",
     "question": {
-      "en": "What does \"Der Eintritt ist frei\" mean?",
-      "sw": "\"Der Eintritt ist frei\" inamaanisha nini?"
+      "en": "Which word fits? \"Harry Kane ___ Fußball.\"",
+      "sw": "Neno gani linafaa? \"Harry Kane ___ Fußball.\""
     },
     "options": [
       {
-        "en": "Admission is free",
-        "sw": "Kiingilio ni bure"
+        "en": "spielt",
+        "sw": "spielt"
       },
       {
-        "en": "Admission costs money",
-        "sw": "Kiingilio ni kwa malipo"
+        "en": "spiele",
+        "sw": "spiele"
       },
       {
-        "en": "The museum is closed",
-        "sw": "Makumbusho yamefungwa"
+        "en": "spielst",
+        "sw": "spielst"
       }
     ],
     "correctIndex": 0,
     "explanation": {
-      "en": "A: frei here means free of charge, not closed. Grammar: ist = is. Heute = today. Five words: der Eintritt = kiingilio = admission; das Museum = jumba la makumbusho = museum; der Wind = upepo = wind; der Regen = mvua = rain; frei = bure = free. Emin: Leo kuna upepo mkali. = Today there is strong wind. Review: Wie spät ist es? = What time is it? Wir lesen ein Buch. = We read a book. This practice does not prove exam readiness.",
-      "sw": "A: frei hapa inamaanisha bure, si kufungwa. Sarufi: ist = ni. Heute = leo. Maneno matano: der Eintritt = kiingilio; das Museum = jumba la makumbusho; der Wind = upepo; der Regen = mvua; frei = bure. Emin: Leo kuna upepo mkali. = Today there is strong wind. Marudio: Wie spät ist es? = Ni saa ngapi? Wir lesen ein Buch. = Tunasoma kitabu. Mazoezi haya hayathibitishi utayari wa mtihani."
+      "en": "A: with er/sie/es the verb ends in -t: er spielt. ich spiele, du spielst. Five words: der Fußball = football; das Taxi = taxi; der Flughafen = airport; spielen = to play; das Jahr = year. Emin: Bunge linakutana leo. = Parliament meets today. Review: Der Eintritt ist frei. = Admission is free. Wie spät ist es? = What time is it? This practice does not prove exam readiness.",
+      "sw": "A: pamoja na er/sie/es kitenzi huishia -t: er spielt. ich spiele, du spielst. Maneno matano: der Fußball = mpira wa miguu; das Taxi = teksi; der Flughafen = uwanja wa ndege; spielen = kucheza; das Jahr = mwaka. Emin: Bunge linakutana leo. = Parliament meets today. Marudio: Der Eintritt ist frei. = Kiingilio ni bure. Wie spät ist es? = Ni saa ngapi? Mazoezi haya hayathibitishi utayari wa mtihani."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-26-de.mp3",
-      "transcript": "Nachrichten und Lernen. Sechsundzwanzigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Sturm Manja bringt starken Wind an die Nordsee. Es gibt eine neue Warnung vor Sturmflut. Das Hochwasser kommt gegen Mittag.\nBerlin. Vier Museen sind am Sonntag kostenlos offen. Es gibt Führungen, Lesungen und Workshops.\nTansania. Im Bezirk Same beginnt heute eine Aktion von sieben Tagen. Teams bringen Elefanten weg von Häusern und Feldern. Sie nutzen Drohnen und Autos.\nDaressalam. Tansania hat Geld für eine neue Bahnstrecke gesichert: vierhundertvierundzwanzig Kilometer von Makutupora nach Isaka. Die Strecke gehört zur Linie von Daressalam nach Mwanza.\nArusha. Die Schwimmerin Nikkie Onovo gewinnt drei Goldmedaillen und zwei Silbermedaillen. Mehr als dreihundert Schwimmer machen mit.\nDie Quellen sind Tagesschau, rbb, The Citizen und Arusha News. Die Berichte sind vom fünfundzwanzigsten und sechsundzwanzigsten Oktober.\nUnsere Lektion: Der Eintritt ist heute frei.\nFünf Wörter: der Eintritt. Das Museum. Der Wind. Der Regen. Frei.\nGrammatik: ist ist das Verb. Heute ist das Wort für heute.\nWiederholung: Wie spät ist es? Wir lesen ein Buch.\nFrage: Was bedeutet: Der Eintritt ist frei? A: Der Eintritt kostet nichts. B: Der Eintritt kostet Geld. C: Das Museum ist geschlossen. Bitte stoppen und wählen.\nDie Antwort ist A. Der Eintritt kostet nichts.\n"
+      "src": "audio/news/2026-10-27-de.mp3",
+      "transcript": "Nachrichten und Lernen. Siebenundzwanzigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Der Fußballer Harry Kane von Bayern München gewinnt den Ballon d'Or. Er ist der erste Spieler aus der Bundesliga seit neunzehnhundertsechsundneunzig.\nBerlin. Ab dem ersten Januar zweitausendsiebenundzwanzig dürfen Berliner Taxis am Flughafen BER keine Gäste mehr abholen. Man kann ein Taxi aber weiter per Telefon oder App bestellen.\nTansania. Heute beginnt in Dodoma die fünfte Sitzung des Parlaments. Sie dauert bis zum sechsten November.\nDaressalam. Ein Zentrum für Kinderwunsch bietet einen neuen Gen-Test für Embryonen an. Es sagt, es hat schon mehr als achthundert Tests gemacht.\nArusha. Die Gesundheitsfirma Medikea hat Geld bekommen. Sie hat neue Kliniken in Arusha und Morogoro eröffnet.\nDie Quellen sind Tagesschau, rbb, das Parlament von Tansania und The Citizen. Die Berichte sind vom sechsundzwanzigsten und siebenundzwanzigsten Oktober.\nUnsere Lektion: Er spielt heute Fußball.\nFünf Wörter: der Fußball. Das Taxi. Der Flughafen. Spielen. Das Jahr.\nGrammatik: Bei er, sie, es endet das Verb auf T. Ich spiele. Du spielst. Er spielt.\nWiederholung: Der Eintritt ist frei. Wie spät ist es?\nFrage: Harry Kane, was passt? A: spielt. B: spiele. C: spielst. Bitte stoppen und wählen.\nDie Antwort ist A. Er spielt.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-26-en.mp3",
-      "transcript": "News and learning for October twenty-sixth, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Storm Manja brought strong wind to the North Sea. There is a new storm-flood warning, with high water expected around midday.\nBerlin. Four museums opened free on Sunday, with tours, readings and workshops.\nTanzania. Same District starts a seven-day operation today. Teams will move elephants away from homes and farms, using drones and vehicles.\nDar es Salaam. Tanzania has secured funding for 424 kilometres of standard-gauge railway from Makutupora to Isaka. The line is part of the route from Dar es Salaam to Mwanza.\nArusha. Swimmer Nikkie Onovo won three gold and two silver medals. More than 300 swimmers took part.\nThe sources are Tagesschau, rbb, The Citizen and Arusha News, published on October twenty-fifth and twenty-sixth.\nToday's German sentence: Der Eintritt ist heute frei. This means: Admission is free today.\nFive words: der Eintritt, admission. Das Museum, museum. Der Wind, wind. Der Regen, rain. Frei, free.\nGrammar: ist means is. Heute means today.\nReview: Wie spät ist es? What time is it? Wir lesen ein Buch. We read a book.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: What does Der Eintritt ist frei mean? A: admission is free. B: admission costs money. C: the museum is closed. Pause and choose.\nThe answer is A, admission is free. This exercise does not prove exam readiness.\n"
+      "src": "audio/news/2026-10-27-en.mp3",
+      "transcript": "News and learning for October twenty-seventh, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Bayern footballer Harry Kane won the Ballon d'Or. He is the first Bundesliga player to win it since nineteen ninety-six.\nBerlin. From January first, twenty twenty-seven, Berlin taxis may no longer pick up passengers at BER airport. People can still order a taxi by phone or app.\nTanzania. The fifth meeting of Parliament starts today in Dodoma and runs until November sixth.\nDar es Salaam. A fertility centre offers a new genetic test for embryos. It says it has done more than eight hundred screenings.\nArusha. Healthcare company Medikea raised money and opened new clinics in Arusha and Morogoro.\nThe sources are Tagesschau, rbb, the Tanzanian Parliament and The Citizen, published on October twenty-sixth and twenty-seventh.\nToday's German sentence: Er spielt heute Fußball. This means: He plays football today.\nFive words: der Fußball, football. Das Taxi, taxi. Der Flughafen, airport. Spielen, to play. Das Jahr, year.\nGrammar: with er, sie, es the verb ends in T. Ich spiele. Du spielst. Er spielt.\nReview: Der Eintritt ist frei. Admission is free. Wie spät ist es? What time is it?\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: Harry Kane, which form fits? A: spielt. B: spiele. C: spielst. Pause and choose.\nThe answer is A, spielt. This exercise does not prove exam readiness.\n"
     }
   ]
 }
