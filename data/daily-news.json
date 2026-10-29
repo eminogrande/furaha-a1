@@ -1,79 +1,79 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "Care reform: expert group starts work",
-        "sw": "Mageuzi ya huduma za uuguzi: kamati ya wataalamu yaanza kazi"
+        "en": "Parental allowance stays at 14 months",
+        "sw": "Posho ya wazazi inabaki miezi 14"
       },
       "summary": {
-        "en": "A group of 13 experts started work in Berlin on 27 October to plan a long-term care reform. Its proposals are due by the end of January 2027.",
-        "sw": "Kundi la wataalamu 13 limeanza kazi tarehe 27 Oktoba kupanga mageuzi ya muda mrefu ya huduma za uuguzi. Mapendekezo yao yanatarajiwa mwishoni mwa Januari 2027."
+        "en": "Germany's family ministry now plans to keep Elterngeld (parental allowance) at up to 14 months, not cut it to 12. The minimum payment would rise from 300 to 330 euros.",
+        "sw": "Wizara ya familia ya Ujerumani sasa inapanga kuacha Elterngeld (posho ya wazazi) hadi miezi 14, si kuipunguza hadi 12. Kiwango cha chini kingepanda kutoka euro 300 hadi 330."
       },
-      "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/pflegekommission-pflegereform-100.html",
-      "publishedAt": "2026-10-27T13:27:00+01:00"
+      "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/elterngeld-bezugsdauer-prien-100.html",
+      "publishedAt": "2026-10-28T16:11:00+01:00"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "Union Berlin out of the cup",
-        "sw": "Union Berlin yatolewa kwenye kombe"
+        "en": "Berlin's new parliament meets today",
+        "sw": "Bunge jipya la Berlin linakutana leo"
       },
       "summary": {
-        "en": "Union Berlin lost 0:5 away at 1. FC Köln on Tuesday evening and is out of the DFB Cup.",
-        "sw": "Union Berlin ilifungwa 0:5 ugenini na 1. FC Köln Jumanne jioni na imetolewa kwenye Kombe la DFB."
+        "en": "Berlin's new state parliament meets for the first time today. The Left party names Hendrikje Klein as its candidate for president.",
+        "sw": "Bunge jipya la jimbo la Berlin linakutana leo kwa mara ya kwanza. Chama cha Die Linke kimemteua Hendrikje Klein kuwa mgombea wa uspika."
       },
-      "sourceUrl": "https://www.rbb24.de/sport/beitrag/2026/10/fussball-dfb-pokal-zweite-runde-1-fc-koeln-union-berlin-audio-stream-liveticker-spielbericht.html",
-      "publishedAt": "2026-10-27"
+      "sourceUrl": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-abgeordnetenhaus-konstituierende-sitzung.html",
+      "publishedAt": "2026-10-29T06:09:00+01:00"
     },
     {
       "region": "Tanzania",
       "title": {
-        "en": "Tanzania finds new natural gas",
-        "sw": "Tanzania yagundua gesi asilia mpya"
+        "en": "Samia to open the Government City in Dodoma",
+        "sw": "Samia kuzindua Mji wa Serikali Dodoma"
       },
       "summary": {
-        "en": "The energy minister said 223 billion cubic feet of gas were found in Mtwara, the first new discovery reported since 2015.",
-        "sw": "Waziri wa nishati alisema futi za ujazo bilioni 223 za gesi zimegunduliwa Mtwara, ugunduzi wa kwanza mpya tangu 2015."
+        "en": "President Samia is expected to open 37 permanent government buildings and 57.1 km of new roads at Mtumba, Dodoma, on 30 October.",
+        "sw": "Rais Samia anatarajiwa kuzindua majengo 37 ya kudumu ya serikali na barabara za lami za kilomita 57.1 Mtumba, Dodoma, tarehe 30 Oktoba."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-discovers-223-billion-cubic-feet-of-natural-gas-in-mtwara-5647712",
-      "publishedAt": "2026-10-27"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-plans-100-year-future-for-dodoma-government-city-5647758",
+      "publishedAt": "2026-10-27T13:45:35Z"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "Do not mix alcohol and energy drinks",
-        "sw": "Msichanganye pombe na vinywaji vya kuongeza nguvu"
+        "en": "More legal help for prisoners",
+        "sw": "Msaada zaidi wa kisheria kwa wafungwa"
       },
       "summary": {
-        "en": "The Tanzania Bureau of Standards warned in Dar es Salaam that caffeine can hide how drunk a person is.",
-        "sw": "Shirika la Viwango (TBS) limeonya Dar es Salaam kwamba kafeini inaweza kuficha kiwango cha ulevi."
+        "en": "On 27 October two ministries signed a deal in Dar es Salaam to give prisoners and people in custody more legal help.",
+        "sw": "Tarehe 27 Oktoba wizara mbili zilisaini makubaliano Dar es Salaam ili wafungwa na mahabusu wapate msaada zaidi wa kisheria."
       },
-      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/imbibers-warned-against-mixing-alcohol-with-caffeinated-drinks-5648016",
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/government-expands-legal-aid-for-prisoners-and-remandees-5648008",
       "publishedAt": "2026-10-28"
     },
     {
       "region": "Arusha",
       "title": {
-        "en": "Arusha checks for Ebola at the border",
-        "sw": "Arusha yaimarisha uchunguzi wa Ebola mpakani"
+        "en": "Arusha's new DC targets street crime (report from 24 October)",
+        "sw": "DC mpya wa Arusha apambana na uhalifu mitaani (ripoti ya tarehe 24 Oktoba)"
       },
       "summary": {
-        "en": "Arusha trained over 100 health workers and checks every traveller at Namanga after Ebola cases in Kenya.",
-        "sw": "Arusha imefundisha wahudumu wa afya zaidi ya 100 na inamchunguza kila msafiri Namanga baada ya wagonjwa wa Ebola Kenya."
+        "en": "No newer Arusha story was verified today. This report from 24 October says new District Commissioner Nicodemus Tambo promised swoops on street crime and water meter theft.",
+        "sw": "Hakuna habari mpya ya Arusha iliyothibitishwa leo. Ripoti hii ya tarehe 24 Oktoba inasema Mkuu mpya wa Wilaya, Nicodemus Tambo, aliahidi misako dhidi ya uhalifu mitaani na wizi wa mita za maji."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/arusha-steps-up-ebola-screening-at-kenya-border-5647280",
-      "publishedAt": "2026-10-27"
+      "sourceUrl": "https://www.arushanews.co.tz/updates/dc-tambo-declares-war-on-crime-loitering/",
+      "publishedAt": "2026-10-24T06:30:00+03:00"
     }
   ],
   "lesson": {
-    "de": "Das Spiel ist am Dienstag.",
-    "en": "The game is on Tuesday.",
-    "sw": "Mchezo ni Jumanne.",
+    "de": "Der Livestream beginnt um zehn Uhr.",
+    "en": "The livestream starts at ten o'clock.",
+    "sw": "Matangazo ya moja kwa moja yanaanza saa nne asubuhi (zehn Uhr = saa 10 kwa saa za Ulaya).",
     "question": {
-      "en": "Which word fits? \"Das Spiel ist ___ Dienstag.\"",
-      "sw": "Neno gani linafaa? \"Das Spiel ist ___ Dienstag.\""
+      "en": "Which word fits? \"Der Livestream beginnt ___ zehn Uhr.\"",
+      "sw": "Neno gani linafaa? \"Der Livestream beginnt ___ zehn Uhr.\""
     },
     "options": [
       {
@@ -81,30 +81,30 @@
         "sw": "am"
       },
       {
-        "en": "im",
-        "sw": "im"
-      },
-      {
         "en": "um",
         "sw": "um"
+      },
+      {
+        "en": "im",
+        "sw": "im"
       }
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": {
-      "en": "A: days of the week use am: am Dienstag, am Montag. Months use im (im Oktober); clock times use um (um acht Uhr). Five words: der Dienstag = Tuesday; das Spiel = game; das Gas = gas; die Grenze = border; der Tag = day. Emin: Mchezo ulikuwa Jumanne. = The game was on Tuesday. Review: Er spielt heute Fußball. = He plays football today. Der Flughafen ist groß. = The airport is big. This practice does not prove exam readiness.",
-      "sw": "A: siku za wiki hutumia am: am Dienstag, am Montag. Miezi hutumia im (im Oktober); saa hutumia um (um acht Uhr). Maneno matano: der Dienstag = Jumanne; das Spiel = mchezo; das Gas = gesi; die Grenze = mpaka; der Tag = siku. Emin: Mchezo ulikuwa Jumanne. = The game was on Tuesday. Marudio: Er spielt heute Fußball. = Anacheza mpira wa miguu leo. Der Flughafen ist groß. = Uwanja wa ndege ni mkubwa. Mazoezi haya hayathibitishi utayari wa mtihani."
+      "en": "B: clock times use um: um zehn Uhr, um acht Uhr. Review from yesterday: days use am (am Dienstag), months use im (im Oktober). Five words: der Monat = month; die Stadt = city; die Straße = road; das Gebäude = building; die Uhr = clock, o'clock. Emin: Kikao kinaanza saa nne asubuhi. = The meeting starts at 10 in the morning (Swahili saa nne = 4 hours after 6:00 = 10:00). This practice does not prove exam readiness.",
+      "sw": "B: saa hutumia um: um zehn Uhr, um acht Uhr. Marudio ya jana: siku hutumia am (am Dienstag), miezi hutumia im (im Oktober). Maneno matano: der Monat = mwezi; die Stadt = mji; die Straße = barabara; das Gebäude = jengo; die Uhr = saa. Emin: Kikao kinaanza saa nne asubuhi. = The meeting starts at 10 in the morning (saa nne ya Kiswahili = masaa 4 baada ya saa 12 alfajiri = 10:00 ya Ulaya). Mazoezi haya hayathibitishi utayari wa mtihani."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-28-de.mp3",
-      "transcript": "Nachrichten und Lernen. Achtundzwanzigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Dreizehn Fachleute haben in Berlin ihre Arbeit begonnen. Sie planen eine Reform für die Pflege. Die Vorschläge kommen bis Ende Januar zweitausendsiebenundzwanzig.\nBerlin. Union Berlin hat am Dienstagabend bei Köln null zu fünf verloren. Der Verein ist nicht mehr im Pokal.\nTansania. Das Land hat neues Erdgas gefunden, in der Region Mtwara. Es ist der erste neue Fund seit zweitausendfünfzehn.\nDaressalam. Die Behörde für Normen warnt: Alkohol und Energydrinks nicht zusammen trinken. Koffein versteckt, wie betrunken man ist.\nArusha. Wegen Ebola in Kenia prüft die Region an der Grenze jeden Reisenden. Mehr als hundert Mitarbeiter im Gesundheitswesen sind geschult.\nDie Quellen sind Tagesschau, rbb und The Citizen. Die Berichte sind vom siebenundzwanzigsten und achtundzwanzigsten Oktober.\nUnsere Lektion: Das Spiel ist am Dienstag.\nFünf Wörter: der Dienstag. Das Spiel. Das Gas. Die Grenze. Der Tag.\nGrammatik: Bei Wochentagen sagt man am. Am Dienstag. Am Montag.\nWiederholung: Er spielt heute Fußball. Der Flughafen ist groß.\nFrage: Das Spiel ist, was passt? A: am. B: im. C: um. Bitte stoppen und wählen.\nDie Antwort ist A. Am Dienstag.\n"
+      "src": "audio/news/2026-10-29-de.mp3",
+      "transcript": "Nachrichten und Lernen. Neunundzwanzigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Das Elterngeld soll bis zu vierzehn Monate bleiben. Das sagt das Familienministerium. Die Kürzung auf zwölf Monate kommt nicht. Der Mindestbetrag soll von dreihundert auf dreihundertdreißig Euro steigen.\nBerlin. Das neue Parlament von Berlin trifft sich heute zum ersten Mal. Die Linke möchte Hendrikje Klein als Präsidentin.\nTansania. Präsidentin Samia soll am dreißigsten Oktober die neue Regierungsstadt in Dodoma eröffnen. Es gibt siebenunddreißig Gebäude und neue Straßen.\nDaressalam. Zwei Ministerien haben einen Vertrag gemacht. Gefangene sollen mehr rechtliche Hilfe bekommen.\nArusha. Heute gab es keine neuere geprüfte Meldung. Ein Bericht vom vierundzwanzigsten Oktober sagt: Der neue Bezirkschef will gegen Kriminalität auf der Straße kämpfen.\nDie Quellen sind Tagesschau, rbb, The Citizen und Arusha News.\nUnsere Lektion: Der Livestream beginnt um zehn Uhr.\nFünf Wörter: der Monat. Die Stadt. Die Straße. Das Gebäude. Die Uhr.\nGrammatik: Bei Uhrzeiten sagt man um. Um zehn Uhr. Um acht Uhr.\nWiederholung von gestern: Das Spiel ist am Dienstag. Bei Tagen sagt man am.\nFrage: Der Livestream beginnt, was passt? A: am. B: um. C: im. Bitte stoppen und wählen.\nDie Antwort ist B. Um zehn Uhr.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-28-en.mp3",
-      "transcript": "News and learning for October twenty-eighth, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Thirteen experts started work in Berlin on a plan to reform care for older and sick people. Their proposals are due by the end of January twenty twenty-seven.\nBerlin. Union Berlin lost zero to five away at Cologne on Tuesday evening and is out of the cup.\nTanzania. The country found new natural gas in the Mtwara region. It is the first new find reported since twenty fifteen.\nDar es Salaam. The Tanzania Bureau of Standards warns people not to mix alcohol and energy drinks. Caffeine can hide how drunk you are.\nArusha. Because of Ebola cases in Kenya, the region checks every traveller at the border. More than one hundred health workers are trained.\nThe sources are Tagesschau, rbb and The Citizen, published on October twenty-seventh and twenty-eighth.\nToday's German sentence: Das Spiel ist am Dienstag. This means: The game is on Tuesday.\nFive words: der Dienstag, Tuesday. Das Spiel, game. Das Gas, gas. Die Grenze, border. Der Tag, day.\nGrammar: for days of the week, use am. Am Dienstag. Am Montag.\nReview: Er spielt heute Fußball. He plays football today. Der Flughafen ist groß. The airport is big.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: Das Spiel ist, which word fits? A: am. B: im. C: um. Pause and choose.\nThe answer is A, am. This exercise does not prove exam readiness.\n"
+      "src": "audio/news/2026-10-29-en.mp3",
+      "transcript": "News and learning for October twenty-ninth, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. The family ministry now plans to keep parental allowance at up to fourteen months. The cut to twelve months is off. The minimum payment would rise from three hundred to three hundred thirty euros.\nBerlin. Berlin's new state parliament meets for the first time today. The Left party names Hendrikje Klein as its candidate for president.\nTanzania. President Samia is expected to open the new Government City in Dodoma on October thirtieth. It has thirty-seven government buildings and new roads.\nDar es Salaam. Two ministries signed a deal. Prisoners and people in custody should get more legal help.\nArusha. There was no newer verified story today. A report from October twenty-fourth says the new District Commissioner wants to fight street crime.\nThe sources are Tagesschau, rbb, The Citizen and Arusha News.\nToday's German sentence: Der Livestream beginnt um zehn Uhr. This means: The livestream starts at ten o'clock.\nFive words: der Monat, month. Die Stadt, city. Die Straße, road. Das Gebäude, building. Die Uhr, clock or o'clock.\nGrammar: for clock times, use um. Um zehn Uhr. Um acht Uhr.\nReview from yesterday: Das Spiel ist am Dienstag. For days, use am.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: Der Livestream beginnt, which word fits? A: am. B: um. C: im. Pause and choose.\nThe answer is B, um. This exercise does not prove exam readiness.\n"
     }
   ]
 }
