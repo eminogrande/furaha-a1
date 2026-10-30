@@ -1,110 +1,110 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "Parental allowance stays at 14 months",
-        "sw": "Posho ya wazazi inabaki miezi 14"
+        "en": "Debate: a tax on AI profits?",
+        "sw": "Mjadala: kodi kwa mapato ya akili bandia?"
       },
       "summary": {
-        "en": "Germany's family ministry now plans to keep Elterngeld (parental allowance) at up to 14 months, not cut it to 12. The minimum payment would rise from 300 to 330 euros.",
-        "sw": "Wizara ya familia ya Ujerumani sasa inapanga kuacha Elterngeld (posho ya wazazi) hadi miezi 14, si kuipunguza hadi 12. Kiwango cha chini kingepanda kutoka euro 300 hadi 330."
+        "en": "Germany's governing parties are debating a tax on money earned with artificial intelligence. Family minister Karin Prien supports it. There are no concrete plans yet.",
+        "sw": "Vyama vya serikali ya Ujerumani vinajadili kodi kwa pesa zinazopatikana kwa akili bandia (AI). Waziri wa familia Karin Prien anaiunga mkono. Bado hakuna mipango thabiti."
       },
-      "sourceUrl": "https://www.tagesschau.de/inland/innenpolitik/elterngeld-bezugsdauer-prien-100.html",
-      "publishedAt": "2026-10-28T16:11:00+01:00"
+      "sourceUrl": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
+      "publishedAt": "2026-10-29T21:12:00+01:00"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "Berlin's new parliament meets today",
-        "sw": "Bunge jipya la Berlin linakutana leo"
+        "en": "Berlin police ready for Saturday protests",
+        "sw": "Polisi wa Berlin wajiandaa kwa maandamano ya Jumamosi"
       },
       "summary": {
-        "en": "Berlin's new state parliament meets for the first time today. The Left party names Hendrikje Klein as its candidate for president.",
-        "sw": "Bunge jipya la jimbo la Berlin linakutana leo kwa mara ya kwanza. Chama cha Die Linke kimemteua Hendrikje Klein kuwa mgombea wa uspika."
+        "en": "About 1,500 extra police will work in Berlin on 31 October. Around 10,000 people are expected at the Brandenburg Gate. Police say they know of no calls for violence.",
+        "sw": "Polisi wapatao 1,500 wa ziada watafanya kazi Berlin tarehe 31 Oktoba. Watu karibu 10,000 wanatarajiwa Brandenburger Tor. Polisi wanasema hawana taarifa za wito wa vurugu."
       },
-      "sourceUrl": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-abgeordnetenhaus-konstituierende-sitzung.html",
-      "publishedAt": "2026-10-29T06:09:00+01:00"
+      "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/rbb-polizei-keine-gezielten-gewaltaufrufe-fuer-den-protesttag-100.html",
+      "publishedAt": "2026-10-29T21:01:00+01:00"
     },
     {
       "region": "Tanzania",
       "title": {
-        "en": "Samia to open the Government City in Dodoma",
-        "sw": "Samia kuzindua Mji wa Serikali Dodoma"
+        "en": "One year since the 2025 election violence",
+        "sw": "Mwaka mmoja tangu vurugu za uchaguzi 2025"
       },
       "summary": {
-        "en": "President Samia is expected to open 37 permanent government buildings and 57.1 km of new roads at Mtumba, Dodoma, on 30 October.",
-        "sw": "Rais Samia anatarajiwa kuzindua majengo 37 ya kudumu ya serikali na barabara za lami za kilomita 57.1 Mtumba, Dodoma, tarehe 30 Oktoba."
+        "en": "Tanzania marks one year since the 29 October 2025 election and the violence after it. A government inquiry recorded at least 518 deaths. A new commission is now collecting evidence in Dar es Salaam.",
+        "sw": "Tanzania inaadhimisha mwaka mmoja tangu uchaguzi wa tarehe 29 Oktoba 2025 na vurugu zilizofuata. Tume ya uchunguzi ya serikali ilirekodi vifo visivyopungua 518. Tume mpya sasa inakusanya ushahidi Dar es Salaam."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-plans-100-year-future-for-dodoma-government-city-5647758",
-      "publishedAt": "2026-10-27T13:45:35Z"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-marks-one-year-since-election-violence-as-calls-for-justice-and-reconciliation-grow-5650194",
+      "publishedAt": "2026-10-29"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "More legal help for prisoners",
-        "sw": "Msaada zaidi wa kisheria kwa wafungwa"
+        "en": "Plan for a Dar es Salaam city authority",
+        "sw": "Mpango wa mamlaka ya jiji la Dar es Salaam"
       },
       "summary": {
-        "en": "On 27 October two ministries signed a deal in Dar es Salaam to give prisoners and people in custody more legal help.",
-        "sw": "Tarehe 27 Oktoba wizara mbili zilisaini makubaliano Dar es Salaam ili wafungwa na mahabusu wapate msaada zaidi wa kisheria."
+        "en": "Deputy minister Festo Dugange told Parliament the government is combining two studies into one plan for a Dar es Salaam Metropolitan Authority. There is no deadline yet.",
+        "sw": "Naibu waziri Festo Dugange aliambia Bunge kuwa serikali inaunganisha tafiti mbili kuwa mpango mmoja wa Mamlaka ya Jiji la Dar es Salaam. Bado hakuna tarehe ya mwisho."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/government-expands-legal-aid-for-prisoners-and-remandees-5648008",
-      "publishedAt": "2026-10-28"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-moves-to-establish-dar-es-salaam-metropolitan-authority-5650292",
+      "publishedAt": "2026-10-29"
     },
     {
       "region": "Arusha",
       "title": {
-        "en": "Arusha's new DC targets street crime (report from 24 October)",
-        "sw": "DC mpya wa Arusha apambana na uhalifu mitaani (ripoti ya tarehe 24 Oktoba)"
+        "en": "Research on violence against women and children",
+        "sw": "Utafiti kuhusu ukatili dhidi ya wanawake na watoto"
       },
       "summary": {
-        "en": "No newer Arusha story was verified today. This report from 24 October says new District Commissioner Nicodemus Tambo promised swoops on street crime and water meter theft.",
-        "sw": "Hakuna habari mpya ya Arusha iliyothibitishwa leo. Ripoti hii ya tarehe 24 Oktoba inasema Mkuu mpya wa Wilaya, Nicodemus Tambo, aliahidi misako dhidi ya uhalifu mitaani na wizi wa mita za maji."
+        "en": "The human rights commission (CHRAGG) is researching abuse in Arusha and Dar es Salaam. Arusha recorded 3,400 violence cases in 2025/26, and a new support centre is planned in Karatu.",
+        "sw": "Tume ya haki za binadamu (CHRAGG) inafanya utafiti wa ukatili Arusha na Dar es Salaam. Arusha ilirekodi kesi 3,400 za ukatili mwaka 2025/26, na kituo kipya cha msaada kimepangwa Karatu."
       },
-      "sourceUrl": "https://www.arushanews.co.tz/updates/dc-tambo-declares-war-on-crime-loitering/",
-      "publishedAt": "2026-10-24T06:30:00+03:00"
+      "sourceUrl": "https://allafrica.com/stories/202610290331.html",
+      "publishedAt": "2026-10-29"
     }
   ],
   "lesson": {
-    "de": "Der Livestream beginnt um zehn Uhr.",
-    "en": "The livestream starts at ten o'clock.",
-    "sw": "Matangazo ya moja kwa moja yanaanza saa nne asubuhi (zehn Uhr = saa 10 kwa saa za Ulaya).",
+    "de": "Die Polizei hat keine Informationen.",
+    "en": "The police have no information.",
+    "sw": "Polisi hawana taarifa.",
     "question": {
-      "en": "Which word fits? \"Der Livestream beginnt ___ zehn Uhr.\"",
-      "sw": "Neno gani linafaa? \"Der Livestream beginnt ___ zehn Uhr.\""
+      "en": "Which word fits? \"Die Polizei hat ___ Informationen.\"",
+      "sw": "Neno gani linafaa? \"Die Polizei hat ___ Informationen.\""
     },
     "options": [
       {
-        "en": "am",
-        "sw": "am"
+        "en": "kein",
+        "sw": "kein"
       },
       {
-        "en": "um",
-        "sw": "um"
+        "en": "keine",
+        "sw": "keine"
       },
       {
-        "en": "im",
-        "sw": "im"
+        "en": "nicht",
+        "sw": "nicht"
       }
     ],
     "correctIndex": 1,
     "explanation": {
-      "en": "B: clock times use um: um zehn Uhr, um acht Uhr. Review from yesterday: days use am (am Dienstag), months use im (im Oktober). Five words: der Monat = month; die Stadt = city; die Straße = road; das Gebäude = building; die Uhr = clock, o'clock. Emin: Kikao kinaanza saa nne asubuhi. = The meeting starts at 10 in the morning (Swahili saa nne = 4 hours after 6:00 = 10:00). This practice does not prove exam readiness.",
-      "sw": "B: saa hutumia um: um zehn Uhr, um acht Uhr. Marudio ya jana: siku hutumia am (am Dienstag), miezi hutumia im (im Oktober). Maneno matano: der Monat = mwezi; die Stadt = mji; die Straße = barabara; das Gebäude = jengo; die Uhr = saa. Emin: Kikao kinaanza saa nne asubuhi. = The meeting starts at 10 in the morning (saa nne ya Kiswahili = masaa 4 baada ya saa 12 alfajiri = 10:00 ya Ulaya). Mazoezi haya hayathibitishi utayari wa mtihani."
+      "en": "B: keine. Use kein/keine to say \"no\" before a noun. Plural and feminine nouns take keine (keine Informationen, keine Zeit). Masculine and neuter take kein (kein Auto). Nicht does not go before a noun here. Five words: die Polizei = police; die Information = information; der Samstag = Saturday; die Stadt = city (review); die Uhr = clock, o'clock (review). Review: Die Demo beginnt am Samstag um 14 Uhr (am for days, um for clock times). Emin: Polisi hawana taarifa. Hawana = hawa + na negative: they do not have. Swahili negative sits inside the verb, German adds kein. This practice does not prove exam readiness.",
+      "sw": "B: keine. Tumia kein/keine kusema \"hakuna\" mbele ya nomino. Nomino za wingi na za kike hutumia keine (keine Informationen, keine Zeit). Za kiume na za kati hutumia kein (kein Auto). Nicht haifai hapa mbele ya nomino. Maneno matano: die Polizei = polisi; die Information = taarifa; der Samstag = Jumamosi; die Stadt = mji (marudio); die Uhr = saa (marudio). Marudio: Die Demo beginnt am Samstag um 14 Uhr (am kwa siku, um kwa saa). Emin: Polisi hawana taarifa. Hawana = hawa + na hasi: hawana maana hawana. Kiswahili huweka hasi ndani ya kitenzi, Kijerumani huongeza kein. Mazoezi haya hayathibitishi utayari wa mtihani."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-29-de.mp3",
-      "transcript": "Nachrichten und Lernen. Neunundzwanzigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Das Elterngeld soll bis zu vierzehn Monate bleiben. Das sagt das Familienministerium. Die Kürzung auf zwölf Monate kommt nicht. Der Mindestbetrag soll von dreihundert auf dreihundertdreißig Euro steigen.\nBerlin. Das neue Parlament von Berlin trifft sich heute zum ersten Mal. Die Linke möchte Hendrikje Klein als Präsidentin.\nTansania. Präsidentin Samia soll am dreißigsten Oktober die neue Regierungsstadt in Dodoma eröffnen. Es gibt siebenunddreißig Gebäude und neue Straßen.\nDaressalam. Zwei Ministerien haben einen Vertrag gemacht. Gefangene sollen mehr rechtliche Hilfe bekommen.\nArusha. Heute gab es keine neuere geprüfte Meldung. Ein Bericht vom vierundzwanzigsten Oktober sagt: Der neue Bezirkschef will gegen Kriminalität auf der Straße kämpfen.\nDie Quellen sind Tagesschau, rbb, The Citizen und Arusha News.\nUnsere Lektion: Der Livestream beginnt um zehn Uhr.\nFünf Wörter: der Monat. Die Stadt. Die Straße. Das Gebäude. Die Uhr.\nGrammatik: Bei Uhrzeiten sagt man um. Um zehn Uhr. Um acht Uhr.\nWiederholung von gestern: Das Spiel ist am Dienstag. Bei Tagen sagt man am.\nFrage: Der Livestream beginnt, was passt? A: am. B: um. C: im. Bitte stoppen und wählen.\nDie Antwort ist B. Um zehn Uhr.\n"
+      "src": "audio/news/2026-10-30-de.mp3",
+      "transcript": "Nachrichten und Lernen. Dreißigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Die Regierungsparteien sprechen über eine Steuer auf Geld, das man mit künstlicher Intelligenz verdient. Familienministerin Prien ist dafür. Es gibt noch keine festen Pläne.\nBerlin. Am Samstag sind in Berlin etwa tausendfünfhundert Polizisten mehr im Dienst. Am Brandenburger Tor erwartet man zehntausend Menschen. Die Polizei sagt: Wir haben keine Hinweise auf Aufrufe zu Gewalt.\nTansania. Das Land erinnert an die Wahl vor einem Jahr und an die Gewalt danach. Eine Untersuchung nennt mindestens fünfhundertachtzehn Tote. Eine neue Kommission sammelt jetzt Beweise in Daressalam.\nDaressalam. Die Regierung arbeitet an einer gemeinsamen Behörde für die ganze Stadt. Es gibt noch keinen Termin.\nArusha. Die Menschenrechtskommission forscht zu Gewalt gegen Frauen und Kinder. In Arusha gab es dreitausendvierhundert Fälle. In Karatu soll ein neues Hilfszentrum kommen.\nDie Quellen sind Tagesschau, rbb, The Citizen und Daily News.\nUnsere Lektion: Die Polizei hat keine Informationen.\nFünf Wörter: die Polizei. Die Information. Der Samstag. Die Stadt. Die Uhr.\nGrammatik: Mit kein oder keine sagt man nein vor einem Nomen. Keine Informationen. Keine Zeit. Aber: kein Auto.\nWiederholung: Die Demo beginnt am Samstag um vierzehn Uhr. Bei Tagen sagt man am. Bei Uhrzeiten sagt man um.\nFrage: Die Polizei hat, was passt? A: kein. B: keine. C: nicht. Informationen. Bitte stoppen und wählen.\nDie Antwort ist B. Keine Informationen.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-29-en.mp3",
-      "transcript": "News and learning for October twenty-ninth, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. The family ministry now plans to keep parental allowance at up to fourteen months. The cut to twelve months is off. The minimum payment would rise from three hundred to three hundred thirty euros.\nBerlin. Berlin's new state parliament meets for the first time today. The Left party names Hendrikje Klein as its candidate for president.\nTanzania. President Samia is expected to open the new Government City in Dodoma on October thirtieth. It has thirty-seven government buildings and new roads.\nDar es Salaam. Two ministries signed a deal. Prisoners and people in custody should get more legal help.\nArusha. There was no newer verified story today. A report from October twenty-fourth says the new District Commissioner wants to fight street crime.\nThe sources are Tagesschau, rbb, The Citizen and Arusha News.\nToday's German sentence: Der Livestream beginnt um zehn Uhr. This means: The livestream starts at ten o'clock.\nFive words: der Monat, month. Die Stadt, city. Die Straße, road. Das Gebäude, building. Die Uhr, clock or o'clock.\nGrammar: for clock times, use um. Um zehn Uhr. Um acht Uhr.\nReview from yesterday: Das Spiel ist am Dienstag. For days, use am.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: Der Livestream beginnt, which word fits? A: am. B: um. C: im. Pause and choose.\nThe answer is B, um. This exercise does not prove exam readiness.\n"
+      "src": "audio/news/2026-10-30-en.mp3",
+      "transcript": "News and learning for October thirtieth, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. The governing parties are debating a tax on money earned with artificial intelligence. Family minister Prien supports it. There are no firm plans yet.\nBerlin. On Saturday about fifteen hundred extra police will be on duty in Berlin. Ten thousand people are expected at the Brandenburg Gate. Police say they know of no calls for violence.\nTanzania. The country marks one year since the election and the violence after it. An inquiry recorded at least five hundred eighteen deaths. A new commission is now collecting evidence in Dar es Salaam.\nDar es Salaam. The government is working on one authority for the whole city. There is no date yet.\nArusha. The human rights commission is researching violence against women and children. Arusha recorded thirty-four hundred cases. A new support centre is planned in Karatu.\nThe sources are Tagesschau, rbb, The Citizen and Daily News.\nToday's German sentence: Die Polizei hat keine Informationen. This means: The police have no information.\nFive words: die Polizei, police. Die Information, information. Der Samstag, Saturday. Die Stadt, city. Die Uhr, clock or o'clock.\nGrammar: kein or keine says no before a noun. Keine Informationen. Keine Zeit. But: kein Auto.\nReview: Die Demo beginnt am Samstag um vierzehn Uhr. For days use am. For clock times use um.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: Die Polizei hat, which word fits? A: kein. B: keine. C: nicht. Informationen. Pause and choose.\nThe answer is B, keine. This exercise does not prove exam readiness.\n"
     }
   ]
 }
