@@ -1,110 +1,110 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "Debate: a tax on AI profits?",
-        "sw": "Mjadala: kodi kwa mapato ya akili bandia?"
+        "en": "German inflation falls to 2.8%",
+        "sw": "Mfumuko wa bei Ujerumani washuka hadi 2.8%"
       },
       "summary": {
-        "en": "Germany's governing parties are debating a tax on money earned with artificial intelligence. Family minister Karin Prien supports it. There are no concrete plans yet.",
-        "sw": "Vyama vya serikali ya Ujerumani vinajadili kodi kwa pesa zinazopatikana kwa akili bandia (AI). Waziri wa familia Karin Prien anaiunga mkono. Bado hakuna mipango thabiti."
+        "en": "Germany's yearly inflation fell to 2.8% in October, from 3.3% in September. Economists say the main reason is the fuel tax cut, which runs until December.",
+        "sw": "Mfumuko wa bei wa mwaka nchini Ujerumani ulishuka hadi 2.8% mwezi Oktoba, kutoka 3.3% Septemba. Wachumi wanasema sababu kuu ni kupunguzwa kwa kodi ya mafuta, kunakodumu hadi Desemba."
       },
-      "sourceUrl": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
-      "publishedAt": "2026-10-29T21:12:00+01:00"
+      "sourceUrl": "https://www.dw.com/en/germany-news-friedrich-merz-calls-for-global-free-trade-alliance-during-asia-trip/live-79803462",
+      "publishedAt": "2026-10-30"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "Berlin police ready for Saturday protests",
-        "sw": "Polisi wa Berlin wajiandaa kwa maandamano ya Jumamosi"
+        "en": "Berlin prepares for youth protests today",
+        "sw": "Berlin yajiandaa kwa maandamano ya vijana leo"
       },
       "summary": {
-        "en": "About 1,500 extra police will work in Berlin on 31 October. Around 10,000 people are expected at the Brandenburg Gate. Police say they know of no calls for violence.",
-        "sw": "Polisi wapatao 1,500 wa ziada watafanya kazi Berlin tarehe 31 Oktoba. Watu karibu 10,000 wanatarajiwa Brandenburger Tor. Polisi wanasema hawana taarifa za wito wa vurugu."
+        "en": "About 1,500 police are on duty in Berlin today. Around 10,000 people are expected at the Brandenburg Gate at 14:00. A few shops on Kurfürstendamm have boarded up windows, but police see no sign of serious violence.",
+        "sw": "Polisi wapatao 1,500 wako kazini Berlin leo. Watu karibu 10,000 wanatarajiwa Brandenburger Tor saa 14:00. Maduka machache Kurfürstendamm yamefunga madirisha kwa mbao, lakini polisi hawaoni dalili za vurugu kubwa."
       },
-      "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/rbb-polizei-keine-gezielten-gewaltaufrufe-fuer-den-protesttag-100.html",
-      "publishedAt": "2026-10-29T21:01:00+01:00"
+      "sourceUrl": "https://www.rbb24.de/politik/beitrag/2026/10/polizei-berlin-protesttag-gen-z-regelt-keine-gewaltaufrufe.html",
+      "publishedAt": "2026-10-30"
     },
     {
       "region": "Tanzania",
       "title": {
-        "en": "One year since the 2025 election violence",
-        "sw": "Mwaka mmoja tangu vurugu za uchaguzi 2025"
+        "en": "Government City opens in Dodoma",
+        "sw": "Mji wa Serikali wafunguliwa Dodoma"
       },
       "summary": {
-        "en": "Tanzania marks one year since the 29 October 2025 election and the violence after it. A government inquiry recorded at least 518 deaths. A new commission is now collecting evidence in Dar es Salaam.",
-        "sw": "Tanzania inaadhimisha mwaka mmoja tangu uchaguzi wa tarehe 29 Oktoba 2025 na vurugu zilizofuata. Tume ya uchunguzi ya serikali ilirekodi vifo visivyopungua 518. Tume mpya sasa inakusanya ushahidi Dar es Salaam."
+        "en": "President Samia Suluhu Hassan opened the Government City in Mtumba, Dodoma. She said Tanzania paid Sh700 billion from its own funds, for at least 28 buildings and 59.1 km of roads.",
+        "sw": "Rais Samia Suluhu Hassan alifungua Mji wa Serikali Mtumba, Dodoma. Alisema Tanzania ilitumia Sh bilioni 700 kutoka fedha zake yenyewe, kwa angalau majengo 28 na barabara za lami kilomita 59.1."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-marks-one-year-since-election-violence-as-calls-for-justice-and-reconciliation-grow-5650194",
-      "publishedAt": "2026-10-29"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-spends-sh700-billion-of-own-funds-on-government-city-samia-says-5652762",
+      "publishedAt": "2026-10-30"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "Plan for a Dar es Salaam city authority",
-        "sw": "Mpango wa mamlaka ya jiji la Dar es Salaam"
+        "en": "Transporters split on road and bridge tolls",
+        "sw": "Wasafirishaji wagawanyika kuhusu ushuru wa barabara na madaraja"
       },
       "summary": {
-        "en": "Deputy minister Festo Dugange told Parliament the government is combining two studies into one plan for a Dar es Salaam Metropolitan Authority. There is no deadline yet.",
-        "sw": "Naibu waziri Festo Dugange aliambia Bunge kuwa serikali inaunganisha tafiti mbili kuwa mpango mmoja wa Mamlaka ya Jiji la Dar es Salaam. Bado hakuna tarehe ya mwisho."
+        "en": "The government may introduce tolls on roads and bridges. Some transporters support it to pay for new roads. Others say drivers already pay through fuel levies and want to see Road Fund figures first.",
+        "sw": "Serikali inaweza kuanzisha ushuru kwenye barabara na madaraja. Baadhi ya wasafirishaji wanaunga mkono ili kugharamia barabara mpya. Wengine wanasema madereva tayari wanalipa kupitia tozo za mafuta na wanataka kwanza kuona takwimu za Mfuko wa Barabara."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-moves-to-establish-dar-es-salaam-metropolitan-authority-5650292",
-      "publishedAt": "2026-10-29"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/transporters-divided-as-government-plans-new-road-bridge-tolls-5651520",
+      "publishedAt": "2026-10-30"
     },
     {
       "region": "Arusha",
       "title": {
-        "en": "Research on violence against women and children",
-        "sw": "Utafiti kuhusu ukatili dhidi ya wanawake na watoto"
+        "en": "Golf: Chidale wins Tanzania Open in Arusha",
+        "sw": "Gofu: Chidale ashinda Tanzania Open Arusha"
       },
       "summary": {
-        "en": "The human rights commission (CHRAGG) is researching abuse in Arusha and Dar es Salaam. Arusha recorded 3,400 violence cases in 2025/26, and a new support centre is planned in Karatu.",
-        "sw": "Tume ya haki za binadamu (CHRAGG) inafanya utafiti wa ukatili Arusha na Dar es Salaam. Arusha ilirekodi kesi 3,400 za ukatili mwaka 2025/26, na kituo kipya cha msaada kimepangwa Karatu."
+        "en": "An analysis published on 30 October looks at the Tanzania Open at Kili Golf, which ended on 25 October. Paul Chidale of Malawi won; Tanzania's Nuru Mollel was second, four shots behind. This is a look back, not breaking news.",
+        "sw": "Uchambuzi uliochapishwa tarehe 30 Oktoba unaangalia Tanzania Open katika Kili Golf, iliyoisha tarehe 25 Oktoba. Paul Chidale wa Malawi alishinda; Nuru Mollel wa Tanzania alikuwa wa pili, mipigo minne nyuma. Hii ni kuangalia nyuma, si habari mpya kabisa."
       },
-      "sourceUrl": "https://allafrica.com/stories/202610290331.html",
-      "publishedAt": "2026-10-29"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/sports/tanzania-golfers-must-turn-investment-into-vodacom-tanzania-open-success-5651934",
+      "publishedAt": "2026-10-30"
     }
   ],
   "lesson": {
-    "de": "Die Polizei hat keine Informationen.",
-    "en": "The police have no information.",
-    "sw": "Polisi hawana taarifa.",
+    "de": "Wie viel kostet das Brot? Zwei Euro.",
+    "en": "How much does the bread cost? Two euros.",
+    "sw": "Mkate unauzwa shilingi ngapi? Euro mbili.",
     "question": {
-      "en": "Which word fits? \"Die Polizei hat ___ Informationen.\"",
-      "sw": "Neno gani linafaa? \"Die Polizei hat ___ Informationen.\""
+      "en": "Which answer fits \"Wie viel kostet das Brot?\"",
+      "sw": "Jibu gani linafaa kwa \"Wie viel kostet das Brot?\""
     },
     "options": [
       {
-        "en": "kein",
-        "sw": "kein"
+        "en": "Zwei Euro. (Two euros.)",
+        "sw": "Zwei Euro. (Euro mbili.)"
       },
       {
-        "en": "keine",
-        "sw": "keine"
+        "en": "Um zwei Uhr. (At two o'clock.)",
+        "sw": "Um zwei Uhr. (Saa mbili.)"
       },
       {
-        "en": "nicht",
-        "sw": "nicht"
+        "en": "In Berlin. (In Berlin.)",
+        "sw": "In Berlin. (Berlin.)"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
-      "en": "B: keine. Use kein/keine to say \"no\" before a noun. Plural and feminine nouns take keine (keine Informationen, keine Zeit). Masculine and neuter take kein (kein Auto). Nicht does not go before a noun here. Five words: die Polizei = police; die Information = information; der Samstag = Saturday; die Stadt = city (review); die Uhr = clock, o'clock (review). Review: Die Demo beginnt am Samstag um 14 Uhr (am for days, um for clock times). Emin: Polisi hawana taarifa. Hawana = hawa + na negative: they do not have. Swahili negative sits inside the verb, German adds kein. This practice does not prove exam readiness.",
-      "sw": "B: keine. Tumia kein/keine kusema \"hakuna\" mbele ya nomino. Nomino za wingi na za kike hutumia keine (keine Informationen, keine Zeit). Za kiume na za kati hutumia kein (kein Auto). Nicht haifai hapa mbele ya nomino. Maneno matano: die Polizei = polisi; die Information = taarifa; der Samstag = Jumamosi; die Stadt = mji (marudio); die Uhr = saa (marudio). Marudio: Die Demo beginnt am Samstag um 14 Uhr (am kwa siku, um kwa saa). Emin: Polisi hawana taarifa. Hawana = hawa + na hasi: hawana maana hawana. Kiswahili huweka hasi ndani ya kitenzi, Kijerumani huongeza kein. Mazoezi haya hayathibitishi utayari wa mtihani."
+      "en": "A: Zwei Euro. \"Wie viel kostet ...?\" asks for a price, so the answer is an amount of money. \"Um zwei Uhr\" answers a time question (Wann? Um wie viel Uhr?), and \"In Berlin\" answers Wo?. Five words: der Preis = price; der Euro = euro; kosten = to cost; teuer = expensive; billig = cheap. Review: um + Uhr for clock times (from 30 Oct). Grammar point: nicht + adjective, kein + noun: Das ist nicht teuer (not expensive); Das ist kein Problem. Emin: Hii ni shilingi ngapi? = How much is this? This practice does not prove exam readiness.",
+      "sw": "A: Zwei Euro. \"Wie viel kostet ...?\" huuliza bei, kwa hiyo jibu ni kiasi cha pesa. \"Um zwei Uhr\" hujibu swali la wakati (Wann? Um wie viel Uhr?), na \"In Berlin\" hujibu Wo? (wapi). Maneno matano: der Preis = bei; der Euro = euro; kosten = kugharimu; teuer = ghali; billig = rahisi. Marudio: um + Uhr kwa saa (kutoka 30 Okt). Sarufi: nicht + kivumishi, kein + nomino: Das ist nicht teuer (si ghali); Das ist kein Problem. Emin: Hii ni shilingi ngapi? = How much is this? Mazoezi haya hayathibitishi utayari wa mtihani."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-30-de.mp3",
-      "transcript": "Nachrichten und Lernen. Dreißigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Die Regierungsparteien sprechen über eine Steuer auf Geld, das man mit künstlicher Intelligenz verdient. Familienministerin Prien ist dafür. Es gibt noch keine festen Pläne.\nBerlin. Am Samstag sind in Berlin etwa tausendfünfhundert Polizisten mehr im Dienst. Am Brandenburger Tor erwartet man zehntausend Menschen. Die Polizei sagt: Wir haben keine Hinweise auf Aufrufe zu Gewalt.\nTansania. Das Land erinnert an die Wahl vor einem Jahr und an die Gewalt danach. Eine Untersuchung nennt mindestens fünfhundertachtzehn Tote. Eine neue Kommission sammelt jetzt Beweise in Daressalam.\nDaressalam. Die Regierung arbeitet an einer gemeinsamen Behörde für die ganze Stadt. Es gibt noch keinen Termin.\nArusha. Die Menschenrechtskommission forscht zu Gewalt gegen Frauen und Kinder. In Arusha gab es dreitausendvierhundert Fälle. In Karatu soll ein neues Hilfszentrum kommen.\nDie Quellen sind Tagesschau, rbb, The Citizen und Daily News.\nUnsere Lektion: Die Polizei hat keine Informationen.\nFünf Wörter: die Polizei. Die Information. Der Samstag. Die Stadt. Die Uhr.\nGrammatik: Mit kein oder keine sagt man nein vor einem Nomen. Keine Informationen. Keine Zeit. Aber: kein Auto.\nWiederholung: Die Demo beginnt am Samstag um vierzehn Uhr. Bei Tagen sagt man am. Bei Uhrzeiten sagt man um.\nFrage: Die Polizei hat, was passt? A: kein. B: keine. C: nicht. Informationen. Bitte stoppen und wählen.\nDie Antwort ist B. Keine Informationen.\n"
+      "src": "audio/news/2026-10-31-de.mp3",
+      "transcript": "Nachrichten und Lernen. Einunddreißigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Die Preise steigen langsamer. Die Inflation lag im Oktober bei zwei Komma acht Prozent. Im September waren es drei Komma drei Prozent. Der Grund ist vor allem die niedrigere Steuer auf Benzin.\nBerlin. Heute sind in Berlin etwa tausendfünfhundert Polizisten im Einsatz. Um vierzehn Uhr erwartet man zehntausend Menschen am Brandenburger Tor. Einige Geschäfte haben ihre Fenster mit Brettern geschützt. Die Polizei sieht keine Hinweise auf schwere Gewalt.\nTansania. Die Präsidentin hat in Dodoma die neue Regierungsstadt eröffnet. Sie hat siebenhundert Milliarden Schilling aus eigenem Geld bezahlt. Es gibt mindestens achtundzwanzig Gebäude und neue Straßen.\nDaressalam. Die Regierung denkt über Gebühren für Straßen und Brücken nach. Manche Fahrer sagen ja. Andere sagen: Wir zahlen schon über das Benzin.\nArusha. Beim Golfturnier Tanzania Open hat Paul Chidale aus Malawi gewonnen. Das Turnier war am fünfundzwanzigsten Oktober zu Ende. Das ist ein Rückblick, keine ganz neue Nachricht.\nDie Quellen sind Deutsche Welle, rbb24 und The Citizen.\nUnsere Lektion: Wie viel kostet das Brot? Zwei Euro.\nFünf Wörter: der Preis. Der Euro. Kosten. Teuer. Billig.\nGrammatik: Bei Preisen fragt man: Wie viel kostet das? Die Antwort ist Geld. Zum Beispiel: Zwei Euro. Das ist nicht teuer. Das ist kein Problem.\nWiederholung: Bei der Uhrzeit sagt man um. Um vierzehn Uhr.\nFrage: Wie viel kostet das Brot? A: Zwei Euro. B: Um zwei Uhr. C: In Berlin. Bitte stoppen und wählen.\nDie Antwort ist A. Zwei Euro.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-30-en.mp3",
-      "transcript": "News and learning for October thirtieth, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. The governing parties are debating a tax on money earned with artificial intelligence. Family minister Prien supports it. There are no firm plans yet.\nBerlin. On Saturday about fifteen hundred extra police will be on duty in Berlin. Ten thousand people are expected at the Brandenburg Gate. Police say they know of no calls for violence.\nTanzania. The country marks one year since the election and the violence after it. An inquiry recorded at least five hundred eighteen deaths. A new commission is now collecting evidence in Dar es Salaam.\nDar es Salaam. The government is working on one authority for the whole city. There is no date yet.\nArusha. The human rights commission is researching violence against women and children. Arusha recorded thirty-four hundred cases. A new support centre is planned in Karatu.\nThe sources are Tagesschau, rbb, The Citizen and Daily News.\nToday's German sentence: Die Polizei hat keine Informationen. This means: The police have no information.\nFive words: die Polizei, police. Die Information, information. Der Samstag, Saturday. Die Stadt, city. Die Uhr, clock or o'clock.\nGrammar: kein or keine says no before a noun. Keine Informationen. Keine Zeit. But: kein Auto.\nReview: Die Demo beginnt am Samstag um vierzehn Uhr. For days use am. For clock times use um.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: Die Polizei hat, which word fits? A: kein. B: keine. C: nicht. Informationen. Pause and choose.\nThe answer is B, keine. This exercise does not prove exam readiness.\n"
+      "src": "audio/news/2026-10-31-en.mp3",
+      "transcript": "News and learning for October thirty-first, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Prices are rising more slowly. Inflation was two point eight percent in October, down from three point three in September. The main reason is the lower tax on fuel.\nBerlin. Today about fifteen hundred police are on duty in Berlin. At two p.m., ten thousand people are expected at the Brandenburg Gate. A few shops have boarded up their windows. Police see no sign of serious violence.\nTanzania. The president opened the new Government City in Dodoma. She said Tanzania paid seven hundred billion shillings from its own funds. There are at least twenty-eight buildings and new roads.\nDar es Salaam. The government is thinking about tolls on roads and bridges. Some drivers say yes. Others say they already pay through fuel levies.\nArusha. Paul Chidale from Malawi won the Tanzania Open golf tournament. It ended on October twenty-fifth. This is a look back, not breaking news.\nThe sources are Deutsche Welle, rbb24 and The Citizen.\nToday's German sentence: Wie viel kostet das Brot? Zwei Euro. It means: How much does the bread cost? Two euros.\nFive words: der Preis, price. Der Euro, euro. Kosten, to cost. Teuer, expensive. Billig, cheap.\nGrammar: to ask a price, say Wie viel kostet das? The answer is money, for example Zwei Euro. Also: Das ist nicht teuer. Das ist kein Problem.\nReview: for clock times use um. Um vierzehn Uhr.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: Wie viel kostet das Brot? A: Zwei Euro. B: Um zwei Uhr. C: In Berlin. Pause and choose.\nThe answer is A, two euros. This exercise does not prove exam readiness.\n"
     }
   ]
 }
