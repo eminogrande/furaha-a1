@@ -1,110 +1,110 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "German inflation falls to 2.8%",
-        "sw": "Mfumuko wa bei Ujerumani washuka hadi 2.8%"
+        "en": "Youth protests in Germany: calm day, violent night",
+        "sw": "Maandamano ya vijana Ujerumani: mchana shwari, usiku vurugu"
       },
       "summary": {
-        "en": "Germany's yearly inflation fell to 2.8% in October, from 3.3% in September. Economists say the main reason is the fuel tax cut, which runs until December.",
-        "sw": "Mfumuko wa bei wa mwaka nchini Ujerumani ulishuka hadi 2.8% mwezi Oktoba, kutoka 3.3% Septemba. Wachumi wanasema sababu kuu ni kupunguzwa kwa kodi ya mafuta, kunakodumu hadi Desemba."
+        "en": "Thousands of young people marched in over 30 German cities on Saturday. Organizers said 100,000 took part. The day was mostly peaceful, but in the evening there was violence in several cities.",
+        "sw": "Maelfu ya vijana waliandamana katika miji zaidi ya 30 ya Ujerumani Jumamosi. Waandaaji walisema watu 100,000 walishiriki. Mchana ulikuwa shwari kwa kiasi kikubwa, lakini jioni kulitokea vurugu katika miji kadhaa."
       },
-      "sourceUrl": "https://www.dw.com/en/germany-news-friedrich-merz-calls-for-global-free-trade-alliance-during-asia-trip/live-79803462",
-      "publishedAt": "2026-10-30"
+      "sourceUrl": "https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694",
+      "publishedAt": "2026-11-01"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "Berlin prepares for youth protests today",
-        "sw": "Berlin yajiandaa kwa maandamano ya vijana leo"
+        "en": "Berlin: left party says yes to coalition talks",
+        "sw": "Berlin: chama cha Linke chakubali mazungumzo ya muungano"
       },
       "summary": {
-        "en": "About 1,500 police are on duty in Berlin today. Around 10,000 people are expected at the Brandenburg Gate at 14:00. A few shops on Kurfürstendamm have boarded up windows, but police see no sign of serious violence.",
-        "sw": "Polisi wapatao 1,500 wako kazini Berlin leo. Watu karibu 10,000 wanatarajiwa Brandenburger Tor saa 14:00. Maduka machache Kurfürstendamm yamefunga madirisha kwa mbao, lakini polisi hawaoni dalili za vurugu kubwa."
+        "en": "Berlin's Left party voted by a clear majority for coalition talks with the Greens and the SPD. The talks should start on Monday, six weeks after the election.",
+        "sw": "Chama cha Linke Berlin kimepiga kura kwa wingi mkubwa kukubali mazungumzo ya muungano na Greens na SPD. Mazungumzo yanatarajiwa kuanza Jumatatu, wiki sita baada ya uchaguzi."
       },
-      "sourceUrl": "https://www.rbb24.de/politik/beitrag/2026/10/polizei-berlin-protesttag-gen-z-regelt-keine-gewaltaufrufe.html",
-      "publishedAt": "2026-10-30"
+      "sourceUrl": "https://www.rbb24.de/politik/beitrag/2026/10/linke-parteitag-elif-eralp-koalitionsverhandlungen.html",
+      "publishedAt": "2026-10-31"
     },
     {
       "region": "Tanzania",
       "title": {
-        "en": "Government City opens in Dodoma",
-        "sw": "Mji wa Serikali wafunguliwa Dodoma"
+        "en": "El Niño rains hit Mara Region",
+        "sw": "Mvua za El Niño zaathiri Mkoa wa Mara"
       },
       "summary": {
-        "en": "President Samia Suluhu Hassan opened the Government City in Mtumba, Dodoma. She said Tanzania paid Sh700 billion from its own funds, for at least 28 buildings and 59.1 km of roads.",
-        "sw": "Rais Samia Suluhu Hassan alifungua Mji wa Serikali Mtumba, Dodoma. Alisema Tanzania ilitumia Sh bilioni 700 kutoka fedha zake yenyewe, kwa angalau majengo 28 na barabara za lami kilomita 59.1."
+        "en": "One child died and more than 400 houses were damaged in Bunda and Rorya after El Niño rains. The regional commissioner told people in valleys and other risky areas to move.",
+        "sw": "Mtoto mmoja alifariki na nyumba zaidi ya 400 ziliharibiwa Bunda na Rorya baada ya mvua za El Niño. Mkuu wa mkoa aliwaambia watu wanaoishi mabondeni na maeneo hatarishi wahame."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-spends-sh700-billion-of-own-funds-on-government-city-samia-says-5652762",
-      "publishedAt": "2026-10-30"
+      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/el-ni%C3%B1o-rains-kill-child-damage-over-400-houses-in-mara-5653822",
+      "publishedAt": "2026-10-31"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "Transporters split on road and bridge tolls",
-        "sw": "Wasafirishaji wagawanyika kuhusu ushuru wa barabara na madaraja"
+        "en": "Dar es Salaam may get a Metropolitan Authority",
+        "sw": "Dar es Salaam huenda ikapata Mamlaka ya Jiji Kuu"
       },
       "summary": {
-        "en": "The government may introduce tolls on roads and bridges. Some transporters support it to pay for new roads. Others say drivers already pay through fuel levies and want to see Road Fund figures first.",
-        "sw": "Serikali inaweza kuanzisha ushuru kwenye barabara na madaraja. Baadhi ya wasafirishaji wanaunga mkono ili kugharamia barabara mpya. Wengine wanasema madereva tayari wanalipa kupitia tozo za mafuta na wanataka kwanza kuona takwimu za Mfuko wa Barabara."
+        "en": "A deputy minister told Parliament on 29 October that the government is merging two technical studies into one plan. The authority would coordinate planning and transport across city councils. No deadline was given.",
+        "sw": "Naibu waziri aliliambia Bunge tarehe 29 Oktoba kwamba serikali inaunganisha tafiti mbili za kitaalamu kuwa mpango mmoja. Mamlaka hiyo ingeratibu mipango na usafiri kati ya halmashauri za jiji. Hakuna tarehe ya mwisho iliyotolewa."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/transporters-divided-as-government-plans-new-road-bridge-tolls-5651520",
-      "publishedAt": "2026-10-30"
+      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/dar-es-salaam-moves-closer-to-metropolitan-authority-as-government-harmonises-plans-5650292",
+      "publishedAt": "2026-10-29"
     },
     {
       "region": "Arusha",
       "title": {
-        "en": "Golf: Chidale wins Tanzania Open in Arusha",
-        "sw": "Gofu: Chidale ashinda Tanzania Open Arusha"
+        "en": "Fire destroys 10 rooms in Arusha",
+        "sw": "Moto waharibu vyumba 10 Arusha"
       },
       "summary": {
-        "en": "An analysis published on 30 October looks at the Tanzania Open at Kili Golf, which ended on 25 October. Paul Chidale of Malawi won; Tanzania's Nuru Mollel was second, four shots behind. This is a look back, not breaking news.",
-        "sw": "Uchambuzi uliochapishwa tarehe 30 Oktoba unaangalia Tanzania Open katika Kili Golf, iliyoisha tarehe 25 Oktoba. Paul Chidale wa Malawi alishinda; Nuru Mollel wa Tanzania alikuwa wa pili, mipigo minne nyuma. Hii ni kuangalia nyuma, si habari mpya kabisa."
+        "en": "A fire overnight destroyed 10 rooms of a house in Kati Ward, Arusha. No one was hurt. Firefighters stopped it from reaching a nearby building with more than 20 families. A faulty gas cylinder is the first suspected cause.",
+        "sw": "Moto wa usiku uliteketeza vyumba 10 vya nyumba moja Kata ya Kati, Arusha. Hakuna aliyejeruhiwa. Wazima moto walizuia moto usifike jengo jirani lenye familia zaidi ya 20. Mtungi wa gesi wenye hitilafu unatuhumiwa kuwa chanzo cha awali."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/sports/tanzania-golfers-must-turn-investment-into-vodacom-tanzania-open-success-5651934",
-      "publishedAt": "2026-10-30"
+      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/fire-destroys-10-rooms-in-arusha-house-5653514",
+      "publishedAt": "2026-10-31"
     }
   ],
   "lesson": {
-    "de": "Wie viel kostet das Brot? Zwei Euro.",
-    "en": "How much does the bread cost? Two euros.",
-    "sw": "Mkate unauzwa shilingi ngapi? Euro mbili.",
+    "de": "Heute regnet es viel.",
+    "en": "It rains a lot today.",
+    "sw": "Leo mvua inanyesha sana.",
     "question": {
-      "en": "Which answer fits \"Wie viel kostet das Brot?\"",
-      "sw": "Jibu gani linafaa kwa \"Wie viel kostet das Brot?\""
+      "en": "Which German sentence is correct?",
+      "sw": "Sentensi ipi ya Kijerumani ni sahihi?"
     },
     "options": [
       {
-        "en": "Zwei Euro. (Two euros.)",
-        "sw": "Zwei Euro. (Euro mbili.)"
+        "en": "Heute es regnet viel.",
+        "sw": "Heute es regnet viel."
       },
       {
-        "en": "Um zwei Uhr. (At two o'clock.)",
-        "sw": "Um zwei Uhr. (Saa mbili.)"
+        "en": "Heute regnet es viel. (It rains a lot today.)",
+        "sw": "Heute regnet es viel. (Leo mvua inanyesha sana.)"
       },
       {
-        "en": "In Berlin. (In Berlin.)",
-        "sw": "In Berlin. (Berlin.)"
+        "en": "Heute viel regnet es.",
+        "sw": "Heute viel regnet es."
       }
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": {
-      "en": "A: Zwei Euro. \"Wie viel kostet ...?\" asks for a price, so the answer is an amount of money. \"Um zwei Uhr\" answers a time question (Wann? Um wie viel Uhr?), and \"In Berlin\" answers Wo?. Five words: der Preis = price; der Euro = euro; kosten = to cost; teuer = expensive; billig = cheap. Review: um + Uhr for clock times (from 30 Oct). Grammar point: nicht + adjective, kein + noun: Das ist nicht teuer (not expensive); Das ist kein Problem. Emin: Hii ni shilingi ngapi? = How much is this? This practice does not prove exam readiness.",
-      "sw": "A: Zwei Euro. \"Wie viel kostet ...?\" huuliza bei, kwa hiyo jibu ni kiasi cha pesa. \"Um zwei Uhr\" hujibu swali la wakati (Wann? Um wie viel Uhr?), na \"In Berlin\" hujibu Wo? (wapi). Maneno matano: der Preis = bei; der Euro = euro; kosten = kugharimu; teuer = ghali; billig = rahisi. Marudio: um + Uhr kwa saa (kutoka 30 Okt). Sarufi: nicht + kivumishi, kein + nomino: Das ist nicht teuer (si ghali); Das ist kein Problem. Emin: Hii ni shilingi ngapi? = How much is this? Mazoezi haya hayathibitishi utayari wa mtihani."
+      "en": "B: Heute regnet es viel. In a German statement the verb is always in position 2. Heute is position 1, so regnet comes next, then es. The other two put the verb in position 3. For weather, German uses es: Es regnet (it rains), es schneit (it snows). Five words: der Regen = rain; regnen = to rain; das Wetter = weather; nass = wet; viel = a lot. Review: um + Uhr (Um zehn Uhr regnet es.) and kein/keine (Heute gibt es keine Sonne.). Emin: Mvua inanyesha sana leo. = It rains a lot today. This practice does not prove exam readiness.",
+      "sw": "B: Heute regnet es viel. Katika sentensi ya kawaida ya Kijerumani, kitenzi huwa mahali pa pili. Heute ni mahali pa kwanza, kwa hiyo regnet inafuata, kisha es. Nyingine mbili zinaweka kitenzi mahali pa tatu. Kwa hali ya hewa Kijerumani hutumia es: Es regnet (mvua inanyesha), es schneit (theluji inanyesha). Maneno matano: der Regen = mvua; regnen = kunyesha (mvua); das Wetter = hali ya hewa; nass = -lowa; viel = nyingi/sana. Marudio: um + Uhr (Um zehn Uhr regnet es.) na kein/keine (Heute gibt es keine Sonne.). Emin: Mvua inanyesha sana leo. = It rains a lot today. Mazoezi haya hayathibitishi utayari wa mtihani."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-10-31-de.mp3",
-      "transcript": "Nachrichten und Lernen. Einunddreißigster Oktober zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Die Preise steigen langsamer. Die Inflation lag im Oktober bei zwei Komma acht Prozent. Im September waren es drei Komma drei Prozent. Der Grund ist vor allem die niedrigere Steuer auf Benzin.\nBerlin. Heute sind in Berlin etwa tausendfünfhundert Polizisten im Einsatz. Um vierzehn Uhr erwartet man zehntausend Menschen am Brandenburger Tor. Einige Geschäfte haben ihre Fenster mit Brettern geschützt. Die Polizei sieht keine Hinweise auf schwere Gewalt.\nTansania. Die Präsidentin hat in Dodoma die neue Regierungsstadt eröffnet. Sie hat siebenhundert Milliarden Schilling aus eigenem Geld bezahlt. Es gibt mindestens achtundzwanzig Gebäude und neue Straßen.\nDaressalam. Die Regierung denkt über Gebühren für Straßen und Brücken nach. Manche Fahrer sagen ja. Andere sagen: Wir zahlen schon über das Benzin.\nArusha. Beim Golfturnier Tanzania Open hat Paul Chidale aus Malawi gewonnen. Das Turnier war am fünfundzwanzigsten Oktober zu Ende. Das ist ein Rückblick, keine ganz neue Nachricht.\nDie Quellen sind Deutsche Welle, rbb24 und The Citizen.\nUnsere Lektion: Wie viel kostet das Brot? Zwei Euro.\nFünf Wörter: der Preis. Der Euro. Kosten. Teuer. Billig.\nGrammatik: Bei Preisen fragt man: Wie viel kostet das? Die Antwort ist Geld. Zum Beispiel: Zwei Euro. Das ist nicht teuer. Das ist kein Problem.\nWiederholung: Bei der Uhrzeit sagt man um. Um vierzehn Uhr.\nFrage: Wie viel kostet das Brot? A: Zwei Euro. B: Um zwei Uhr. C: In Berlin. Bitte stoppen und wählen.\nDie Antwort ist A. Zwei Euro.\n"
+      "src": "audio/news/2026-11-01-de.mp3",
+      "transcript": "Nachrichten und Lernen. Erster November zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Am Samstag sind in mehr als dreißig Städten junge Menschen auf die Straße gegangen. Die Veranstalter sagen: Hunderttausend Menschen waren dabei. Am Tag war es meistens friedlich. Am Abend gab es in mehreren Städten Gewalt.\nBerlin. Die Linke in Berlin hat für Koalitionsgespräche mit Grünen und SPD gestimmt. Fast alle waren dafür. Die Gespräche sollen am Montag beginnen.\nTansania. In der Region Mara hat der Regen von El Niño viel kaputt gemacht. Ein Kind ist gestorben. Mehr als vierhundert Häuser sind beschädigt. Menschen in Tälern sollen umziehen.\nDaressalam. Die Regierung plant eine neue Behörde für die ganze Stadt. Sie soll Verkehr und Planung zwischen den Stadtteilen verbinden. Einen Termin gibt es noch nicht.\nArusha. In der Nacht hat ein Feuer zehn Zimmer in einem Haus zerstört. Niemand wurde verletzt. Vielleicht war eine kaputte Gasflasche der Grund.\nDie Quellen sind Deutsche Welle, rbb24 und The Citizen.\nUnsere Lektion: Heute regnet es viel.\nFünf Wörter: der Regen. Regnen. Das Wetter. Nass. Viel.\nGrammatik: In einem deutschen Satz steht das Verb an zweiter Stelle. Heute regnet es viel. Beim Wetter sagt man es: Es regnet. Es schneit.\nWiederholung: Um zehn Uhr regnet es. Heute gibt es keine Sonne.\nFrage: Welcher Satz ist richtig? A: Heute es regnet viel. B: Heute regnet es viel. C: Heute viel regnet es. Bitte stoppen und wählen.\nDie Antwort ist B. Heute regnet es viel.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-10-31-en.mp3",
-      "transcript": "News and learning for October thirty-first, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Prices are rising more slowly. Inflation was two point eight percent in October, down from three point three in September. The main reason is the lower tax on fuel.\nBerlin. Today about fifteen hundred police are on duty in Berlin. At two p.m., ten thousand people are expected at the Brandenburg Gate. A few shops have boarded up their windows. Police see no sign of serious violence.\nTanzania. The president opened the new Government City in Dodoma. She said Tanzania paid seven hundred billion shillings from its own funds. There are at least twenty-eight buildings and new roads.\nDar es Salaam. The government is thinking about tolls on roads and bridges. Some drivers say yes. Others say they already pay through fuel levies.\nArusha. Paul Chidale from Malawi won the Tanzania Open golf tournament. It ended on October twenty-fifth. This is a look back, not breaking news.\nThe sources are Deutsche Welle, rbb24 and The Citizen.\nToday's German sentence: Wie viel kostet das Brot? Zwei Euro. It means: How much does the bread cost? Two euros.\nFive words: der Preis, price. Der Euro, euro. Kosten, to cost. Teuer, expensive. Billig, cheap.\nGrammar: to ask a price, say Wie viel kostet das? The answer is money, for example Zwei Euro. Also: Das ist nicht teuer. Das ist kein Problem.\nReview: for clock times use um. Um vierzehn Uhr.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: Wie viel kostet das Brot? A: Zwei Euro. B: Um zwei Uhr. C: In Berlin. Pause and choose.\nThe answer is A, two euros. This exercise does not prove exam readiness.\n"
+      "src": "audio/news/2026-11-01-en.mp3",
+      "transcript": "News and learning for November first, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. On Saturday, young people marched in more than thirty cities. Organizers say one hundred thousand took part. The day was mostly peaceful. In the evening there was violence in several cities.\nBerlin. Berlin's Left party voted for coalition talks with the Greens and the SPD. Almost everyone voted yes. The talks should start on Monday.\nTanzania. In Mara Region, El Niño rains have caused a lot of damage. One child died. More than four hundred houses are damaged. People in valleys are told to move.\nDar es Salaam. The government is working on a new authority for the whole city. It would connect transport and planning between the districts. There is no date yet.\nArusha. Overnight, a fire destroyed ten rooms in a house. Nobody was hurt. A faulty gas cylinder may be the cause.\nThe sources are Deutsche Welle, rbb24 and The Citizen.\nToday's German sentence: Heute regnet es viel. It means: It rains a lot today.\nFive words: der Regen, rain. Regnen, to rain. Das Wetter, weather. Nass, wet. Viel, a lot.\nGrammar: in a German statement the verb is in second position. Heute regnet es viel. For weather, German uses es: Es regnet. Es schneit.\nReview: Um zehn Uhr regnet es. Heute gibt es keine Sonne.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: which sentence is correct? A: Heute es regnet viel. B: Heute regnet es viel. C: Heute viel regnet es. Pause and choose.\nThe answer is B, Heute regnet es viel. This exercise does not prove exam readiness.\n"
     }
   ]
 }
