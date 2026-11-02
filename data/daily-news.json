@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "Youth protests in Germany: calm day, violent night",
-        "sw": "Maandamano ya vijana Ujerumani: mchana shwari, usiku vurugu"
+        "en": "IG Metall widens warning strikes",
+        "sw": "IG Metall yaongeza migomo ya onyo"
       },
       "summary": {
-        "en": "Thousands of young people marched in over 30 German cities on Saturday. Organizers said 100,000 took part. The day was mostly peaceful, but in the evening there was violence in several cities.",
-        "sw": "Maelfu ya vijana waliandamana katika miji zaidi ya 30 ya Ujerumani Jumamosi. Waandaaji walisema watu 100,000 walishiriki. Mchana ulikuwa shwari kwa kiasi kikubwa, lakini jioni kulitokea vurugu katika miji kadhaa."
+        "en": "Warning strikes in the metal and electrical industry grow on Monday. About 3.7 million workers are in the pay talks. The union wants 5% more, the employers offered less.",
+        "sw": "Migomo ya onyo katika sekta ya chuma na umeme yaongezeka Jumatatu. Wafanyakazi takriban milioni 3.7 wako katika mazungumzo ya mishahara. Chama kinataka nyongeza ya 5%, waajiri wametoa kidogo zaidi."
       },
-      "sourceUrl": "https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694",
-      "publishedAt": "2026-11-01"
+      "sourceUrl": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html",
+      "publishedAt": "2026-11-02"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "Berlin: left party says yes to coalition talks",
-        "sw": "Berlin: chama cha Linke chakubali mazungumzo ya muungano"
+        "en": "Berlin: coalition talks start today",
+        "sw": "Berlin: mazungumzo ya muungano yaanza leo"
       },
       "summary": {
-        "en": "Berlin's Left party voted by a clear majority for coalition talks with the Greens and the SPD. The talks should start on Monday, six weeks after the election.",
-        "sw": "Chama cha Linke Berlin kimepiga kura kwa wingi mkubwa kukubali mazungumzo ya muungano na Greens na SPD. Mazungumzo yanatarajiwa kuanza Jumatatu, wiki sita baada ya uchaguzi."
+        "en": "The Left, the Greens and the SPD start talks on a new Berlin government on Monday morning. A deal could be ready by December, but that is not sure.",
+        "sw": "Chama cha Linke, Greens na SPD zinaanza mazungumzo ya serikali mpya ya Berlin Jumatatu asubuhi. Makubaliano yanaweza kuwa tayari ifikapo Desemba, lakini hilo si hakika."
       },
-      "sourceUrl": "https://www.rbb24.de/politik/beitrag/2026/10/linke-parteitag-elif-eralp-koalitionsverhandlungen.html",
-      "publishedAt": "2026-10-31"
+      "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html",
+      "publishedAt": "2026-11-02"
     },
     {
       "region": "Tanzania",
       "title": {
-        "en": "El Niño rains hit Mara Region",
-        "sw": "Mvua za El Niño zaathiri Mkoa wa Mara"
+        "en": "Kigoma: hailstorm damages 70 houses",
+        "sw": "Kigoma: mvua ya mawe yaharibu nyumba 70"
       },
       "summary": {
-        "en": "One child died and more than 400 houses were damaged in Bunda and Rorya after El Niño rains. The regional commissioner told people in valleys and other risky areas to move.",
-        "sw": "Mtoto mmoja alifariki na nyumba zaidi ya 400 ziliharibiwa Bunda na Rorya baada ya mvua za El Niño. Mkuu wa mkoa aliwaambia watu wanaoishi mabondeni na maeneo hatarishi wahame."
+        "en": "Strong wind and hail blew roofs off more than 70 houses and two churches in Kigoma-Ujiji. Two people were hurt and some families have no shelter.",
+        "sw": "Upepo mkali na mvua ya mawe viliezua mapaa ya nyumba zaidi ya 70 na makanisa mawili Kigoma-Ujiji. Watu wawili walijeruhiwa na baadhi ya familia hazina makazi."
       },
-      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/el-ni%C3%B1o-rains-kill-child-damage-over-400-houses-in-mara-5653822",
-      "publishedAt": "2026-10-31"
+      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/heavy-rains-leave-more-than-70-homes-in-ruins-families-homeless-in-kigoma-5654114",
+      "publishedAt": "2026-11-01"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "Dar es Salaam may get a Metropolitan Authority",
-        "sw": "Dar es Salaam huenda ikapata Mamlaka ya Jiji Kuu"
+        "en": "CAF happy with Dar stadium work",
+        "sw": "CAF yaridhika na kazi ya uwanja Dar"
       },
       "summary": {
-        "en": "A deputy minister told Parliament on 29 October that the government is merging two technical studies into one plan. The authority would coordinate planning and transport across city councils. No deadline was given.",
-        "sw": "Naibu waziri aliliambia Bunge tarehe 29 Oktoba kwamba serikali inaunganisha tafiti mbili za kitaalamu kuwa mpango mmoja. Mamlaka hiyo ingeratibu mipango na usafiri kati ya halmashauri za jiji. Hakuna tarehe ya mwisho iliyotolewa."
+        "en": "After a visit on 31 October, CAF said it is encouraged by the work at Benjamin Mkapa Stadium and training grounds. Tanzania, Kenya and Uganda host AFCON from 19 June 2027.",
+        "sw": "Baada ya ziara ya tarehe 31 Oktoba, CAF ilisema imetiwa moyo na kazi katika Uwanja wa Benjamin Mkapa na viwanja vya mazoezi. Tanzania, Kenya na Uganda zitaandaa AFCON kuanzia tarehe 19 Juni 2027."
       },
-      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/dar-es-salaam-moves-closer-to-metropolitan-authority-as-government-harmonises-plans-5650292",
-      "publishedAt": "2026-10-29"
+      "sourceUrl": "https://thecitizen.co.tz/tanzania/sports/football/afcon-2027-caf-satisfied-with-tanzania-s-infrastructure-progress-5654708",
+      "publishedAt": "2026-11-01"
     },
     {
       "region": "Arusha",
       "title": {
-        "en": "Fire destroys 10 rooms in Arusha",
-        "sw": "Moto waharibu vyumba 10 Arusha"
+        "en": "Arusha hosts 300 climate scientists",
+        "sw": "Arusha yaandaa wanasayansi 300 wa hali ya hewa"
       },
       "summary": {
-        "en": "A fire overnight destroyed 10 rooms of a house in Kati Ward, Arusha. No one was hurt. Firefighters stopped it from reaching a nearby building with more than 20 families. A faulty gas cylinder is the first suspected cause.",
-        "sw": "Moto wa usiku uliteketeza vyumba 10 vya nyumba moja Kata ya Kati, Arusha. Hakuna aliyejeruhiwa. Wazima moto walizuia moto usifike jengo jirani lenye familia zaidi ya 20. Mtungi wa gesi wenye hitilafu unatuhumiwa kuwa chanzo cha awali."
+        "en": "From 2 to 6 November, more than 300 scientists from 75 countries meet in Arusha for an IPCC working group. They prepare the next big climate report.",
+        "sw": "Kuanzia tarehe 2 hadi 6 Novemba, wanasayansi zaidi ya 300 kutoka nchi 75 wanakutana Arusha kwa kikundi cha kazi cha IPCC. Wanaandaa ripoti kubwa ijayo ya hali ya hewa."
       },
-      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/fire-destroys-10-rooms-in-arusha-house-5653514",
-      "publishedAt": "2026-10-31"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/arusha-to-host-300-climate-scientists-as-el-ni%C3%B1o-raises-concerns-over-extreme-weather-in-tanzania-5654576",
+      "publishedAt": "2026-11-01"
     }
   ],
   "lesson": {
-    "de": "Heute regnet es viel.",
-    "en": "It rains a lot today.",
-    "sw": "Leo mvua inanyesha sana.",
+    "de": "Wo ist die Konferenz? Die Konferenz ist in Arusha.",
+    "en": "Where is the conference? The conference is in Arusha.",
+    "sw": "Mkutano uko wapi? Mkutano uko Arusha.",
     "question": {
-      "en": "Which German sentence is correct?",
-      "sw": "Sentensi ipi ya Kijerumani ni sahihi?"
+      "en": "Which German question is correct?",
+      "sw": "Swali lipi la Kijerumani ni sahihi?"
     },
     "options": [
       {
-        "en": "Heute es regnet viel.",
-        "sw": "Heute es regnet viel."
+        "en": "Wo die Konferenz ist?",
+        "sw": "Wo die Konferenz ist?"
       },
       {
-        "en": "Heute regnet es viel. (It rains a lot today.)",
-        "sw": "Heute regnet es viel. (Leo mvua inanyesha sana.)"
+        "en": "Wo ist die Konferenz? (Where is the conference?)",
+        "sw": "Wo ist die Konferenz? (Mkutano uko wapi?)"
       },
       {
-        "en": "Heute viel regnet es.",
-        "sw": "Heute viel regnet es."
+        "en": "Ist wo die Konferenz?",
+        "sw": "Ist wo die Konferenz?"
       }
     ],
     "correctIndex": 1,
     "explanation": {
-      "en": "B: Heute regnet es viel. In a German statement the verb is always in position 2. Heute is position 1, so regnet comes next, then es. The other two put the verb in position 3. For weather, German uses es: Es regnet (it rains), es schneit (it snows). Five words: der Regen = rain; regnen = to rain; das Wetter = weather; nass = wet; viel = a lot. Review: um + Uhr (Um zehn Uhr regnet es.) and kein/keine (Heute gibt es keine Sonne.). Emin: Mvua inanyesha sana leo. = It rains a lot today. This practice does not prove exam readiness.",
-      "sw": "B: Heute regnet es viel. Katika sentensi ya kawaida ya Kijerumani, kitenzi huwa mahali pa pili. Heute ni mahali pa kwanza, kwa hiyo regnet inafuata, kisha es. Nyingine mbili zinaweka kitenzi mahali pa tatu. Kwa hali ya hewa Kijerumani hutumia es: Es regnet (mvua inanyesha), es schneit (theluji inanyesha). Maneno matano: der Regen = mvua; regnen = kunyesha (mvua); das Wetter = hali ya hewa; nass = -lowa; viel = nyingi/sana. Marudio: um + Uhr (Um zehn Uhr regnet es.) na kein/keine (Heute gibt es keine Sonne.). Emin: Mvua inanyesha sana leo. = It rains a lot today. Mazoezi haya hayathibitishi utayari wa mtihani."
+      "en": "B: Wo ist die Konferenz? In a W-question the question word is in position 1 and the verb is in position 2, the same verb rule as in Heute regnet es viel. Wo = where. The other two put the verb at the end or the question word in the wrong place. Five words: wo = where; die Konferenz = conference; beginnen = to begin; die Woche = week; bis = until. Example: Die Konferenz beginnt heute. Review: der Regen, regnen, viel. Emin: Mkutano unaanza leo. = The meeting starts today. This practice does not prove exam readiness.",
+      "sw": "B: Wo ist die Konferenz? Katika swali la W neno la swali liko mahali pa kwanza na kitenzi mahali pa pili, kanuni ileile ya kitenzi kama katika Heute regnet es viel. Wo = wapi. Nyingine mbili zinaweka kitenzi mwishoni au neno la swali mahali pasipofaa. Maneno matano: wo = wapi; die Konferenz = mkutano; beginnen = kuanza; die Woche = wiki; bis = hadi. Mfano: Die Konferenz beginnt heute. Marudio: der Regen, regnen, viel. Emin: Mkutano unaanza leo. = The meeting starts today. Mazoezi haya hayathibitishi utayari wa mtihani."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-11-01-de.mp3",
-      "transcript": "Nachrichten und Lernen. Erster November zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Am Samstag sind in mehr als dreißig Städten junge Menschen auf die Straße gegangen. Die Veranstalter sagen: Hunderttausend Menschen waren dabei. Am Tag war es meistens friedlich. Am Abend gab es in mehreren Städten Gewalt.\nBerlin. Die Linke in Berlin hat für Koalitionsgespräche mit Grünen und SPD gestimmt. Fast alle waren dafür. Die Gespräche sollen am Montag beginnen.\nTansania. In der Region Mara hat der Regen von El Niño viel kaputt gemacht. Ein Kind ist gestorben. Mehr als vierhundert Häuser sind beschädigt. Menschen in Tälern sollen umziehen.\nDaressalam. Die Regierung plant eine neue Behörde für die ganze Stadt. Sie soll Verkehr und Planung zwischen den Stadtteilen verbinden. Einen Termin gibt es noch nicht.\nArusha. In der Nacht hat ein Feuer zehn Zimmer in einem Haus zerstört. Niemand wurde verletzt. Vielleicht war eine kaputte Gasflasche der Grund.\nDie Quellen sind Deutsche Welle, rbb24 und The Citizen.\nUnsere Lektion: Heute regnet es viel.\nFünf Wörter: der Regen. Regnen. Das Wetter. Nass. Viel.\nGrammatik: In einem deutschen Satz steht das Verb an zweiter Stelle. Heute regnet es viel. Beim Wetter sagt man es: Es regnet. Es schneit.\nWiederholung: Um zehn Uhr regnet es. Heute gibt es keine Sonne.\nFrage: Welcher Satz ist richtig? A: Heute es regnet viel. B: Heute regnet es viel. C: Heute viel regnet es. Bitte stoppen und wählen.\nDie Antwort ist B. Heute regnet es viel.\n"
+      "src": "audio/news/2026-11-02-de.mp3",
+      "transcript": "Nachrichten und Lernen. Zweiter November zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Die IG Metall weitet ihre Warnstreiks aus. Es geht um rund drei Komma sieben Millionen Beschäftigte in der Metall- und Elektroindustrie. Die Gewerkschaft will fünf Prozent mehr Geld. Das Angebot der Arbeitgeber ist niedriger.\nBerlin. Heute beginnen die Koalitionsgespräche von Linke, Grünen und SPD. Vielleicht gibt es im Dezember einen Vertrag. Sicher ist das nicht.\nTansania. In Kigoma hat ein starker Sturm mit Hagel viele Dächer weggeweht. Mehr als siebzig Häuser und zwei Kirchen sind beschädigt. Zwei Menschen sind verletzt.\nDaressalam. Der Fußballverband CAF ist zufrieden mit der Arbeit am Benjamin-Mkapa-Stadion. Tansania, Kenia und Uganda sind im Juni zweitausendsiebenundzwanzig Gastgeber des Afrika-Cups.\nArusha. Diese Woche treffen sich dort mehr als dreihundert Klimaforscher aus fünfundsiebzig Ländern. Sie bereiten einen großen Bericht über das Klima vor.\nDie Quellen sind tagesschau und The Citizen.\nUnsere Lektion: Wo ist die Konferenz? Die Konferenz ist in Arusha.\nFünf Wörter: wo. Die Konferenz. Beginnen. Die Woche. Bis.\nGrammatik: Bei einer W-Frage steht das Fragewort an erster Stelle und das Verb an zweiter Stelle. Wo ist die Konferenz?\nWiederholung: Heute regnet es viel. Das Verb steht an zweiter Stelle.\nFrage: Welche Frage ist richtig? A: Wo die Konferenz ist? B: Wo ist die Konferenz? C: Ist wo die Konferenz? Bitte stoppen und wählen.\nDie Antwort ist B. Wo ist die Konferenz?\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-11-01-en.mp3",
-      "transcript": "News and learning for November first, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. On Saturday, young people marched in more than thirty cities. Organizers say one hundred thousand took part. The day was mostly peaceful. In the evening there was violence in several cities.\nBerlin. Berlin's Left party voted for coalition talks with the Greens and the SPD. Almost everyone voted yes. The talks should start on Monday.\nTanzania. In Mara Region, El Niño rains have caused a lot of damage. One child died. More than four hundred houses are damaged. People in valleys are told to move.\nDar es Salaam. The government is working on a new authority for the whole city. It would connect transport and planning between the districts. There is no date yet.\nArusha. Overnight, a fire destroyed ten rooms in a house. Nobody was hurt. A faulty gas cylinder may be the cause.\nThe sources are Deutsche Welle, rbb24 and The Citizen.\nToday's German sentence: Heute regnet es viel. It means: It rains a lot today.\nFive words: der Regen, rain. Regnen, to rain. Das Wetter, weather. Nass, wet. Viel, a lot.\nGrammar: in a German statement the verb is in second position. Heute regnet es viel. For weather, German uses es: Es regnet. Es schneit.\nReview: Um zehn Uhr regnet es. Heute gibt es keine Sonne.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: which sentence is correct? A: Heute es regnet viel. B: Heute regnet es viel. C: Heute viel regnet es. Pause and choose.\nThe answer is B, Heute regnet es viel. This exercise does not prove exam readiness.\n"
+      "src": "audio/news/2026-11-02-en.mp3",
+      "transcript": "News and learning for November second, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. The union IG Metall is widening its warning strikes. About three point seven million workers in the metal and electrical industry are in the pay talks. The union wants five percent more. The employers offered less.\nBerlin. Today the coalition talks of the Left, the Greens and the SPD begin. A deal could come in December. That is not sure.\nTanzania. In Kigoma, a strong storm with hail blew off many roofs. More than seventy houses and two churches are damaged. Two people are hurt.\nDar es Salaam. The football body CAF is happy with the work at Benjamin Mkapa Stadium. Tanzania, Kenya and Uganda host the Africa Cup of Nations in June twenty twenty-seven.\nArusha. This week more than three hundred climate scientists from seventy-five countries meet there. They prepare a big report on the climate.\nThe sources are tagesschau and The Citizen.\nToday's German sentence: Wo ist die Konferenz? Die Konferenz ist in Arusha. It means: Where is the conference? The conference is in Arusha.\nFive words: wo, where. Die Konferenz, conference. Beginnen, to begin. Die Woche, week. Bis, until.\nGrammar: in a W-question, the question word is first and the verb is second. Wo ist die Konferenz?\nReview: Heute regnet es viel. The verb is in second position.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: which question is correct? A: Wo die Konferenz ist? B: Wo ist die Konferenz? C: Ist wo die Konferenz? Pause and choose.\nThe answer is B, Wo ist die Konferenz? This exercise does not prove exam readiness.\n"
     }
   ]
 }
