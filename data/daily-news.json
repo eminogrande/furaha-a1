@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "IG Metall widens warning strikes",
-        "sw": "IG Metall yaongeza migomo ya onyo"
+        "en": "Germany wants to lead in AI",
+        "sw": "Ujerumani yataka kuongoza katika AI"
       },
       "summary": {
-        "en": "Warning strikes in the metal and electrical industry grow on Monday. About 3.7 million workers are in the pay talks. The union wants 5% more, the employers offered less.",
-        "sw": "Migomo ya onyo katika sekta ya chuma na umeme yaongezeka Jumatatu. Wafanyakazi takriban milioni 3.7 wako katika mazungumzo ya mishahara. Chama kinataka nyongeza ya 5%, waajiri wametoa kidogo zaidi."
+        "en": "The federal government wants to make Germany a leading AI nation, tagesschau reported on 3 November.",
+        "sw": "Serikali ya shirikisho inataka kuifanya Ujerumani nchi inayoongoza katika AI, tagesschau iliripoti tarehe 3 Novemba."
       },
-      "sourceUrl": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html",
-      "publishedAt": "2026-11-02"
+      "sourceUrl": "https://www.tagesschau.de/tagesschau/ts-81870.html",
+      "publishedAt": "2026-11-03"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "Berlin: coalition talks start today",
-        "sw": "Berlin: mazungumzo ya muungano yaanza leo"
+        "en": "Berlin: coalition talks go on",
+        "sw": "Berlin: mazungumzo ya muungano yaendelea"
       },
       "summary": {
-        "en": "The Left, the Greens and the SPD start talks on a new Berlin government on Monday morning. A deal could be ready by December, but that is not sure.",
-        "sw": "Chama cha Linke, Greens na SPD zinaanza mazungumzo ya serikali mpya ya Berlin Jumatatu asubuhi. Makubaliano yanaweza kuwa tayari ifikapo Desemba, lakini hilo si hakika."
+        "en": "After the start, the Left, Greens and SPD want to continue quickly. Left leader Eralp spoke of very good talks, mainly about the state budget.",
+        "sw": "Baada ya kuanza, Linke, Greens na SPD wanataka kuendelea haraka. Kiongozi wa Linke Eralp alisema mazungumzo yalikuwa mazuri sana, hasa kuhusu bajeti ya jimbo."
       },
-      "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html",
-      "publishedAt": "2026-11-02"
+      "sourceUrl": "https://www.deutschlandfunk.de/nachrichten-index-40544.html",
+      "publishedAt": "2026-11-03"
     },
     {
       "region": "Tanzania",
       "title": {
-        "en": "Kigoma: hailstorm damages 70 houses",
-        "sw": "Kigoma: mvua ya mawe yaharibu nyumba 70"
+        "en": "Tanzania promises more teachers",
+        "sw": "Tanzania yaahidi walimu zaidi"
       },
       "summary": {
-        "en": "Strong wind and hail blew roofs off more than 70 houses and two churches in Kigoma-Ujiji. Two people were hurt and some families have no shelter.",
-        "sw": "Upepo mkali na mvua ya mawe viliezua mapaa ya nyumba zaidi ya 70 na makanisa mawili Kigoma-Ujiji. Watu wawili walijeruhiwa na baadhi ya familia hazina makazi."
+        "en": "The government will hire more teachers in 2026/27. The shortage of science teachers is over 33 percent, and graduates who waited longest come first.",
+        "sw": "Serikali itaajiri walimu zaidi mwaka 2026/27. Upungufu wa walimu wa sayansi ni zaidi ya asilimia 33, na wahitimu waliosubiri muda mrefu zaidi watapewa kipaumbele."
       },
-      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/heavy-rains-leave-more-than-70-homes-in-ruins-families-homeless-in-kigoma-5654114",
-      "publishedAt": "2026-11-01"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-promises-more-teaching-jobs-prioritises-long-waiting-graduates-5655828",
+      "publishedAt": "2026-11-02"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "CAF happy with Dar stadium work",
-        "sw": "CAF yaridhika na kazi ya uwanja Dar"
+        "en": "Dar: debate on small traders",
+        "sw": "Dar: mjadala kuhusu wafanyabiashara wadogo"
       },
       "summary": {
-        "en": "After a visit on 31 October, CAF said it is encouraged by the work at Benjamin Mkapa Stadium and training grounds. Tanzania, Kenya and Uganda host AFCON from 19 June 2027.",
-        "sw": "Baada ya ziara ya tarehe 31 Oktoba, CAF ilisema imetiwa moyo na kazi katika Uwanja wa Benjamin Mkapa na viwanja vya mazoezi. Tanzania, Kenya na Uganda zitaandaa AFCON kuanzia tarehe 19 Juni 2027."
+        "en": "Scholars at the University of Dar es Salaam worry that Kariakoo street traders may lose income. Traders were told on 24 September to move into shops or set areas.",
+        "sw": "Wasomi wa Chuo Kikuu cha Dar es Salaam wana wasiwasi kwamba wafanyabiashara wa barabarani Kariakoo wanaweza kupoteza kipato. Walielezwa tarehe 24 Septemba kuhamia maduka au maeneo maalum."
       },
-      "sourceUrl": "https://thecitizen.co.tz/tanzania/sports/football/afcon-2027-caf-satisfied-with-tanzania-s-infrastructure-progress-5654708",
-      "publishedAt": "2026-11-01"
+      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/dar-s-modernisation-raises-concerns-over-livelihoods-5654966",
+      "publishedAt": "2026-11-02"
     },
     {
       "region": "Arusha",
       "title": {
-        "en": "Arusha hosts 300 climate scientists",
-        "sw": "Arusha yaandaa wanasayansi 300 wa hali ya hewa"
+        "en": "Arusha: climate scientists meet",
+        "sw": "Arusha: wanasayansi wa hali ya hewa wakutana"
       },
       "summary": {
-        "en": "From 2 to 6 November, more than 300 scientists from 75 countries meet in Arusha for an IPCC working group. They prepare the next big climate report.",
-        "sw": "Kuanzia tarehe 2 hadi 6 Novemba, wanasayansi zaidi ya 300 kutoka nchi 75 wanakutana Arusha kwa kikundi cha kazi cha IPCC. Wanaandaa ripoti kubwa ijayo ya hali ya hewa."
+        "en": "About 300 scientists from 75 countries opened an IPCC meeting in Arusha on Monday. It runs until 6 November and helps prepare the next big climate report.",
+        "sw": "Wanasayansi takriban 300 kutoka nchi 75 walifungua mkutano wa IPCC Arusha Jumatatu. Unaendelea hadi tarehe 6 Novemba na unasaidia kuandaa ripoti kubwa ijayo ya hali ya hewa."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/arusha-to-host-300-climate-scientists-as-el-ni%C3%B1o-raises-concerns-over-extreme-weather-in-tanzania-5654576",
-      "publishedAt": "2026-11-01"
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/scientists-urged-to-unite-efforts-to-tackle-climate-change-5655846",
+      "publishedAt": "2026-11-02"
     }
   ],
   "lesson": {
-    "de": "Wo ist die Konferenz? Die Konferenz ist in Arusha.",
-    "en": "Where is the conference? The conference is in Arusha.",
-    "sw": "Mkutano uko wapi? Mkutano uko Arusha.",
+    "de": "Die Regierung will mehr Lehrer einstellen.",
+    "en": "The government wants to hire more teachers.",
+    "sw": "Serikali inataka kuajiri walimu zaidi.",
     "question": {
-      "en": "Which German question is correct?",
-      "sw": "Swali lipi la Kijerumani ni sahihi?"
+      "en": "Which German sentence is correct?",
+      "sw": "Sentensi ipi ya Kijerumani ni sahihi?"
     },
     "options": [
       {
-        "en": "Wo die Konferenz ist?",
-        "sw": "Wo die Konferenz ist?"
+        "en": "Die Regierung will einstellen mehr Lehrer.",
+        "sw": "Die Regierung will einstellen mehr Lehrer."
       },
       {
-        "en": "Wo ist die Konferenz? (Where is the conference?)",
-        "sw": "Wo ist die Konferenz? (Mkutano uko wapi?)"
+        "en": "Die Regierung will mehr Lehrer einstellen. (The government wants to hire more teachers.)",
+        "sw": "Die Regierung will mehr Lehrer einstellen. (Serikali inataka kuajiri walimu zaidi.)"
       },
       {
-        "en": "Ist wo die Konferenz?",
-        "sw": "Ist wo die Konferenz?"
+        "en": "Die Regierung mehr Lehrer will einstellen.",
+        "sw": "Die Regierung mehr Lehrer will einstellen."
       }
     ],
     "correctIndex": 1,
     "explanation": {
-      "en": "B: Wo ist die Konferenz? In a W-question the question word is in position 1 and the verb is in position 2, the same verb rule as in Heute regnet es viel. Wo = where. The other two put the verb at the end or the question word in the wrong place. Five words: wo = where; die Konferenz = conference; beginnen = to begin; die Woche = week; bis = until. Example: Die Konferenz beginnt heute. Review: der Regen, regnen, viel. Emin: Mkutano unaanza leo. = The meeting starts today. This practice does not prove exam readiness.",
-      "sw": "B: Wo ist die Konferenz? Katika swali la W neno la swali liko mahali pa kwanza na kitenzi mahali pa pili, kanuni ileile ya kitenzi kama katika Heute regnet es viel. Wo = wapi. Nyingine mbili zinaweka kitenzi mwishoni au neno la swali mahali pasipofaa. Maneno matano: wo = wapi; die Konferenz = mkutano; beginnen = kuanza; die Woche = wiki; bis = hadi. Mfano: Die Konferenz beginnt heute. Marudio: der Regen, regnen, viel. Emin: Mkutano unaanza leo. = The meeting starts today. Mazoezi haya hayathibitishi utayari wa mtihani."
+      "en": "B: Die Regierung will mehr Lehrer einstellen. With a modal verb like wollen, the modal is in position 2 and the second verb goes to the end in its basic form. Same verb-second rule as in Wo ist die Konferenz? Five words: der Lehrer = teacher; die Regierung = government; einstellen = to hire; mehr = more; die Schule = school. Review: wo, die Konferenz. Emin: Serikali inataka kuajiri walimu zaidi. = The government wants to hire more teachers. This practice does not prove exam readiness.",
+      "sw": "B: Die Regierung will mehr Lehrer einstellen. Kitenzi cha kusaidia kama wollen kiko mahali pa pili na kitenzi cha pili kinaenda mwishoni katika umbo la msingi. Ni kanuni ileile ya kitenzi mahali pa pili kama katika Wo ist die Konferenz? Maneno matano: der Lehrer = mwalimu; die Regierung = serikali; einstellen = kuajiri; mehr = zaidi; die Schule = shule. Marudio: wo, die Konferenz. Emin: Serikali inataka kuajiri walimu zaidi. = The government wants to hire more teachers. Mazoezi haya hayathibitishi utayari wa mtihani."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-11-02-de.mp3",
-      "transcript": "Nachrichten und Lernen. Zweiter November zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Die IG Metall weitet ihre Warnstreiks aus. Es geht um rund drei Komma sieben Millionen Beschäftigte in der Metall- und Elektroindustrie. Die Gewerkschaft will fünf Prozent mehr Geld. Das Angebot der Arbeitgeber ist niedriger.\nBerlin. Heute beginnen die Koalitionsgespräche von Linke, Grünen und SPD. Vielleicht gibt es im Dezember einen Vertrag. Sicher ist das nicht.\nTansania. In Kigoma hat ein starker Sturm mit Hagel viele Dächer weggeweht. Mehr als siebzig Häuser und zwei Kirchen sind beschädigt. Zwei Menschen sind verletzt.\nDaressalam. Der Fußballverband CAF ist zufrieden mit der Arbeit am Benjamin-Mkapa-Stadion. Tansania, Kenia und Uganda sind im Juni zweitausendsiebenundzwanzig Gastgeber des Afrika-Cups.\nArusha. Diese Woche treffen sich dort mehr als dreihundert Klimaforscher aus fünfundsiebzig Ländern. Sie bereiten einen großen Bericht über das Klima vor.\nDie Quellen sind tagesschau und The Citizen.\nUnsere Lektion: Wo ist die Konferenz? Die Konferenz ist in Arusha.\nFünf Wörter: wo. Die Konferenz. Beginnen. Die Woche. Bis.\nGrammatik: Bei einer W-Frage steht das Fragewort an erster Stelle und das Verb an zweiter Stelle. Wo ist die Konferenz?\nWiederholung: Heute regnet es viel. Das Verb steht an zweiter Stelle.\nFrage: Welche Frage ist richtig? A: Wo die Konferenz ist? B: Wo ist die Konferenz? C: Ist wo die Konferenz? Bitte stoppen und wählen.\nDie Antwort ist B. Wo ist die Konferenz?\n"
+      "src": "audio/news/2026-11-03-de.mp3",
+      "transcript": "Nachrichten und Lernen. Dritter November zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Die Bundesregierung will Deutschland zu einer führenden Nation für Künstliche Intelligenz machen.\nBerlin. Linke, Grüne und SPD setzen ihre Koalitionsgespräche fort. Die Linke-Chefin Eralp sagt, die Beratungen waren sehr gut. Es ging vor allem um den Landeshaushalt.\nTansania. Die Regierung will mehr Lehrer einstellen. Bei den Naturwissenschaften fehlen mehr als dreiunddreißig Prozent der Lehrer.\nDaressalam. Forscher der Universität machen sich Sorgen um kleine Händler in Kariakoo. Sie sollen in Läden oder feste Handelsplätze umziehen.\nArusha. Rund dreihundert Forscher aus fünfundsiebzig Ländern treffen sich bis zum sechsten November. Sie arbeiten an einem großen Klimabericht.\nDie Quellen sind tagesschau, Deutschlandfunk und The Citizen.\nUnsere Lektion: Die Regierung will mehr Lehrer einstellen.\nFünf Wörter: der Lehrer. Die Regierung. Einstellen. Mehr. Die Schule.\nGrammatik: Bei wollen steht wollen an zweiter Stelle. Das zweite Verb steht am Ende: einstellen.\nWiederholung: Wo ist die Konferenz? Das Verb steht an zweiter Stelle.\nFrage: Welcher Satz ist richtig? A: Die Regierung will einstellen mehr Lehrer. B: Die Regierung will mehr Lehrer einstellen. C: Die Regierung mehr Lehrer will einstellen. Bitte stoppen und wählen.\nDie Antwort ist B. Die Regierung will mehr Lehrer einstellen.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-11-02-en.mp3",
-      "transcript": "News and learning for November second, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. The union IG Metall is widening its warning strikes. About three point seven million workers in the metal and electrical industry are in the pay talks. The union wants five percent more. The employers offered less.\nBerlin. Today the coalition talks of the Left, the Greens and the SPD begin. A deal could come in December. That is not sure.\nTanzania. In Kigoma, a strong storm with hail blew off many roofs. More than seventy houses and two churches are damaged. Two people are hurt.\nDar es Salaam. The football body CAF is happy with the work at Benjamin Mkapa Stadium. Tanzania, Kenya and Uganda host the Africa Cup of Nations in June twenty twenty-seven.\nArusha. This week more than three hundred climate scientists from seventy-five countries meet there. They prepare a big report on the climate.\nThe sources are tagesschau and The Citizen.\nToday's German sentence: Wo ist die Konferenz? Die Konferenz ist in Arusha. It means: Where is the conference? The conference is in Arusha.\nFive words: wo, where. Die Konferenz, conference. Beginnen, to begin. Die Woche, week. Bis, until.\nGrammar: in a W-question, the question word is first and the verb is second. Wo ist die Konferenz?\nReview: Heute regnet es viel. The verb is in second position.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: which question is correct? A: Wo die Konferenz ist? B: Wo ist die Konferenz? C: Ist wo die Konferenz? Pause and choose.\nThe answer is B, Wo ist die Konferenz? This exercise does not prove exam readiness.\n"
+      "src": "audio/news/2026-11-03-en.mp3",
+      "transcript": "News and learning for November third, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. The federal government wants to make Germany a leading nation in artificial intelligence.\nBerlin. The Left, the Greens and the SPD continue their coalition talks. Left leader Eralp says the talks were very good. They were mainly about the state budget.\nTanzania. The government wants to hire more teachers. Over thirty-three percent of science teachers are missing.\nDar es Salaam. Scholars at the university worry about small traders in Kariakoo. They are told to move into shops or set trading areas.\nArusha. About three hundred scientists from seventy-five countries meet until November sixth. They work on a big climate report.\nThe sources are tagesschau, Deutschlandfunk and The Citizen.\nToday's German sentence: Die Regierung will mehr Lehrer einstellen. It means: The government wants to hire more teachers.\nFive words: der Lehrer, teacher. Die Regierung, government. Einstellen, to hire. Mehr, more. Die Schule, school.\nGrammar: with wollen, the verb wollen is in second position. The second verb goes to the end: einstellen.\nReview: Wo ist die Konferenz? The verb is in second position.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: which sentence is correct? A: Die Regierung will einstellen mehr Lehrer. B: Die Regierung will mehr Lehrer einstellen. C: Die Regierung mehr Lehrer will einstellen. Pause and choose.\nThe answer is B, Die Regierung will mehr Lehrer einstellen. This exercise does not prove exam readiness.\n"
     }
   ]
 }
