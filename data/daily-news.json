@@ -1,110 +1,97 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "items": [
     {
       "region": "Germany",
       "title": {
-        "en": "Germany wants to lead in AI",
-        "sw": "Ujerumani yataka kuongoza katika AI"
+        "en": "Merz promises Ukraine winter help",
+        "sw": "Merz aahidi Ukraine msaada wa baridi"
       },
       "summary": {
-        "en": "The federal government wants to make Germany a leading AI nation, tagesschau reported on 3 November.",
-        "sw": "Serikali ya shirikisho inataka kuifanya Ujerumani nchi inayoongoza katika AI, tagesschau iliripoti tarehe 3 Novemba."
+        "en": "Chancellor Merz met Ukraine's president Zelensky in Berlin on 3 November and promised more winter help, but asked European partners to do more too.",
+        "sw": "Kansela Merz alikutana na rais wa Ukraine Zelensky Berlin tarehe 3 Novemba na kuahidi msaada zaidi wa majira ya baridi, lakini aliomba washirika wa Ulaya nao wafanye zaidi."
       },
-      "sourceUrl": "https://www.tagesschau.de/tagesschau/ts-81870.html",
+      "sourceUrl": "https://www.tagesschau.de/inland/regional/berlin/rbb-berlin-absperrungen-wegen-sicherheitskonferenz-am-dienstag-100.html",
       "publishedAt": "2026-11-03"
     },
     {
       "region": "Berlin",
       "title": {
-        "en": "Berlin: coalition talks go on",
-        "sw": "Berlin: mazungumzo ya muungano yaendelea"
+        "en": "Berlin: security conference closes roads",
+        "sw": "Berlin: mkutano wa usalama wafunga barabara"
       },
       "summary": {
-        "en": "After the start, the Left, Greens and SPD want to continue quickly. Left leader Eralp spoke of very good talks, mainly about the state budget.",
-        "sw": "Baada ya kuanza, Linke, Greens na SPD wanataka kuendelea haraka. Kiongozi wa Linke Eralp alisema mazungumzo yalikuwa mazuri sana, hasa kuhusu bajeti ya jimbo."
+        "en": "A two-day security conference brought road closures and about 3,400 police officers. Some U-Bahn and S-Bahn lines were limited; more limits are expected on Wednesday.",
+        "sw": "Mkutano wa usalama wa siku mbili ulileta kufungwa kwa barabara na polisi takriban 3,400. Baadhi ya njia za U-Bahn na S-Bahn zilipunguzwa; vikwazo zaidi vinatarajiwa Jumatano."
       },
-      "sourceUrl": "https://www.deutschlandfunk.de/nachrichten-index-40544.html",
+      "sourceUrl": "https://www.berlin.de/en/news/10734473-5559700-security-conference-major-police-operati.en.html",
       "publishedAt": "2026-11-03"
-    },
-    {
-      "region": "Tanzania",
-      "title": {
-        "en": "Tanzania promises more teachers",
-        "sw": "Tanzania yaahidi walimu zaidi"
-      },
-      "summary": {
-        "en": "The government will hire more teachers in 2026/27. The shortage of science teachers is over 33 percent, and graduates who waited longest come first.",
-        "sw": "Serikali itaajiri walimu zaidi mwaka 2026/27. Upungufu wa walimu wa sayansi ni zaidi ya asilimia 33, na wahitimu waliosubiri muda mrefu zaidi watapewa kipaumbele."
-      },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-promises-more-teaching-jobs-prioritises-long-waiting-graduates-5655828",
-      "publishedAt": "2026-11-02"
     },
     {
       "region": "Dar es Salaam",
       "title": {
-        "en": "Dar: debate on small traders",
-        "sw": "Dar: mjadala kuhusu wafanyabiashara wadogo"
+        "en": "Dar: MPs worry about lost water",
+        "sw": "Dar: wabunge wana wasiwasi kuhusu maji yanayopotea"
       },
       "summary": {
-        "en": "Scholars at the University of Dar es Salaam worry that Kariakoo street traders may lose income. Traders were told on 24 September to move into shops or set areas.",
-        "sw": "Wasomi wa Chuo Kikuu cha Dar es Salaam wana wasiwasi kwamba wafanyabiashara wa barabarani Kariakoo wanaweza kupoteza kipato. Walielezwa tarehe 24 Septemba kuhamia maduka au maeneo maalum."
+        "en": "In Parliament on 2 November, an MP said Dar es Salaam loses 48 to 50 percent of its water before it reaches customers. He asked for the Kidunda Dam to be finished quickly.",
+        "sw": "Bungeni tarehe 2 Novemba, mbunge alisema Dar es Salaam hupoteza asilimia 48 hadi 50 ya maji kabla hayajafika kwa wateja. Aliomba Bwawa la Kidunda likamilishwe haraka."
       },
-      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/dar-s-modernisation-raises-concerns-over-livelihoods-5654966",
+      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-lawmakers-press-government-over-water-losses-shortages-in-major-cities-5656678",
       "publishedAt": "2026-11-02"
     },
     {
       "region": "Arusha",
       "title": {
-        "en": "Arusha: climate scientists meet",
-        "sw": "Arusha: wanasayansi wa hali ya hewa wakutana"
+        "en": "Arusha Airport now open 24 hours",
+        "sw": "Uwanja wa ndege Arusha sasa wazi saa 24"
       },
       "summary": {
-        "en": "About 300 scientists from 75 countries opened an IPCC meeting in Arusha on Monday. It runs until 6 November and helps prepare the next big climate report.",
-        "sw": "Wanasayansi takriban 300 kutoka nchi 75 walifungua mkutano wa IPCC Arusha Jumatatu. Unaendelea hadi tarehe 6 Novemba na unasaidia kuandaa ripoti kubwa ijayo ya hali ya hewa."
+        "en": "After an 11 billion shilling upgrade, Arusha Airport can now handle flights day and night, seven days a week. The minister announced it on 2 November.",
+        "sw": "Baada ya maboresho ya shilingi bilioni 11, uwanja wa ndege Arusha sasa unaweza kupokea ndege mchana na usiku, siku saba kwa wiki. Waziri alitangaza tarehe 2 Novemba."
       },
-      "sourceUrl": "https://www.thecitizen.co.tz/tanzania/news/national/scientists-urged-to-unite-efforts-to-tackle-climate-change-5655846",
-      "publishedAt": "2026-11-02"
+      "sourceUrl": "https://thecitizen.co.tz/tanzania/news/national/arusha-airport-officially-begins-24-hour-operations--5656548",
+      "publishedAt": "2026-11-03"
     }
   ],
   "lesson": {
-    "de": "Die Regierung will mehr Lehrer einstellen.",
-    "en": "The government wants to hire more teachers.",
-    "sw": "Serikali inataka kuajiri walimu zaidi.",
+    "de": "Der Flughafen ist rund um die Uhr geöffnet.",
+    "en": "The airport is open around the clock.",
+    "sw": "Uwanja wa ndege uko wazi saa 24.",
     "question": {
       "en": "Which German sentence is correct?",
       "sw": "Sentensi ipi ya Kijerumani ni sahihi?"
     },
     "options": [
       {
-        "en": "Die Regierung will einstellen mehr Lehrer.",
-        "sw": "Die Regierung will einstellen mehr Lehrer."
+        "en": "Der Flughafen ist rund um die Uhr geöffnet. (The airport is open around the clock.)",
+        "sw": "Der Flughafen ist rund um die Uhr geöffnet. (Uwanja wa ndege uko wazi saa 24.)"
       },
       {
-        "en": "Die Regierung will mehr Lehrer einstellen. (The government wants to hire more teachers.)",
-        "sw": "Die Regierung will mehr Lehrer einstellen. (Serikali inataka kuajiri walimu zaidi.)"
+        "en": "Der Flughafen geöffnet ist rund um die Uhr.",
+        "sw": "Der Flughafen geöffnet ist rund um die Uhr."
       },
       {
-        "en": "Die Regierung mehr Lehrer will einstellen.",
-        "sw": "Die Regierung mehr Lehrer will einstellen."
+        "en": "Der Flughafen rund um die Uhr ist geöffnet.",
+        "sw": "Der Flughafen rund um die Uhr ist geöffnet."
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
-      "en": "B: Die Regierung will mehr Lehrer einstellen. With a modal verb like wollen, the modal is in position 2 and the second verb goes to the end in its basic form. Same verb-second rule as in Wo ist die Konferenz? Five words: der Lehrer = teacher; die Regierung = government; einstellen = to hire; mehr = more; die Schule = school. Review: wo, die Konferenz. Emin: Serikali inataka kuajiri walimu zaidi. = The government wants to hire more teachers. This practice does not prove exam readiness.",
-      "sw": "B: Die Regierung will mehr Lehrer einstellen. Kitenzi cha kusaidia kama wollen kiko mahali pa pili na kitenzi cha pili kinaenda mwishoni katika umbo la msingi. Ni kanuni ileile ya kitenzi mahali pa pili kama katika Wo ist die Konferenz? Maneno matano: der Lehrer = mwalimu; die Regierung = serikali; einstellen = kuajiri; mehr = zaidi; die Schule = shule. Marudio: wo, die Konferenz. Emin: Serikali inataka kuajiri walimu zaidi. = The government wants to hire more teachers. Mazoezi haya hayathibitishi utayari wa mtihani."
+      "en": "A: Der Flughafen ist rund um die Uhr geöffnet. The verb ist is in position 2 and geöffnet (open) stands at the end, like a describing word. rund um die Uhr = around the clock. Five words: der Flughafen = airport; geöffnet = open; die Uhr = clock; die Nacht = night; der Tag = day. Review: wollen (last lesson), the verb stays in position 2. Emin: Uwanja wa ndege uko wazi saa 24. = The airport is open 24 hours. This practice does not prove exam readiness.",
+      "sw": "A: Der Flughafen ist rund um die Uhr geöffnet. Kitenzi ist kiko mahali pa pili na geöffnet (wazi) kiko mwishoni. rund um die Uhr = saa 24. Maneno matano: der Flughafen = uwanja wa ndege; geöffnet = wazi; die Uhr = saa; die Nacht = usiku; der Tag = mchana/siku. Marudio: wollen (somo lililopita), kitenzi kinabaki mahali pa pili. Emin: Uwanja wa ndege uko wazi saa 24. = The airport is open 24 hours. Mazoezi haya hayathibitishi utayari wa mtihani."
     }
   },
   "audio": [
     {
       "language": "de",
-      "src": "audio/news/2026-11-03-de.mp3",
-      "transcript": "Nachrichten und Lernen. Dritter November zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Die Bundesregierung will Deutschland zu einer führenden Nation für Künstliche Intelligenz machen.\nBerlin. Linke, Grüne und SPD setzen ihre Koalitionsgespräche fort. Die Linke-Chefin Eralp sagt, die Beratungen waren sehr gut. Es ging vor allem um den Landeshaushalt.\nTansania. Die Regierung will mehr Lehrer einstellen. Bei den Naturwissenschaften fehlen mehr als dreiunddreißig Prozent der Lehrer.\nDaressalam. Forscher der Universität machen sich Sorgen um kleine Händler in Kariakoo. Sie sollen in Läden oder feste Handelsplätze umziehen.\nArusha. Rund dreihundert Forscher aus fünfundsiebzig Ländern treffen sich bis zum sechsten November. Sie arbeiten an einem großen Klimabericht.\nDie Quellen sind tagesschau, Deutschlandfunk und The Citizen.\nUnsere Lektion: Die Regierung will mehr Lehrer einstellen.\nFünf Wörter: der Lehrer. Die Regierung. Einstellen. Mehr. Die Schule.\nGrammatik: Bei wollen steht wollen an zweiter Stelle. Das zweite Verb steht am Ende: einstellen.\nWiederholung: Wo ist die Konferenz? Das Verb steht an zweiter Stelle.\nFrage: Welcher Satz ist richtig? A: Die Regierung will einstellen mehr Lehrer. B: Die Regierung will mehr Lehrer einstellen. C: Die Regierung mehr Lehrer will einstellen. Bitte stoppen und wählen.\nDie Antwort ist B. Die Regierung will mehr Lehrer einstellen.\n"
+      "src": "audio/news/2026-11-04-de.mp3",
+      "transcript": "Nachrichten und Lernen. Vierter November zweitausendsechsundzwanzig. Diese Aufnahme wurde mit künstlicher Intelligenz in der genehmigten Nuri-Stimme erstellt.\nDeutschland. Kanzler Merz hat den ukrainischen Präsidenten Selenskyj in Berlin getroffen. Er sagt der Ukraine mehr Hilfe für den Winter zu. Die europäischen Partner sollen auch mehr tun.\nBerlin. Eine zweitägige Sicherheitskonferenz bringt Sperrungen. Rund dreitausendvierhundert Polizisten sind im Einsatz. Auch am Mittwoch gibt es Einschränkungen.\nDaressalam. Ein Abgeordneter sagt: Die Stadt verliert fast die Hälfte ihres Wassers. Der Kidunda-Damm soll schnell fertig werden.\nArusha. Der Flughafen ist jetzt rund um die Uhr geöffnet. Er wurde für elf Milliarden Schilling modernisiert.\nDie Quellen sind tagesschau, Berlin.de und The Citizen.\nUnsere Lektion: Der Flughafen ist rund um die Uhr geöffnet.\nFünf Wörter: der Flughafen. Geöffnet. Die Uhr. Die Nacht. Der Tag.\nGrammatik: Das Verb ist steht an zweiter Stelle. Geöffnet steht am Ende.\nWiederholung: Die Regierung will mehr Lehrer einstellen. Das Verb steht an zweiter Stelle.\nFrage: Welcher Satz ist richtig? A: Der Flughafen ist rund um die Uhr geöffnet. B: Der Flughafen geöffnet ist rund um die Uhr. C: Der Flughafen rund um die Uhr ist geöffnet. Bitte stoppen und wählen.\nDie Antwort ist A. Der Flughafen ist rund um die Uhr geöffnet.\n"
     },
     {
       "language": "en",
-      "src": "audio/news/2026-11-03-en.mp3",
-      "transcript": "News and learning for November third, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. The federal government wants to make Germany a leading nation in artificial intelligence.\nBerlin. The Left, the Greens and the SPD continue their coalition talks. Left leader Eralp says the talks were very good. They were mainly about the state budget.\nTanzania. The government wants to hire more teachers. Over thirty-three percent of science teachers are missing.\nDar es Salaam. Scholars at the university worry about small traders in Kariakoo. They are told to move into shops or set trading areas.\nArusha. About three hundred scientists from seventy-five countries meet until November sixth. They work on a big climate report.\nThe sources are tagesschau, Deutschlandfunk and The Citizen.\nToday's German sentence: Die Regierung will mehr Lehrer einstellen. It means: The government wants to hire more teachers.\nFive words: der Lehrer, teacher. Die Regierung, government. Einstellen, to hire. Mehr, more. Die Schule, school.\nGrammar: with wollen, the verb wollen is in second position. The second verb goes to the end: einstellen.\nReview: Wo ist die Konferenz? The verb is in second position.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: which sentence is correct? A: Die Regierung will einstellen mehr Lehrer. B: Die Regierung will mehr Lehrer einstellen. C: Die Regierung mehr Lehrer will einstellen. Pause and choose.\nThe answer is B, Die Regierung will mehr Lehrer einstellen. This exercise does not prove exam readiness.\n"
+      "src": "audio/news/2026-11-04-en.mp3",
+      "transcript": "News and learning for November fourth, twenty twenty-six. This is AI narration in the approved Nuri voice.\nGermany. Chancellor Merz met Ukraine's president Zelensky in Berlin. He promised more winter help for Ukraine. European partners should do more too.\nBerlin. A two-day security conference brings road closures. About three thousand four hundred police officers are on duty. There are limits on Wednesday too.\nDar es Salaam. An MP says the city loses almost half of its water. The Kidunda Dam should be finished quickly.\nArusha. The airport is now open around the clock after an eleven billion shilling upgrade.\nThe sources are tagesschau, Berlin dot de and The Citizen.\nToday's German sentence: Der Flughafen ist rund um die Uhr geöffnet. It means: The airport is open around the clock.\nFive words: der Flughafen, airport. Geöffnet, open. Die Uhr, clock. Die Nacht, night. Der Tag, day.\nGrammar: the verb ist is in second position. Geöffnet goes at the end.\nReview: Die Regierung will mehr Lehrer einstellen. The verb stays in second position.\nEmin's Swahili phrase and translations are in the written lesson. This recording is English, not Swahili.\nQuestion: which sentence is correct? A: Der Flughafen ist rund um die Uhr geöffnet. B: Der Flughafen geöffnet ist rund um die Uhr. C: Der Flughafen rund um die Uhr ist geöffnet. Pause and choose.\nThe answer is A. This exercise does not prove exam readiness.\n"
     }
   ]
 }
